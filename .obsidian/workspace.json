@@ -167,9 +167,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ea7cdb115fa9bf85",
+            "type": "leaf",
+            "state": {
+              "type": "claude-code-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Claude Code"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -184,9 +194,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-claude-code:Claude Code": false
     }
   },
-  "active": "74ca243c16338f03",
+  "active": "ea7cdb115fa9bf85",
   "lastOpenFiles": []
 }
