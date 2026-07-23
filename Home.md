@@ -33,10 +33,22 @@ wishlists, and how Jarvis should plug into the rest of the second brain.
 ## The repo at a glance
 
 - `README.md` — setup, meta-commands, project layout
-- `ARCHITECTURE.md` — 8-component design, data flow, invariants, non-goals
-- `DECISIONS.md` — DEC-001 → DEC-013, full rationale (011 subprocess, 012 Fable 5, 013 briefing)
+- `ARCHITECTURE.md` — 9-component design, data flow, invariants, non-goals
+- `DECISIONS.md` — DEC-001 → DEC-024, full rationale (011 subprocess, 012
+  Fable 5, 016 subprocess client, 022 improve, 023 api client, 024 briefing)
 - `CLAUDE.md` — working rules for Claude Code sessions
+- `SELF-IMPROVEMENT.md` — the standing discover→evaluate→adopt→record loop
+- `blueprints/` — build-ready specs for cheap models (Blueprint Vault run)
 - `memory/identity.md` — injected every session; **still blank — fill this in**
 - `memory/facts.md` — written by `/remember`
 
-See **[[Summary]]** for current status.
+## This vault's map
+
+- **[[Jarvis Progress Guide]]** — full build status + roadmap to graduation
+- **[[jarvis-desk-app]]** — the native desktop workspace (Odysseus+ build,
+  2026-07-16): what shipped, what's verified, what's next
+- **[[perfect-assistant-goals-2026-07-15]]** — the four capability goals
+  (self-improvement scan, parity, voice, laptop), Odysseus plan, own-model path
+- **[[capabilities-roadmap]]** · **[[Summary]]** — earlier status notes
+- `Surveys/` — auto-written weekly setup surveys (answer them; they steer the loop)
+- `session-wraps/` — per-session status handoffs
