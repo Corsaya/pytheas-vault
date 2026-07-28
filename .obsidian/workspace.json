@@ -174,12 +174,22 @@
             "state": {
               "type": "claude-code-chat-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "claude-code-chat-view"
+            }
+          },
+          {
+            "id": "5d7b14dd1b9e91b6",
+            "type": "leaf",
+            "state": {
+              "type": "claude-code-chat-view",
+              "state": {},
               "icon": "message-square",
               "title": "Claude Code"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,6 +208,6 @@
       "obsidian-claude-code:Claude Code": false
     }
   },
-  "active": "ea7cdb115fa9bf85",
+  "active": "5d7b14dd1b9e91b6",
   "lastOpenFiles": []
 }
