@@ -1,8 +1,14 @@
 ---
-tags: [jarvis, roadmap, capabilities]
+tags: [jarvis, roadmap, capabilities, superseded]
 created: 2026-07-03
 reference: https://www.instagram.com/p/DY4o8dluXdK/ (lukebuildsai "Jarvis", 343K likes)
 ---
+
+> [!warning] Superseded 2026-07-29
+> This was the v1 CLI-era roadmap (terminal Jarvis, pre-rewrite). Pytheas
+> 2.0 already shipped most of what's listed below (voice, briefing, memory,
+> Obsidian retrieval). Current planning lives in
+> [[Development Roadmap]].
 
 # Jarvis — Capabilities: current, planned, and the gap to the viral builds
 
