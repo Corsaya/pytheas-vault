@@ -205,3 +205,42 @@ structure (subcategory folders, `Prompts/` logging, tag linking) to:
 `Home.md` stays the entry point; this only adds structure underneath.
 `personal-private/` excluded (AI writes blocked there except Health).
 Not started — sequencing this after Atlas + SAT track, per above.
+
+## Vault reshuffle (decided 2026-08-02, not yet executed)
+
+Donovan's target end-state for the whole vault set — **planning only,
+nothing moved yet** (this is file moves/deletes across multiple vaults,
+needs its own careful pass, not a side effect of a chat message):
+
+- **`learning/`** becomes the Courses home — school work *and* other
+  learning/side-projects live here, integrated with the Courses feature
+  (see workstream 6 above).
+- **`finance/`** — all money-related record-keeping. Also absorbs
+  whatever's salvageable from `personal/Work` (per "work stuff can be
+  moved to finance").
+- **`card-flip/`** — status change: the card-flipping operation is
+  "essentially ended." Vault stays as historical record, not an active-ops
+  vault going forward — revisit whether it still needs its own top-level
+  slot or folds into `finance/` as an archive.
+- **`personal/` (`personal-private/`) — mostly dissolved.** Donovan's
+  read: it "highkey doesn't need to exist" except `Journal/`. Plan:
+  - `Journal/` → **spun out into its own standalone vault** (soon, per
+    Donovan — not tonight). Keeps the strict AI-walled-off treatment,
+    just as its own vault instead of a folder inside `personal/`.
+  - `Health/` → **made independent** (own vault or clearly separated
+    section) — currently the one write-allowlisted exception buried
+    inside a vault that's otherwise going away; give it a real home.
+  - Everything else currently in `personal/` → moved into `learning/`
+    (general life/learning content) unless it's `Work/`-flagged, which
+    goes to `finance/` instead.
+  - Net effect: **no more general-purpose `personal/` vault.** What's left
+    (Journal, Health) either becomes its own vault or gets promoted out;
+    everything else lives under the AI/Pytheas-managed vault set
+    (`learning`, `finance`, `ai-improvement`, `pytheas`, etc.).
+- **Sequencing:** this is a structural vault migration (moves + deletes,
+  some across the private-wall boundary) — do this deliberately, vault by
+  vault, with Donovan reviewing each move, not in one sweep. Comes after
+  the Atlas fix + SAT track per the existing sequencing above; CLAUDE.md's
+  "Vault layout" section (still describing the current, soon-obsolete
+  structure) gets rewritten as the last step once the moves are done, not
+  before.

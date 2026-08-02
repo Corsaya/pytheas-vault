@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -209,5 +209,7 @@
     }
   },
   "active": "5d7b14dd1b9e91b6",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Ultimate Workspace Roadmap.md.tmp.169659.7eba1f269503"
+  ]
 }
