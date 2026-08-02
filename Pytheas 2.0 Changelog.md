@@ -1,8 +1,42 @@
-# Pytheas 2.0 — Changelog (2026-07-24)
+# Pytheas 2.0 — Changelog
 
-Everything shipped in the two build sessions of 2026-07-24. Code lives at
-`~/code/pytheas` (GitHub: `TheBiggerMann/pytheas`, renamed from
-`jarvis-desk` 2026-07-24).
+Newest first. Code lives at `~/code/pytheas` (GitHub: `TheBiggerMann/pytheas`,
+renamed from `jarvis-desk` 2026-07-24). Mirrors `~/code/pytheas/CHANGELOG.md`;
+kept here too so it's visible from the vault.
+
+## 2026-07-29 — Retire jarvis vault
+
+- Courses, `pytheas-memory.md`, Deep Research reports, and daily briefings
+  all used to write into the now-retired `jarvis/` vault — repointed to
+  write into this vault instead, so everything lands in one place.
+  Touched `briefing.py`, `courses.py`, `pytheas_mcp.py`, `research.py`,
+  `server.py`.
+- Added `~/code/pytheas/CHANGELOG.md` summarizing project history to date.
+
+## 2026-07-28 — Opus 5, conversation projects + imports, voice pack, atlas/usage fixes
+
+- **Models:** Opus 5 as the "opus" tier, explicit Opus 4.8 option, bare
+  "claude" entry dropped (default tier now settable to any tier); model
+  discovery automatically lists new Claude ids and rejects scrape junk
+  (e.g. `claude-fable-53`).
+- **Conversations:** group by model or project, project assignment,
+  project context index, `read_chat`/`list_chats` agent tools; importers
+  for Claude Code transcripts and claude.ai exports (private-vault
+  sessions are skipped on import).
+- **Voice:** every reply is spoken including errors, 5 local Piper
+  voices, default + per-family voice picker, ElevenLabs voice IDs
+  supported.
+- **Atlas:** stable cooling simulation (alpha decay, velocity caps,
+  cluster seeding) replacing the runaway-then-freeze loop.
+- **Usage:** gauge refetches on render and on window focus.
+- **Gallery:** folder is now configurable in Settings.
+- **Briefing:** pulls official X handles plus web-enabled synthesis so
+  it can't end up Reddit-only.
+- **Tests:** 42 passing.
+
+## 2026-07-24 — Pytheas 2.0: voice conversations, Courses (NotebookLM), model catalog, email/calendar
+
+Everything shipped in the two build sessions of 2026-07-24.
 
 ## Voice
 - **Conversation mode** (like the Claude app's voice beta): `ctrl+space`
