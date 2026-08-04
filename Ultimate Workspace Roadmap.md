@@ -452,6 +452,66 @@ duplicated in full here to keep this doc from bloating). Headline findings:
   call before any of these get prioritized/built — this audit is a map, not
   a build order.
 
+### 18. Odysseus deep architecture read (backend + frontend) — done 2026-08-04
+Follow-up to workstream 17's shallow tab-parity survey: two agents did a real
+full-file read of Odysseus's backend (`app.py`, `core/`, `src/`, `routes/`)
+and frontend (`static/index.html`, `app.js`, `chat.js`, `documentLibrary.js`,
+`theme.js`, `dragSort.js`, `style.css`) for design patterns worth stealing,
+not just a feature checklist. Full reports live in this session's transcript
+(ask Claude to regenerate if needed — not pasted in full here). Verdicts,
+condensed:
+
+**Adopt (cheap, scale-independent):**
+- Centralized `settings.py`-style module owning each JSON registry, with a
+  short TTL cache if read on a hot path, heavily-commented defaults
+  ("why," not just "what"), and per-key range-clamping on any settings
+  write endpoint.
+- Routes/handlers never touch a registry file directly — always through a
+  small manager function/class, mirroring Odysseus's
+  `core/session_manager.py` pattern.
+- `_hlSearch`-style search-highlighting (tokenize → longest-first sort →
+  wrap in `<mark>`) — directly portable, ~15 lines.
+- Document the CSS custom-property "theme contract" (which vars are
+  public/stable) at the top of `style.css`, same as Odysseus does.
+- SSE (`text/event-stream`) over plain `setInterval` polling for the
+  Courses job-status UI, if/when sub-second responsiveness matters —
+  Odysseus itself still polls for most non-chat features, so this isn't
+  urgent, just an available upgrade.
+- Stylistic: fail-closed security defaults + comments that explain *why* a
+  corner wasn't cut, not just what the code does.
+
+**Maybe / only if Pytheas grows into it:**
+- Split `sections.js` into per-tab ES modules once it outgrows one file.
+- Fernet-encrypt specific sensitive fields (API keys) within the existing
+  JSON registries, without adopting a full SQL database.
+- `dragSort.js` as a template if drag-to-reorder is ever wanted (Courses
+  list, sidebar).
+- Odysseus's "5 base colors → derive ~20 CSS vars via HSL math" theming
+  approach, if Pytheas ever wants more than light/dark — port the
+  derivation function only, not the full custom-theme-editor UI around it.
+- Read-only-vs-mutating tool classification (fail-closed default) for a
+  future Hermes "dry run" mode.
+
+**Explicitly not worth it at Pytheas's scale:**
+- SQLite/SQLAlchemy — Odysseus's data is genuinely relational (messages
+  belong to sessions belong to owners, versioned documents, scheduled-task
+  run history); Pytheas's registries are small and independent, flat JSON
+  stays correct.
+- Odysseus's full multi-user auth stack (bcrypt/TOTP/per-user privileges/
+  admin lockout prevention) — solves a multi-tenant problem Pytheas, as a
+  single-user local tool, doesn't have. This is the clearest case of "don't
+  chase parity here" from the whole audit.
+- Dynamic MCP-manager with runtime connect/OAuth/per-tool-toggle for
+  arbitrary third-party servers — Pytheas's tool list is small, fixed, and
+  first-party-trusted; none of that machinery is solving a problem Pytheas
+  actually has.
+- A shared searchable/sortable/bulk-select list component: genuinely worth
+  building for Pytheas's Library/Courses-style tabs, but note **Odysseus
+  never built one either** — it duplicates this logic per-tab (Documents/
+  Chats/Research/Skills/Notes/Gallery each hand-roll their own). Not a gap
+  to copy Odysseus's homework on; build it properly since Odysseus's own
+  code doesn't have a working example to copy.
+
 ## Vault reshuffle (decided 2026-08-02, not yet executed)
 
 Donovan's target end-state for the whole vault set — **planning only,
