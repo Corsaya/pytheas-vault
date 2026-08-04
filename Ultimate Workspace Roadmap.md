@@ -512,6 +512,49 @@ condensed:
   to copy Odysseus's homework on; build it properly since Odysseus's own
   code doesn't have a working example to copy.
 
+## North Star (set 2026-08-04, supersedes piecemeal workstream picking)
+
+Donovan, 2026-08-04, usage-crunch session: **"make Pytheas essentially
+Odysseus but with Obsidian brain connectivity, and the capability to record
+and learn off of everything done, said, and asked of from this point on."**
+This is now the target end-state — future sessions should pull the next
+task from *this*, not re-derive priorities from scratch.
+
+Two pillars:
+
+1. **Odysseus feature-parity, minus the parts workstream 18 flagged as wrong
+   scale.** Not "port everything" — the 2026-08-04 backend/frontend audits
+   (workstreams 17-18) are the actual map: build toward Odysseus's Library,
+   Notes, Email, Cookbook-equivalent depth; explicitly skip the multi-user
+   auth stack and dynamic third-party MCP-server manager (wrong problem for
+   a single-user local tool). Obsidian-native is the one place Pytheas
+   should *exceed* Odysseus, not match it — every feature should read/write
+   through the vault, not a parallel SQLite store, wherever that's the
+   natural fit (Odysseus's own hybrid of SQL-for-relational +
+   JSON-for-config is the model to adapt, with "the vault" standing in for
+   both where content is markdown-shaped).
+2. **Continuous record-and-learn, starting now, not just chat memory.**
+   Broader than the existing claude-mem session-memory pattern this Claude
+   Code environment already has — Donovan wants *Pytheas itself* to capture
+   everything done/said/asked through it (chats, voice, actions taken,
+   courses generated, briefings read) and actually learn from it, not just
+   log it. Candidate mechanism: workstream 13's memory-framework research
+   (Letta's core/archival/recall tiers, or Mem0/Cognee) layered on top of
+   workstream 2 (environment-context injection, not yet built) — a session
+   log alone isn't "learning," it needs to feed back into what Pytheas
+   knows about Donovan the way `identity.md`/environment-context was always
+   meant to. Not designed yet — next real build decision, once usage
+   resets: pick one memory framework (or a minimal custom version) and spec
+   what "recording everything" actually writes to and how it gets *used*
+   on a later turn, not just stored.
+
+**Status:** direction set, not built. This session hit its usage ceiling
+(97% of 5h) right after setting it — no implementation started against this
+north star yet. Next session: start with picking the memory mechanism for
+pillar 2 (it's the prerequisite the rest hangs off of, same logic as
+workstream 2 in `Development Roadmap.md`), then work down the workstream
+18 "adopt" list for pillar 1.
+
 ## Vault reshuffle (decided 2026-08-02, not yet executed)
 
 Donovan's target end-state for the whole vault set — **planning only,
