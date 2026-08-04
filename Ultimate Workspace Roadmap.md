@@ -350,6 +350,108 @@ structure (subcategory folders, `Prompts/` logging, tag linking) to:
 `personal-private/` excluded (AI writes blocked there except Health).
 Not started — sequencing this after Atlas + SAT track, per above.
 
+## 2026-08-04 session — SAT pause overridden, new workstreams added
+
+Donovan explicitly overrode the 2026-08-02 "SAT is sole focus until
+2026-08-22" pause for this session to work non-SAT roadmap items. SAT
+sequencing (workstream priority) is otherwise unchanged — this is a one-off
+override, not a reversal of the decision.
+
+### 12. Graphify — evaluated, not adopted for Atlas
+Investigated `github.com/Graphify-Labs/graphify` per Donovan's request.
+Verdict: **doesn't fit.** Graphify is a Python CLI/agent-skill that builds a
+knowledge graph *of a codebase* via tree-sitter AST parsing + Leiden
+clustering (functions, imports, schemas) — a different domain from Atlas,
+which graphs *Obsidian notes* by wikilink. The one transferable idea isn't
+from Graphify itself: it ships an interactive `graph.html` viewer, which is
+exactly what Atlas lacks (no pan/zoom — see workstream 1 below). Recommend
+pulling in a real JS graph-rendering library (d3-force, Cytoscape.js, or
+Sigma.js) for that piece instead of adopting Graphify. Separate, low-priority
+idea surfaced by the research: Graphify itself could later generate a
+dependency graph of the **Pytheas codebase** (a devtool, not a vault
+feature) — not scoped, flagging only. Note: a different, similarly-named
+`github.com/safishamsi/graphify` repo also exists — don't conflate the two if
+this comes up again.
+
+### 13. Token-saving / memory / performance research (feeds Pytheas + this Claude Code workflow)
+Research done 2026-08-04, both angles:
+- **For Pytheas's own memory:** Letta (formerly MemGPT, core/archival/recall
+  3-tier memory) and Mem0/Cognee/Graphiti evaluated as options if Pytheas
+  needs real persistent user-memory beyond flat context + vault retrieval.
+  Not started — worth a spike once workstream 2 (environment context
+  injection) exists, since they're complementary, not competing, layers.
+  Cheap win available now if/when Pytheas calls the Anthropic API directly:
+  native Claude prompt caching for stable context blocks (vault index, tool
+  catalog).
+- **For this Claude Code session:** claude-mem (already in use) still covers
+  cross-session memory; nothing found replaces it. Two narrow, complementary
+  tools worth a low-risk trial: **Headroom** (reversible tool-output
+  compression, claims 60–95% reduction — `github.com/chopratejas/headroom`)
+  and **Caveman** (terser agent responses, ~65% output reduction —
+  `github.com/JuliusBrussee/caveman`). Neither adopted yet — flagging for
+  Donovan to decide whether to try them.
+
+### 14. Voice/text chat save — fixed 2026-08-04
+Root cause from the 2026-08-02 live test (workstream 11): `handle_voice_text`
+in `server.py` only persisted a turn if a voice session had already been
+started via `POST /api/voice_session {action:"start"}`; if that call raced
+or was skipped, the turn ran ephemeral and silently vanished. Fix: if no
+session is active when a voice/text-command turn arrives, `server.py` now
+calls `voice_session_start()` itself before persisting — every turn always
+lands in chat history, no separate start call required. Applies to both
+`/api/voice` and `/api/text_command`.
+
+### 15. Gemini/NotebookLM course visibility — fixed 2026-08-04
+Root cause (workstream 6/priority 5): `courses.py` only tracked notebooks
+created through Pytheas's own "＋ New course" flow in its private registry
+(`~/.local/state/pytheas/courses.json`), never querying live NotebookLM
+state — so a notebook created via the raw CLI, the NotebookLM web UI, or
+directly through Gemini Notebook never appeared in the Courses tab. Fix:
+`courses.list_notebooklm()` (calls `notebooklm list --json`, diffs against
+known notebook IDs) + `courses.import_notebook()` back a new "⇩ Import from
+NotebookLM" button in the Courses tab (`static/sections.js`) that lists
+out-of-band notebooks and adopts one into the registry (pulls its existing
+sources via `notebooklm source list`). New `/api/courses` actions:
+`list_notebooklm`, `import`.
+
+### 16. Library tab — organization capabilities (partial, more scoped as workstream 17)
+Donovan: Library tab "only contains briefings" (actually briefings + research
+reports, but flat/unfiltered) — wants organization capability, "make it
+similar to Odysseus'". Odysseus-parity audit (workstream 17 below) mapped the
+full gap. Shipped 2026-08-04, scoped v1: `research.library()` now takes
+`search`/`kind`/`sort` params (name search, kind filter, recent/oldest/alpha
+sort), `GET /api/library` passes them through, and the Library tab UI
+(`static/sections.js`) gained search box + kind dropdown + sort dropdown.
+**Not done** (Odysseus has, Pytheas still doesn't): folders/collections,
+bulk select+archive+delete+export+clone, an "Archive" state, AI-assisted
+"Tidy" auto-cleanup, drag-to-reorder, import/create-from-Library, and
+Odysseus's 4-way split (Documents/Chats/Research/Archive) vs. Pytheas's flat
+2-kind (research/briefing) list. That's a genuinely bigger UI+backend project
+— queued as its own pass, not attempted in full today.
+
+### 17. Odysseus full function/settings parity audit — done 2026-08-04, gap list only
+Systematic pass through `~/code/odysseus` vs `~/code/pytheas` (workstream 10,
+previously flagged, never executed). Full tab-by-tab table and settings/perms
+comparison captured in this session's agent output (see
+`ai-improvement/` session notes or ask Pytheas/Claude to regenerate — not
+duplicated in full here to keep this doc from bloating). Headline findings:
+- **Biggest real gaps:** Library (see workstream 16), Email (Odysseus has a
+  full email *library* subsystem — inbox + compose + archive — Pytheas has
+  basic send/read only), Notes (`notes.js` far larger in Odysseus, richer
+  editor/org), Cookbook (Odysseus: scheduling/serving/diagnosis/hwfit —
+  Pytheas has no equivalent concept at all).
+- **Odysseus-only, no Pytheas surface at all:** Contacts, Skills admin tab,
+  Personal-docs tab, Backup tab, Copilot tab, HWFit, Webhooks.
+- **Structural difference, not a gap to close by default:** Odysseus is
+  multi-user with real auth/admin gating (13-tab settings modal, admin-only
+  tools/users/system tabs, per-account privilege review). Pytheas is
+  single-user/local-first by current design (`permissions.py` is a flat
+  capability-toggle list, no accounts). **Open decision, not yet made:**
+  does "full parity" mean adopting Odysseus's admin/multi-user model too, or
+  is that explicitly out of scope for a single-user tool? Needs Donovan's
+  call before any of these get prioritized/built — this audit is a map, not
+  a build order.
+
 ## Vault reshuffle (decided 2026-08-02, not yet executed)
 
 Donovan's target end-state for the whole vault set — **planning only,

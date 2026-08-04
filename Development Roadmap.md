@@ -61,6 +61,15 @@ are inspectable instead of an unreadable smear.
 **Effort:** small — one focused session, no backend changes, no new
 dependencies (still stdlib canvas, no d3/pixi).
 
+**2026-08-04 addendum:** evaluated `github.com/Graphify-Labs/graphify` as a
+possible base for this rebuild (Donovan's request). Doesn't fit — it's a
+Python codebase-analysis tool (tree-sitter + Leiden clustering over source
+code), not a note-graph renderer. If pan/zoom ends up wanting more than the
+hand-rolled canvas transform in the plan above, a real JS graph library
+(d3-force, Cytoscape.js, or Sigma.js) is the right escape hatch, not
+Graphify. See `Ultimate Workspace Roadmap.md` workstream 12 for the full
+writeup.
+
 ---
 
 ## 2. Environment context injection (not fine-tuning)
