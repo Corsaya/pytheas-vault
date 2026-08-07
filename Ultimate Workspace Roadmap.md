@@ -555,6 +555,171 @@ pillar 2 (it's the prerequisite the rest hangs off of, same logic as
 workstream 2 in `Development Roadmap.md`), then work down the workstream
 18 "adopt" list for pillar 1.
 
+## North Star expansion (2026-08-07) — life-improvement engine, not just an Odysseus clone
+
+Donovan, 2026-08-07, per
+[[../Prompts/2026-08-07 Mega Prompt — SAT Tutor Buildout + Life-Improvement North Star Expansion|the mega-prompt logged this session]]:
+the two pillars above (Odysseus parity + Obsidian brain, continuous
+record-and-learn) still hold, but the *purpose* they serve is bigger than
+"a good local Claude/Odysseus clone." Layering on top, not replacing:
+
+**Third pillar — Pytheas as a life-improvement engine.** Concretely, in
+Donovan's own words: make him smarter, help him "verse himself better,"
+help him identify and fix bad habits, help him make real money this year
+(college costs and beyond), act as a quality assistant for navigating his
+own computer, and — a standing, explicit top priority — **be a real tutor**,
+teaching him things directly rather than just doing tasks for him. First
+subject in line for that tutor role: **AI/software literacy** — tokens,
+models, how coding actually works, "essentially everything relating to the
+AIs and of the software" — ahead of other subject areas, because
+understanding the tool he's building is itself one of the goals (echoes the
+existing "How Pytheas Was Built" course concept in workstream 6, and the
+North Star's own long-term goal of being good enough that Donovan doesn't
+need to depend on paying for frontier access).
+
+This reframes workstream 6's Courses feature and the new SAT tutor work
+below (workstream 19) as **the first real instances of pillar 3**, not a
+side quest — the SAT diagnostic/tutor build is simultaneously "finish SAT
+prep" and "prototype what a Pytheas tutor mode looks like" for every other
+subject that comes after it (starting with AI/coding, per the stated
+priority above).
+
+**Sequencing:** SAT stays the sole active priority until 2026-08-22 per the
+hard deadline elsewhere in this doc — this expansion documents *where
+things go once that constraint lifts*, it does not override it. Workstream
+19 below is written the same way: content work (the 4 confirmed-gap
+lessons) is small enough to fit inside SAT prep time since it directly
+serves the test; the app-rebuild and general-tutor-mode pieces of
+workstream 19 wait for post-SAT, same as workstreams 1-4 and the North
+Star's own two pillars.
+
+### 19. SAT diagnostic app upgrade + general AI tutor mode (added 2026-08-07)
+
+Grew out of building and taking the first SAT diagnostic test
+(`Courses/SAT/SAT Diagnostic Test (2026-08-07).md` +
+`~/code/pytheas/static/sat-test.*`, a from-scratch Bluebook-style timed
+runner — modules, timer, mark-for-review, answer eliminator, basic
+built-in calculator with per-question usage tracking, review screen).
+First real attempt: 28/32 (87.5%). Post-test interview surfaced two
+confirmed content gaps (Advanced Math asymptote rules, Standard English
+Conventions subject-verb agreement with interrupting phrases), one process
+issue (Algebra: rushed, no scratch work — not a knowledge gap), and one
+minor flag (PSDA percent-of-a-number hesitation). Full breakdown and error
+log logged in the diagnostic doc itself.
+
+Donovan's four follow-up asks, to sequence rather than build all at once:
+
+1. **Content lessons on the confirmed gaps** — asymptotes, the
+   inequality-flip-on-negative rule, subject-verb agreement with
+   interrupting phrases, and a percentages refresher. Small, standalone,
+   no app changes needed. **In scope during active SAT prep** — directly
+   serves the 2026-08-22 deadline. **Done 2026-08-07:**
+   `Courses/SAT/Diagnostic Gap Lessons (2026-08-07).md` — all four lessons
+   plus a 12-question untimed retest. Retest not yet attempted.
+2. **Bluebook-parity app rebuild** — pixel/interaction-level match to the
+   real digital SAT interface: proper graphing calculator (current one is a
+   basic expression evaluator, not Desmos-equivalent), image/diagram
+   support in questions (current test is text-only), and a digital
+   scratch-paper/annotation tool (real Bluebook has one; directly relevant
+   given Q1's miss was traced to "no scratch work"). **Post-SAT** — this is
+   app engineering, not prep time.
+3. **Interactive tutoring chatbot mode** — step-by-step Socratic walkthrough
+   ("what's the next step," "do you know this," presenting an MC check)
+   instead of a static test-then-review flow. This is the first concrete
+   design for what a general Pytheas tutor mode looks like (pillar 3 above)
+   — build it once, generalize beyond SAT math/English to the AI/coding
+   tutor priority next. **Post-SAT**, and the one piece worth scoping
+   carefully before building since it's a new interaction pattern, not a
+   UI reskin.
+4. **A second, easier/untimed diagnostic** — different purpose than the
+   first one (which was deliberately timed and Bluebook-proportional to be
+   realistic). This one is a teaching tool, not an assessment — lower
+   pressure, meant to be worked through with help rather than cold. Depends
+   on #3 (the tutoring mode) to actually be useful as "easier," not just
+   "the same test with a longer clock."
+
+**Status:** roadmap entry only, nothing beyond #1's scope started. Revisit
+sequencing after 2026-08-22.
+
+### 20. Vault/repo restructure v2 + naming ("Chiron") + conversation archive (added 2026-08-07)
+
+**Explicitly deferred by Donovan** — "keep this in roadmap and construct one
+day." Nothing here is executed. This supersedes/extends the 2026-08-02 vault
+reshuffle below with more detail, and answers (partially) the open naming
+question from workstream 19's discussion.
+
+**What Donovan described, as close to verbatim structure as the raw prompt
+allows:**
+
+- **`finance`** — absorbs `Work` and `card-flip` as subfolders/content.
+  Matches the existing 2026-08-02 reshuffle plan below.
+- **`learning`** — absorbs `ai-improvement` as a subfolder.
+- **`pytheas` → renamed to `Chiron`**, own vault, connected to "the actual
+  chiron repo that exists in code."
+- **`life`** (final name — Donovan corrected mid-prompt from an initial
+  "journal") — the big personal vault: health, history, and project notes
+  for `agonizing-sentience` and `minecraft-event`.
+- **Privacy tiers stated:** `finance`, `learning`, and `life` are all
+  **private**. `pytheas` is the **only public** vault — changelogs,
+  additions, non-personal logs, "pretty much like the Odysseus repo" (i.e.
+  a public-facing project vault mirroring how Odysseus itself is structured
+  as an open project).
+- Also requested as part of this work: a **tagging taxonomy** to link files
+  across the new structure (including links to content that predates the
+  reorg) for Atlas to graph, and **organizing each vault's contents into
+  folders** as part of doing the move.
+
+**Open contradictions/ambiguities — flagging rather than silently resolving,
+since this determines actual file moves and a repo rename later:**
+
+1. **Chiron vs. Pytheas naming scope is internally inconsistent in the raw
+   prompt.** It says "pytheas renamed to Chiron, its own vault" and then two
+   sentences later says "**Pytheas** vault will exist both in learning and
+   will contain all personal and individual changes, while **pytheas** will
+   be the only public vault." Best-guess reading (NOT confirmed): the
+   private, personal-notes copy is `Chiron` (nested under `learning`), and
+   `pytheas` is kept as a separate, distinct **public-facing brand name**
+   for the open changelog vault — i.e., two different vaults with two
+   different names serving different audiences, not one renamed thing. This
+   needs a direct confirm/correct from Donovan before any folder gets moved.
+2. **Does the rename touch the actual code repo?** "Connected to the actual
+   chiron repo that exists in code" implies `~/code/pytheas` (and its GitHub
+   remote, currently `TheBiggerMann/pytheas`, private) becomes `chiron` —
+   a real rename, not just a vault-side label. That cascades into every
+   script, systemd/desktop-launcher reference, the vault's `code/` symlink,
+   and every existing roadmap doc that names `pytheas` — a genuinely large
+   migration, not a side effect of a vault move. Needs explicit go-ahead as
+   its own scoped task when this is actually executed.
+3. **`agonizing-sentience` can't simply become private inside `life`** — it
+   is explicitly a public, collaborative vault with a friend (per this
+   vault's CLAUDE.md). Only the existing private scratchpad
+   (`personal-private/agonizing-sentience-scratchpad/`) can move into
+   `life`; the actual collaborative vault has to stay separately
+   public/shared, or this breaks the collaboration.
+4. **Going public requires an actual action, not just a folder move** — both
+   `TheBiggerMann/pytheas` and `TheBiggerMann/pytheas-vault` GitHub repos
+   are currently **private** (checked 2026-08-07). Making `pytheas` "the
+   only public vault" means flipping repo visibility at execution time —
+   worth a deliberate go/no-go check then (public repos are discoverable,
+   forkable, and — for the code repo — would need a real secrets/config
+   audit first, e.g. no tokens or personal paths baked into committed
+   files).
+5. **Redundant with pillar 2 of the North Star** (continuous record-and-
+   learn) — the "tags for cross-vault linking + Atlas" ask here is the same
+   underlying need as the not-yet-built memory/learning mechanism from the
+   2026-08-04 North Star. Should probably be designed together, not twice.
+
+**Claude Code conversation archive** (the "verbatim record, incognito
+toggle, wipe safeword" request from earlier this session) — **fully
+specified, being built now, separately from the vault restructure above:**
+incognito toggle phrases "incognito mode on"/"incognito mode off" (default
+off), deletion safeword "wipe this", archive location `ai-improvement/`.
+Implementation as Claude Code hooks in `~/.claude/settings.json` (global,
+all projects) — in progress this session; see this session's own commit
+history / next session's continuation for build status, since hook payload
+schema was still being empirically verified (via a temporary debug hook) as
+of this entry.
+
 ## Vault reshuffle (decided 2026-08-02, not yet executed)
 
 Donovan's target end-state for the whole vault set — **planning only,
