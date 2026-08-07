@@ -1,7 +1,7 @@
 ---
 tags: [pytheas, sat, diagnostic, course]
 created: 2026-08-07
-status: draft — pending review
+status: completed 2026-08-07 — 28/32 (87.5%), graded and interviewed
 source: original questions, proportioned to official College Board domain weightings
 ---
 
@@ -388,56 +388,86 @@ Fill in as you grade. $N$ = questions in that domain here (not the real test's c
 
 | Domain | Weight (real test) | $N$ here | Correct | % |
 |---|---|---|---|---|
-| Algebra | 35% | 6 (Q1–6) | | |
-| Advanced Math | 35% | 6 (Q7–12) | | |
-| Problem-Solving & Data Analysis | 15% | 2 (Q13–14) | | |
-| Geometry & Trigonometry | 15% | 2 (Q15–16) | | |
-| Information and Ideas | 26% | 4 (Q17–20) | | |
-| Craft and Structure | 28% | 5 (Q21–25) | | |
-| Expression of Ideas | 20% | 3 (Q26–28) | | |
-| Standard English Conventions | 26% | 4 (Q29–32) | | |
+| Algebra | 35% | 6 (Q1–6) | 4 | 67% |
+| Advanced Math | 35% | 6 (Q7–12) | 5 | 83% |
+| Problem-Solving & Data Analysis | 15% | 2 (Q13–14) | 2 | 100% |
+| Geometry & Trigonometry | 15% | 2 (Q15–16) | 2 | 100% |
+| Information and Ideas | 26% | 4 (Q17–20) | 4 | 100% |
+| Craft and Structure | 28% | 5 (Q21–25) | 5 | 100% |
+| Expression of Ideas | 20% | 3 (Q26–28) | 3 | 100% |
+| Standard English Conventions | 26% | 4 (Q29–32) | 3 | 75% |
 
-**What to do with this:** compare against the priority order already in
-`SAT Diagnostic — Score History and Domain Analysis.md` (Advanced Math and Conventions were
-the two stable weak spots from the Dec/Mar official reports). If either of those two domains
-scores low again here, that's a second confirmation — highest-confidence target for the
-remaining 13 days. If a domain that was previously "volatile" (Algebra, Geometry/Trig, or any
-R&W domain besides Conventions) scores poorly here too, treat it as newly-confirmed rather
-than noise, given $N$ is small — a single miss is meaningful at this scale.
+**Overall: 28/32 (87.5%). Attempted 2026-08-07, timed, one sitting.**
 
-**Error log — fill in after grading:**
+**What actually happened (interview after grading, 2026-08-07):** two of the four misses were
+real content gaps, not execution noise — this matters because it shifts the priority order below.
+
+- **Algebra came in worse than the old official data predicted (67%, the low score of the whole
+  test)** — but both misses were confirmed as execution, not concept: Q1 was "rushed it, no
+  scratch work," Q6 was "forgot the rule" (inequality sign flip on divide-by-negative — a
+  specific, narrow rule, not general algebra weakness). Combined with a perfect run everywhere
+  else in Algebra (Q2–5), this reads as **timing pressure + missing scratch-paper workflow**,
+  not a knowledge gap — confirms the old diagnosis's "volatile = execution" theory, but the
+  fresh data says Algebra needs a scratch-work/pacing fix now, which the old doc didn't call out
+  as specifically as this.
+- **Advanced Math miss (Q12, asymptotes) — "had no idea what to do."** Real, confirmed gap, not
+  a slip. Matches the old diagnosis exactly (Advanced Math = stable weak spot).
+- **Conventions miss — "was divided between B and D, had no idea it was correct."** Real gap in
+  the subject-verb-agreement rule itself (not just a careless buried-subject slip — didn't
+  recognize the right answer as a candidate at all). Also matches the old diagnosis.
+- **New, not previously flagged: brief hesitation on the PSDA percent question (Q13)** — got it
+  right, but self-reported not immediately remembering how to compute a percentage of a number.
+  Percentages are a known high-ROI quick-review item per the YouTube research pass — worth a
+  5-minute refresher even though this one didn't cost a point.
+
+**Revised priority for the remaining ~15 days** (supersedes the ordering in
+`SAT Diagnostic — Score History and Domain Analysis.md`, which this fresh sitting both confirms
+and adds one new item to):
+
+1. **Advanced Math — asymptotes specifically** (confirmed real gap, both old and new data agree).
+2. **Standard English Conventions — subject-verb agreement rule itself**, not just the
+   buried-subject pattern-recognition trap (confirmed real gap, both old and new data agree).
+3. **Algebra scratch-work + pacing habit** — not a content review, a *process* fix: write out
+   the distribution/isolation step instead of doing it mentally, even on questions that feel
+   easy. This is new information the old diagnostic didn't have.
+4. **Percentages quick refresher** (PSDA) — low cost, was a genuine 5-minute gap.
+5. Everything else (PSDA beyond percentages, Geometry/Trig, Information and Ideas, Craft and
+   Structure, Expression of Ideas) — no signal of a problem in this sitting; leave as
+   timed-practice-volume only, not dedicated study blocks.
+
+**Error log:**
 
 | Q | Domain | Missed? | Concept / Arithmetic-misread / Timing | Fix |
 |---|---|---|---|---|
-| 1 | Algebra | | | |
-| 2 | Algebra | | | |
-| 3 | Algebra | | | |
-| 4 | Algebra | | | |
-| 5 | Algebra | | | |
-| 6 | Algebra | | | |
-| 7 | Advanced Math | | | |
-| 8 | Advanced Math | | | |
-| 9 | Advanced Math | | | |
-| 10 | Advanced Math | | | |
-| 11 | Advanced Math | | | |
-| 12 | Advanced Math | | | |
-| 13 | PSDA | | | |
-| 14 | PSDA | | | |
-| 15 | Geo/Trig | | | |
-| 16 | Geo/Trig | | | |
-| 17 | Info & Ideas | | | |
-| 18 | Info & Ideas | | | |
-| 19 | Info & Ideas | | | |
-| 20 | Info & Ideas | | | |
-| 21 | Craft & Structure | | | |
-| 22 | Craft & Structure | | | |
-| 23 | Craft & Structure | | | |
-| 24 | Craft & Structure | | | |
-| 25 | Craft & Structure | | | |
-| 26 | Expression of Ideas | | | |
-| 27 | Expression of Ideas | | | |
-| 28 | Expression of Ideas | | | |
-| 29 | Conventions | | | |
-| 30 | Conventions | | | |
-| 31 | Conventions | | | |
-| 32 | Conventions | | | |
+| 1 | Algebra | Yes | Timing/no scratch work — rushed, no concept gap | Write out distribution step by hand even on "easy" questions; don't solve mentally under time pressure |
+| 2 | Algebra | No | — | — |
+| 3 | Algebra | No | — | — |
+| 4 | Algebra | No | — | — |
+| 5 | Algebra | No | — | — |
+| 6 | Algebra | Yes | Concept — forgot the inequality-flip-on-negative rule entirely | Narrow, drillable: 10 quick reps of "divide/multiply an inequality by a negative → flip the sign," nothing broader needed |
+| 7 | Advanced Math | No | — | — |
+| 8 | Advanced Math | No | — | — |
+| 9 | Advanced Math | No | — | — |
+| 10 | Advanced Math | No | — | — |
+| 11 | Advanced Math | No | — | — |
+| 12 | Advanced Math | Yes | Concept — "had no idea what to do" on horizontal vs. vertical asymptotes | Real gap; review rational-function asymptote rules ($y=\frac{a}{x-h}+k$: horizontal $=k$, vertical $=h$) before next attempt |
+| 13 | PSDA | No (but hesitated) | Concept — didn't immediately recall percent-of-a-number method | Quick refresher: percent change $=(\text{new}-\text{old})/\text{old}$; multi-step percent problems apply each % to the correct running base |
+| 14 | PSDA | No | — | — |
+| 15 | Geo/Trig | No | — | — |
+| 16 | Geo/Trig | No | — | — |
+| 17 | Info & Ideas | No | — | — |
+| 18 | Info & Ideas | No | — | — |
+| 19 | Info & Ideas | No | — | — |
+| 20 | Info & Ideas | No | — | — |
+| 21 | Craft & Structure | No | — | — |
+| 22 | Craft & Structure | No | — | — |
+| 23 | Craft & Structure | No | — | — |
+| 24 | Craft & Structure | No | — | — |
+| 25 | Craft & Structure | No | — | — |
+| 26 | Expression of Ideas | No | — | — |
+| 27 | Expression of Ideas | No | — | — |
+| 28 | Expression of Ideas | No | — | — |
+| 29 | Conventions | Yes | Concept — "divided between B and D, had no idea it was [the right answer]" — didn't recognize the correct choice as a candidate at all | Real gap in the subject-verb agreement rule itself, not just the buried-subject trap: interrupting phrases ("along with," "as well as," "together with") never change the verb's subject-number. Drill this rule directly, not just pattern-spot it |
+| 30 | Conventions | No | — | — |
+| 31 | Conventions | No | — | — |
+| 32 | Conventions | No | — | — |
