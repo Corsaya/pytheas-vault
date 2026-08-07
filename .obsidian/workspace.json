@@ -11,10 +11,14 @@
             "id": "ef9ab3996f526e5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Courses/SAT/SAT Diagnostic Test (2026-08-07).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SAT Diagnostic Test (2026-08-07)"
             }
           }
         ]
@@ -169,29 +173,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "ea7cdb115fa9bf85",
-            "type": "leaf",
-            "state": {
-              "type": "claude-code-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "claude-code-chat-view"
-            }
-          },
-          {
-            "id": "5d7b14dd1b9e91b6",
-            "type": "leaf",
-            "state": {
-              "type": "claude-code-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Claude Code"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
