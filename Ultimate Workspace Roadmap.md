@@ -753,3 +753,63 @@ needs its own careful pass, not a side effect of a chat message):
   "Vault layout" section (still describing the current, soon-obsolete
   structure) gets rewritten as the last step once the moves are done, not
   before.
+
+### 21. Architecture pivot — fork Odysseus instead of building Pytheas from scratch (decided 2026-08-08)
+
+Per
+[[../Prompts/2026-08-08 Mega Prompt — Fork Odysseus Instead of Custom Pytheas Build|this session's mega-prompt]].
+Mid-session on the new [[../Courses/SAT/Foundations Knowledge Check]],
+Donovan asked to just fill Odysseus with his Obsidian vaults instead of
+continuing the custom Pytheas build. Checked Odysseus's actual ingestion
+code (`src/personal_docs.py`, `routes/personal_routes.py`) before
+answering — verdict: **not a clean drop-in.** Odysseus's document ingestion
+(`PersonalDocsManager`, Chroma-backed RAG) is real but (1) hard-confines
+files under its own `data/personal_docs/` root — symlinks to vaults
+elsewhere are explicitly rejected by `_resolve_allowed_personal_dir`, so
+vaults would need to be copied in, not linked, (2) has **no filesystem
+watcher** anywhere — reindex is a manual `POST /api/personal/reload` call,
+not live, (3) has **no git-awareness** for documents at all, (4) has **no
+Obsidian syntax support** — wikilinks/frontmatter/callouts/embeds all get
+flattened to plain text chunks. Chat history (SQLite, owner-scoped) and the
+task scheduler are real and usable as-is.
+
+**Decision: fork Odysseus, build the missing vault-integration pieces on
+top of its actual codebase**, rather than (a) moving vaults into it
+unmodified, or (b) continuing to build Pytheas from scratch and
+cherry-picking patterns per workstream 18's adopt list. This changes
+*mechanism* only — North Star pillar 1 (Odysseus feature-parity, Obsidian
+brain as the differentiator) is unchanged, it's now "start from Odysseus's
+code" instead of "build toward Odysseus's feature set."
+
+**Scope, not yet broken into tasks:**
+- Fork `~/code/odysseus` (need to decide: new repo name — `chiron`? see
+  workstream 20's still-open naming question, now more urgent since a real
+  fork forces a decision — new remote, or a local-only fork for now).
+- Build live vault sync: replace/extend the single-root path confinement
+  in `personal_routes.py` to allow the actual vault paths (`learning/`,
+  `finance/`, `ai-improvement/`, `pytheas`/`chiron`, `life`, per
+  workstream 20's structure once that executes), add a filesystem watcher
+  (e.g. `watchfiles`) so edits in Obsidian show up without a manual reload.
+- Teach ingestion Obsidian syntax: parse wikilinks/frontmatter/callouts/
+  embeds instead of flattening to plain text — needed for RAG quality and
+  for any future Atlas-style graph view.
+- Git-awareness: at minimum, read from the existing vault git repos
+  correctly (no clone-and-diverge); revisit whether Odysseus needs to
+  *write* commits or just read live files.
+- Nav/IA consolidation Donovan asked for: New Chat, Search Chats, and
+  Email stay top-level; everything else (Documents/personal-docs, Notes,
+  Cookbook, Contacts, Tasks, the new Courses/SAT tools, briefings — a
+  concept Odysseus doesn't have at all yet) nested under one "Tools" area.
+- Conversation logging into Obsidian: mirror sessions into the vault
+  (excluding incognito-mode and manually-cleared chats), git-ignore the
+  storage file(s), build a delete path that removes a conversation from
+  both the vault and the (forked) app's own DB.
+- Diagnostic/quiz results (Foundations Knowledge Check and future ones)
+  feed the same "understand Donovan better" mechanism — this is North Star
+  pillar 2 (continuous record-and-learn), not a separate feature to design
+  twice.
+
+**Status:** decided, not started. No fork created yet, no code moved.
+Explicitly sequenced after the in-progress SAT Foundations Knowledge Check
+session work — start this as its own dedicated session/task, not a
+mid-quiz side quest.
