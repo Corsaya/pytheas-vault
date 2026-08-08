@@ -645,65 +645,60 @@ sequencing after 2026-08-22.
 
 **Explicitly deferred by Donovan** — "keep this in roadmap and construct one
 day." Nothing here is executed. This supersedes/extends the 2026-08-02 vault
-reshuffle below with more detail, and answers (partially) the open naming
-question from workstream 19's discussion.
+reshuffle below with more detail, and answers (fully, as of 2026-08-08) the
+open naming question from workstream 19's discussion.
 
 **What Donovan described, as close to verbatim structure as the raw prompt
-allows:**
+allows, updated with 2026-08-08 resolutions:**
 
 - **`finance`** — absorbs `Work` and `card-flip` as subfolders/content.
   Matches the existing 2026-08-02 reshuffle plan below.
-- **`learning`** — absorbs `ai-improvement` as a subfolder.
-- **`pytheas` → renamed to `Chiron`**, own vault, connected to "the actual
-  chiron repo that exists in code."
+- **`learning`** — absorbs `ai-improvement` as a subfolder, and also gains
+  the new private `Chiron` vault nested inside it (see below).
+- **`Chiron`** — new private, personal-notes vault, nested under
+  `learning/`. Also names the code repo: `~/code/pytheas` and its GitHub
+  remote `TheBiggerMann/pytheas` rename to `chiron` (see resolution #2
+  below).
+- **`pytheas`** — stays a separate, distinct **public-facing brand vault**
+  for changelogs, additions, non-personal logs, "pretty much like the
+  Odysseus repo." Not the same thing as `Chiron` — see resolution #1 below.
 - **`life`** (final name — Donovan corrected mid-prompt from an initial
   "journal") — the big personal vault: health, history, and project notes
   for `agonizing-sentience` and `minecraft-event`.
-- **Privacy tiers stated:** `finance`, `learning`, and `life` are all
-  **private**. `pytheas` is the **only public** vault — changelogs,
-  additions, non-personal logs, "pretty much like the Odysseus repo" (i.e.
-  a public-facing project vault mirroring how Odysseus itself is structured
-  as an open project).
+- **Privacy tiers:** `finance`, `learning` (incl. nested `Chiron`), and
+  `life` are all **private**. `pytheas` was floated as the one public
+  vault, but per resolution #4 below it **stays private for now** —
+  going public is off the table until Donovan explicitly revisits it.
 - Also requested as part of this work: a **tagging taxonomy** to link files
   across the new structure (including links to content that predates the
   reorg) for Atlas to graph, and **organizing each vault's contents into
   folders** as part of doing the move.
 
-**Open contradictions/ambiguities — flagging rather than silently resolving,
-since this determines actual file moves and a repo rename later:**
+**Open contradictions/ambiguities — resolved 2026-08-08 (still deferred for
+execution, but no longer blocked on Donovan clarification):**
 
-1. **Chiron vs. Pytheas naming scope is internally inconsistent in the raw
-   prompt.** It says "pytheas renamed to Chiron, its own vault" and then two
-   sentences later says "**Pytheas** vault will exist both in learning and
-   will contain all personal and individual changes, while **pytheas** will
-   be the only public vault." Best-guess reading (NOT confirmed): the
-   private, personal-notes copy is `Chiron` (nested under `learning`), and
-   `pytheas` is kept as a separate, distinct **public-facing brand name**
-   for the open changelog vault — i.e., two different vaults with two
-   different names serving different audiences, not one renamed thing. This
-   needs a direct confirm/correct from Donovan before any folder gets moved.
-2. **Does the rename touch the actual code repo?** "Connected to the actual
-   chiron repo that exists in code" implies `~/code/pytheas` (and its GitHub
-   remote, currently `TheBiggerMann/pytheas`, private) becomes `chiron` —
-   a real rename, not just a vault-side label. That cascades into every
-   script, systemd/desktop-launcher reference, the vault's `code/` symlink,
-   and every existing roadmap doc that names `pytheas` — a genuinely large
-   migration, not a side effect of a vault move. Needs explicit go-ahead as
-   its own scoped task when this is actually executed.
+1. **RESOLVED (2026-08-08): two separate vaults, not one rename.** `Chiron`
+   = private, personal-notes vault, nested under `learning/`. `pytheas` =
+   a separate, distinct public-facing brand vault for changelogs/
+   non-personal logs (Odysseus-style). Two different vaults, two different
+   names, two different audiences.
+2. **RESOLVED (2026-08-08): yes, the code repo rename happens too.**
+   `~/code/pytheas` (and its GitHub remote `TheBiggerMann/pytheas`)
+   renames to `chiron`. This cascades into every script, systemd/
+   desktop-launcher reference, the vault's `code/` symlink, and every
+   existing roadmap doc that names `pytheas` — scope it as its own task
+   when the restructure is actually executed.
 3. **`agonizing-sentience` can't simply become private inside `life`** — it
    is explicitly a public, collaborative vault with a friend (per this
    vault's CLAUDE.md). Only the existing private scratchpad
    (`personal-private/agonizing-sentience-scratchpad/`) can move into
    `life`; the actual collaborative vault has to stay separately
    public/shared, or this breaks the collaboration.
-4. **Going public requires an actual action, not just a folder move** — both
+4. **RESOLVED (2026-08-08): stay private for now.** Both
    `TheBiggerMann/pytheas` and `TheBiggerMann/pytheas-vault` GitHub repos
-   are currently **private** (checked 2026-08-07). Making `pytheas` "the
-   only public vault" means flipping repo visibility at execution time —
-   worth a deliberate go/no-go check then (public repos are discoverable,
-   forkable, and — for the code repo — would need a real secrets/config
-   audit first, e.g. no tokens or personal paths baked into committed
-   files).
+   stay private. Drop the "pytheas is the only public vault" framing —
+   going public is off the table until Donovan explicitly revisits it
+   (at which point a secrets/config audit is still a required pre-step).
 5. **Redundant with pillar 2 of the North Star** (continuous record-and-
    learn) — the "tags for cross-vault linking + Atlas" ask here is the same
    underlying need as the not-yet-built memory/learning mechanism from the
