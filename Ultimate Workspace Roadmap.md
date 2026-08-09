@@ -809,7 +809,49 @@ code" instead of "build toward Odysseus's feature set."
   pillar 2 (continuous record-and-learn), not a separate feature to design
   twice.
 
-**Status:** decided, not started. No fork created yet, no code moved.
-Explicitly sequenced after the in-progress SAT Foundations Knowledge Check
-session work — start this as its own dedicated session/task, not a
-mid-quiz side quest.
+**Status (updated 2026-08-09):** first working slice built and verified live
+in-browser. `~/code/chiron` created (local `git clone` of `~/code/odysseus`,
+`upstream` remote → the real Odysseus GitHub repo, no `origin` yet — no
+GitHub repo of its own). Running as its own Docker stack alongside the
+existing live Odysseus instance, non-conflicting ports (app 7001, chromadb
+8101, searxng 8081, ntfy 8092) — Odysseus on 7000 untouched.
+
+Built and confirmed working:
+- Multi-vault ingestion: `src/constants.py` `VAULT_ROOTS`,
+  `routes/personal_routes.py` path confinement opened to those roots (still
+  excludes `personal-private`). 347 documents indexed across all 7 vaults on
+  first boot.
+- Live sync: `src/vault_watcher.py`, mtime-polling every 15s, auto-reindex
+  on change — no manual reload needed.
+- **Classroom UI** (Donovan's ask, not originally scoped above): folder
+  convention — `Courses/<Subject>/` in the pytheas vault becomes a
+  classroom, files become assignments/materials, subfolders become
+  sections. `routes/classroom_routes.py` + `static/classroom.html/js`.
+  Known files can be flagged (`CUSTOM_APPS` table) to open a real
+  interactive app instead of flat markdown — first one wired up: the SAT
+  diagnostic test now opens the actual ported Bluebook-style runner
+  (`static/classroom-apps/sat-test/`, moved from `~/code/pytheas/static/`).
+- Found Odysseus's own admin RAG-management panel (`static/js/admin.js`
+  `loadRag()`) is dead code — the JS exists but the HTML element it targets
+  (`adm-ragDirList`) was never added to `index.html` and nothing calls
+  `loadRag()` on tab-open. Not a Chiron regression — this was already
+  broken in upstream Odysseus. The Classroom UI is the actual answer to
+  "where do I see my vault content," not that panel.
+- Debugging notes for next session: Odysseus's CSP is strict by default
+  (`core/middleware.py`) — inline `<script>` blocks and inline
+  `onclick=`/`oninput=`/etc. handlers are both blocked without a nonce, and
+  `X-Frame-Options: DENY` is global (no iframing anything, even
+  same-origin). Ported apps need either a rewrite to `addEventListener`, or
+  a path-based CSP carve-out like `is_classroom_app` in `middleware.py`
+  (used for the SAT test app — same pattern Odysseus already uses for
+  `is_report`). Docker images don't bind-mount source, so every code change
+  needs `docker compose up -d --build`, not just `restart` — slow dev loop,
+  worth revisiting (dev bind-mount override) if this becomes a real
+  friction point.
+
+Still open, not built: wikilink/frontmatter/callout-aware parsing (RAG
+still sees flat text), Atlas-style graph view, the Tools-nav consolidation,
+conversation logging into Obsidian (git-ignored, incognito-aware, deletable
+both sides), and more `CUSTOM_APPS` entries as more interactive tools get
+built. Session paused here — Donovan resuming SAT prep (Foundations
+Knowledge Check was mid-way through Algebra when this pivot started).
