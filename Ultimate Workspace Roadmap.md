@@ -774,6 +774,33 @@ vault, creating the `life` vault itself, `finance` absorbing
 `learning/`, and the `pytheas` naming/scope resolution from workstream 21
 (decided, not moved).
 
+**Refined plan for the remaining moves, per Donovan 2026-08-09 (end of
+session, not yet executed — this is the spec for "next session"):**
+
+- **`card-flip/`** → moves into `finance/` (money-related; matches the
+  existing "card-flip is essentially ended, archive it" framing from the
+  2026-08-02 reshuffle above).
+- **`agonizing-sentience/` + `minecraft-event/` + `personal/`
+  (`personal-private/`)** → merge into a single new **`life`** folder/vault
+  containing health, hobbies, journals, calendar, email — "all life and
+  personal stuff." Donovan's own words: **"some read limitations"** — not
+  fully specified which parts stay AI-read-restricted (the existing
+  Journal/Daily/Work/Private-Reference.md carve-outs from `personal/`
+  presumably still apply at minimum, but this needs an explicit
+  confirm-or-correct from Donovan before any move, same caution as
+  workstream 20's original open questions). Note `agonizing-sentience` is
+  a public collaborative vault with a friend (per this doc's earlier
+  flag) — folding it into a walled-off `life` vault needs a decision on
+  how the collaboration stays intact, don't silently resolve this.
+- **Next session:** run a full scan across the vault set and, file by
+  file, (1) sort each file into its correct vault per the plan above, (2)
+  organize each vault's files into folders, (3) tag files for cross-vault
+  Atlas graph connections and general findability. This is the actual
+  execution pass for workstream 20 — do it deliberately, not as one
+  unreviewed sweep, per the standing sequencing note above. Re-confirm the
+  "some read limitations" scope with Donovan before touching anything
+  currently under `personal-private`.
+
 ### 21. Architecture pivot — fork Odysseus instead of building Pytheas from scratch (decided 2026-08-08)
 
 Per
