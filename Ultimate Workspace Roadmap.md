@@ -754,6 +754,26 @@ needs its own careful pass, not a side effect of a chat message):
   structure) gets rewritten as the last step once the moves are done, not
   before.
 
+**Progress (2026-08-09):** the one safe, mechanical piece got executed —
+`ai-improvement` merged into `learning/ai-improvement` via `git subtree
+add` (full git history preserved, pushed to the `personal-vault` GitHub
+repo). Old standalone `~/Documents/Obsidian/ai-improvement/` renamed (not
+deleted) to `ai-improvement.MERGED-into-learning-2026-08-09/` — safe to
+actually delete once Donovan confirms nothing's missing. Chiron's vault
+mounts (`docker-compose.yml`, `src/constants.py`) and the new
+conversation-archive hook (see prompt-logging section above) both updated
+to the new path and verified working (30 `ai-improvement` files correctly
+indexed under `/app/vaults/learning/ai-improvement`).
+
+**Explicitly NOT done** — deferred as its own reviewed pass, not attempted
+this session given the risk (touches `personal-private`, involves real
+deletes, and CLAUDE.md itself says do this "vault by vault," not in one
+sweep): Journal/Health spinout from `personal-private` into a new `life`
+vault, creating the `life` vault itself, `finance` absorbing
+`Work`/`card-flip`, the new private `Chiron` notes vault nested in
+`learning/`, and the `pytheas` naming/scope resolution from workstream 21
+(decided, not moved).
+
 ### 21. Architecture pivot — fork Odysseus instead of building Pytheas from scratch (decided 2026-08-08)
 
 Per
