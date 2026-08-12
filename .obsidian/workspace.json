@@ -191,8 +191,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-claude-code:Claude Code": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b33a3431d7c376b5",
