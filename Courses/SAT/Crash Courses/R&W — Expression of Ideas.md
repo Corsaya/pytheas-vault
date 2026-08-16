@@ -67,6 +67,68 @@ stating the logical relationship in your own words — the answer choices are
 often four grammatically fine words, so the only way to filter them is
 logic, not ear.
 
+**Worked example 2:**
+"The city council debated the new zoning proposal for nearly six hours.
+____, they adjourned without reaching a final vote."
+
+A) Similarly
+B) Ultimately
+C) For instance
+D) In contrast
+
+Cover the blank: sentence 1 says the council debated for six hours.
+Sentence 2 says they adjourned without voting — this is the outcome/result
+of the long debate, not a new example, a similarity, or an opposite idea.
+"For instance" (illustration) is out — sentence 2 isn't an example of
+sentence 1, it's what happened next. "Similarly" (continuation) is out —
+nothing is being compared as alike. "In contrast" is out — there's no
+opposing idea, just a consequence. "Ultimately" signals the end result of
+a process, which is exactly the relationship here. Answer: **B**.
+
+- (A) Similarly — wrongly treats sentence 2 as a parallel idea rather than
+  a result.
+- (C) For instance — there's no illustrative example being given.
+- (D) In contrast — nothing in sentence 2 opposes sentence 1.
+
+**Trips people up:** confusing "result" transitions like "ultimately" or
+"consequently" with "contrast" transitions when the second sentence
+describes an ending or outcome that feels anticlimactic — an
+unsatisfying result is still a result, not a contrast, unless the outcome
+directly contradicts an expectation stated in sentence 1.
+
+**Worked example 3:**
+"Many students assume that speed-reading techniques improve comprehension.
+____, several controlled studies have found that faster reading speeds are
+associated with lower retention of detail."
+
+A) Granted
+B) In fact
+C) Additionally
+D) As a result
+
+Cover the blank: sentence 1 states a common assumption. Sentence 2 presents
+research that undercuts or corrects that assumption — not simply
+contrasting it, but revealing the assumption to be wrong. "Additionally"
+(continuation) is out — sentence 2 doesn't add a new, separate point, it
+challenges sentence 1. "As a result" (cause/effect) is out — the studies
+aren't a consequence of the assumption. "Granted" (concession) is out — a
+concession would acknowledge the assumption has some merit before pivoting,
+but this sentence flatly contradicts it instead. "In fact" is the classic
+signal for "here's the truth that corrects the preceding misconception."
+Answer: **B**.
+
+- (A) Granted — implies partial agreement before a "but," which isn't the
+  structure here; there's no concessive clause to complete it.
+- (C) Additionally — treats the studies as a bonus point rather than a
+  correction.
+- (D) As a result — misreads the relationship as causal instead of
+  corrective.
+
+**Trips people up:** treating "correcting a misconception" the same as
+plain "contrast" and defaulting to "however" — "in fact" specifically
+signals that the second statement is the truth that replaces a wrong
+belief, a distinct flavor of contrast worth recognizing on sight.
+
 ---
 
 ### E2 — Rhetorical synthesis — combine bullet-point notes to meet a stated goal
@@ -154,6 +216,100 @@ the most "impressive-sounding" sentence, instead of checking it against the
 exact wording of the goal — reread the goal one more time right before
 picking, not just once at the start.
 
+**Worked example 2:**
+
+*While researching a topic, a student has taken the following notes:*
+- The Wright brothers made their first powered flight in 1903 at Kitty
+  Hawk, North Carolina.
+- The flight lasted 12 seconds and covered 120 feet.
+- Orville and Wilbur Wright ran a bicycle shop before working on aviation.
+- Their design used a lightweight gasoline engine they built themselves.
+- By 1905, their aircraft could fly for over 30 minutes.
+
+*Student's goal: The student wants to introduce the topic to an audience
+unfamiliar with the Wright brothers' achievement.*
+
+Which choice most effectively uses relevant information from the notes to
+accomplish this goal?
+
+A) The Wright brothers, Orville and Wilbur, achieved the first powered
+flight in 1903 at Kitty Hawk, North Carolina.
+
+B) By 1905, the Wright brothers' aircraft, powered by a self-built gasoline
+engine, could stay airborne for over 30 minutes.
+
+C) Before turning to aviation, Orville and Wilbur Wright ran a bicycle
+shop, where they developed mechanical skills.
+
+D) The Wright brothers' first flight in 1903 covered just 120 feet in 12
+seconds, a modest start to aviation history.
+
+Walkthrough: goal = introduce the topic to a new audience, meaning give the
+core, most identifiable fact first.
+- (B) jumps to 1905 details without ever establishing the foundational
+  1903 first-flight fact — an unfamiliar reader has no anchor, eliminate.
+- (C) is interesting background but never mentions that they achieved
+  powered flight at all — doesn't introduce the actual achievement,
+  eliminate.
+- (D) mentions the 1903 flight but frames it as "modest," which requires
+  context the reader doesn't have yet and buries the headline fact under a
+  qualifier — eliminate.
+- (A) states who they were, what they achieved, and where/when — the
+  cleanest, most complete introduction for someone who knows nothing about
+  it. Answer: **A**.
+
+**Trips people up:** picking the choice with the most vivid or specific
+detail (like the exact 12 seconds/120 feet) over the choice that actually
+orients a reader with zero prior context — "introduce to an unfamiliar
+audience" wants the headline, not the trivia.
+
+**Worked example 3:**
+
+*While researching a topic, a student has taken the following notes:*
+- Octopuses have three hearts and blue, copper-based blood.
+- Two of the hearts pump blood to the gills; one pumps it to the rest of
+  the body.
+- The body-pumping heart stops beating when the octopus swims, which is
+  why they prefer crawling.
+- Octopuses can change both the color and texture of their skin in under a
+  second.
+- Octopuses have no bones, allowing them to squeeze through tiny gaps.
+
+*Student's goal: The student wants to explain why octopuses tend to crawl
+rather than swim.*
+
+Which choice most effectively uses relevant information from the notes to
+accomplish this goal?
+
+A) Octopuses have three hearts and blue, copper-based blood, which is
+unusual among marine animals.
+
+B) Because swimming causes one of an octopus's three hearts to stop
+beating, octopuses generally prefer to crawl.
+
+C) With no bones in their bodies, octopuses can squeeze through
+remarkably small gaps while crawling along the seafloor.
+
+D) Octopuses can rapidly change their skin's color and texture, a
+behavior often used for camouflage while crawling.
+
+Walkthrough: goal = explain the cause of crawling preference specifically.
+- (A) states a true, interesting fact (three hearts) but never connects it
+  to swimming vs. crawling — no causal link, eliminate.
+- (C) explains a benefit of crawling (fitting through gaps) but not *why*
+  they prefer it over swimming — doesn't address the swimming heart issue,
+  eliminate.
+- (D) is about camouflage, unrelated to the swim/crawl mechanism,
+  eliminate.
+- (B) directly states the cause (swimming stops the body-pumping heart)
+  and the effect (preference for crawling) — the only choice that
+  actually explains the "why." Answer: **B**.
+
+**Trips people up:** selecting a true, on-topic-sounding fact about
+octopuses in general rather than checking whether it specifically supplies
+the *causal mechanism* the goal is asking for — "explain why" demands a
+cause-and-effect link, not just a related detail.
+
 ---
 
 ### E3 — Identify the most logical placement for a sentence in a paragraph
@@ -220,6 +376,95 @@ instead of checking pronoun/reference words — two sentences can be "about
 the same thing" and still be in the wrong order if a pronoun or transition
 doesn't have anything to point back to.
 
+**Worked example 2:**
+
+Paragraph: (1) The public library began offering a "seed library" program
+in 2019. (2) Patrons can borrow packets of vegetable and flower seeds at no
+cost. (3) At the end of the growing season, gardeners are encouraged to
+save seeds from their strongest plants and return them. (4) The program has
+grown from 200 seed packets in its first year to over 3,000 today.
+
+Target sentence: "This return-and-replenish cycle keeps the seed library
+stocked without relying on outside purchases."
+
+Where does it best fit?
+A) Before sentence 1
+B) After sentence 1
+C) After sentence 3
+D) After sentence 4
+
+Walkthrough: the target sentence opens with "This return-and-replenish
+cycle" — that phrase needs an antecedent that actually describes a
+return-and-replenish process. Sentence 3 is the only sentence that
+describes gardeners returning saved seeds after borrowing them, which is
+the cycle being referenced. Placing the target right after sentence 3 lets
+"this cycle" point back cleanly, and the target's point (the library stays
+stocked without outside purchases) logically precedes sentence 4's growth
+statistics, which make more sense once the reader understands the program
+is self-sustaining. Before sentence 1 and after sentence 1 both fail —
+neither borrowing nor returning has been described yet, so "this cycle"
+has nothing to refer to. After sentence 4 fails — it would interrupt the
+natural close of the paragraph on the growth statistic with an
+explanatory aside that reads better earlier. Answer: **C**.
+
+- (A) Before sentence 1 — no prior sentence exists to supply "this cycle."
+- (B) After sentence 1 — only the founding year is known, not the
+  borrow/return mechanism.
+- (D) After sentence 4 — grammatically fine but disrupts the paragraph's
+  natural progression toward its growth-statistic conclusion.
+
+**Trips people up:** assuming a sentence belongs wherever it's
+"thematically related," rather than tracing exactly which prior sentence
+supplies the antecedent for a phrase like "this cycle" — the paragraph can
+mention seeds throughout, but only one sentence actually establishes the
+specific process being referenced.
+
+**Worked example 3:**
+
+Paragraph: (1) Many mountain towns rely on ski tourism for the bulk of
+their annual revenue. (2) Warmer winters and shorter snow seasons have
+reduced the number of skiable days at lower-elevation resorts. (3) Some
+towns have begun marketing themselves as year-round destinations, adding
+hiking trails, mountain biking, and summer festivals. (4) Diversifying
+their tourism base has helped several towns offset the revenue lost from
+shrinking ski seasons.
+
+Target sentence: "As a result, resort revenue tied strictly to snowfall has
+become increasingly unreliable."
+
+Where does it best fit?
+A) After sentence 1
+B) After sentence 2
+C) After sentence 3
+D) After sentence 4
+
+Walkthrough: the target sentence opens with "As a result," which needs a
+preceding cause, and it describes snow-dependent revenue becoming
+unreliable. Sentence 2 is the only sentence that states a cause of
+declining skiable days (warmer winters, shorter snow seasons) — that's the
+cause the target's "as a result" is pointing back to. Placing the target
+right after sentence 2 also sets up sentence 3's "Some towns have begun
+marketing themselves as year-round destinations" as the direct response to
+the unreliability just described. After sentence 1 fails — no cause has
+been given yet, just the general fact that towns rely on ski tourism.
+After sentence 3 and after sentence 4 both fail — by then the paragraph
+has already moved on to the solution (diversifying), so inserting the
+unreliability point there would double back and break the cause-then-
+response flow. Answer: **B**.
+
+- (A) After sentence 1 — nothing yet explains why revenue would become
+  unreliable.
+- (C) After sentence 3 — the solution is already being described; the
+  problem statement now reads out of order.
+- (D) After sentence 4 — the paragraph has already reached its concluding
+  point about successful diversification.
+
+**Trips people up:** treating "as a result" placement questions the same
+as pronoun-reference ones — with cause/effect transitions, the check isn't
+"what noun does this point to" but "has the specific cause already been
+stated," and inserting the sentence too late (after the response to the
+problem) is just as wrong as inserting it too early.
+
 ---
 
 ### E4 — Concision — recognize and cut redundant/wordy phrasing
@@ -280,6 +525,68 @@ repeating the hour count. Answer: **C**.
 without checking that it's still grammatical and hasn't deleted a fact the
 sentence actually needs — concision is "cut what's redundant," not "cut as
 much as possible."
+
+**Worked example 2:**
+
+"The museum's new exhibit includes a wide variety of many different
+artifacts from ancient Mesopotamia."
+
+Which choice best revises the underlined portion?
+A) NO CHANGE
+B) a wide and extensive variety of many different
+C) a variety of
+D) a diverse and varied assortment of numerous different
+
+Walkthrough: "a wide variety," "many different," and "artifacts" are all
+gesturing at the same idea — that there are numerous distinct types of
+artifacts — stacked into one redundant pile. (A) keeps both "wide variety"
+and "many different" describing the same plurality twice. (B) makes it
+worse by adding a third redundant descriptor ("extensive"). (D) stacks
+"diverse," "varied," and "numerous different" — four words doing the job
+of one. (C) "a variety of" already implies multiple different types on its
+own — nothing else needs to be added. Answer: **C**.
+
+- (A) NO CHANGE — "wide variety" and "many different" both signal
+  plurality/diversity redundantly.
+- (B) — adds yet another synonym ("extensive") on top of the existing
+  redundancy instead of removing it.
+- (D) — replaces one redundant stack with an even longer one.
+
+**Trips people up:** seeing a list of near-synonyms ("diverse," "varied,"
+"numerous," "different") and assuming more descriptive words make the
+sentence stronger — on concision questions, stacked synonyms are a
+red flag, not a feature.
+
+**Worked example 3:**
+
+"Due to the fact that the bridge was closed for repairs, commuters had to
+find an alternate route to get to their destination."
+
+Which choice best revises the underlined portion?
+A) NO CHANGE
+B) Owing to the fact that
+C) Because
+D) In light of the fact that, and as a consequence of the closure,
+
+Walkthrough: "due to the fact that" is a wordy four-word stand-in for a
+single word that means the same thing. (A) keeps the wordy phrase as-is.
+(B) swaps one wordy phrase for an equally wordy one — "owing to the fact
+that" is no shorter or clearer. (D) is far longer and adds a second,
+redundant reference to the closure that's already named later in the
+sentence ("bridge was closed for repairs"). (C) "Because" expresses the
+identical causal relationship in one word, with nothing lost. Answer: **C**.
+
+- (A) NO CHANGE — "due to the fact that" is classic padded phrasing for
+  "because."
+- (B) — trades one wordy causal phrase for a near-identical one.
+- (D) — adds a second, unnecessary reference to the cause already stated
+  in the sentence, making it longer and redundant.
+
+**Trips people up:** not recognizing "due to the fact that," "owing to the
+fact that," and "in light of the fact that" as a family of interchangeably
+wordy causal phrases that should almost always collapse to "because" or
+"since" — these show up disguised as different-sounding choices that are
+all equally guilty.
 
 ---
 

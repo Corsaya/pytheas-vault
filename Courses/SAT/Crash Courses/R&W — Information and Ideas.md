@@ -80,6 +80,85 @@ C names all three pieces without adding anything the passage didn't say.
 complete summary — resist choices that sound more exciting or dramatic than
 the passage's actual, measured tone.
 
+**Worked example 2**
+
+> Beneath many forests lies a vast underground network of fungal threads,
+> or mycorrhizae, that connect the root systems of individual trees.
+> Researchers have found that trees use this network to share carbon,
+> nitrogen, and water with neighboring trees — including trees of different
+> species — and that older, larger "hub" trees appear to funnel extra
+> resources toward younger seedlings growing in their shade. Rather than
+> competing in isolation, the trees in a forest may function more like an
+> interdependent community.
+
+**Question:** Which choice best states the main purpose of the text?
+
+A) To prove that older trees are more valuable to a forest than younger
+   trees
+B) To describe an underground fungal network and explain how it reframes
+   forest trees as an interdependent community rather than isolated
+   competitors
+C) To explain the biological process by which fungal threads absorb
+   nutrients from soil
+D) To criticize earlier researchers for overlooking mycorrhizal networks
+
+**Reasoning:** The passage introduces the network, gives concrete examples
+of what it does (sharing resources, hub trees helping seedlings), and ends
+on the reframing point — trees as a "community" rather than isolated
+competitors. B captures the full arc; nothing else in the passage is left
+unaccounted for.
+
+- A overweights one detail (hub trees helping seedlings) into a value
+  judgment ("more valuable") the passage never makes.
+- C is too narrow and also inaccurate — the passage never explains the
+  biological absorption mechanism, only what the network is used for.
+- D imports a critical tone toward "earlier researchers" that the passage
+  doesn't contain at all — there's no mention of prior researchers being
+  wrong or overlooking anything.
+
+**Trips people up:** a choice that's true of one memorable detail (hub
+trees, seedlings) but not the passage's overall point is the classic "too
+narrow" trap — check whether a choice accounts for the *whole* passage,
+not just its most vivid sentence.
+
+**Worked example 3**
+
+> Before the widespread installation of streetlights in the late 19th
+> century, most urban nightlife shut down shortly after sunset, and city
+> streets after dark were associated primarily with danger. As gas and
+> then electric streetlights spread through major cities, evening hours
+> gradually opened up to shopping, theater-going, and socializing. Some
+> historians now treat the streetlight less as a minor infrastructure
+> upgrade and more as a turning point that reshaped how urban residents
+> used their time.
+
+**Question:** Which choice best states the main purpose of the text?
+
+A) To argue that modern cities should install more streetlights
+B) To explain how the spread of streetlights changed the way city
+   residents used evening hours, according to some historians
+C) To describe the specific engineering differences between gas and
+   electric streetlights
+D) To compare crime rates in cities before and after streetlights were
+   installed
+
+**Reasoning:** The passage traces a before/after: dark streets tied to
+danger and shutdown nightlife, then streetlights opening up evening
+activity, closing with historians' reassessment of the streetlight's
+significance. B names that full shift without adding anything beyond it.
+
+- A turns a historical description into a present-day policy argument the
+  passage never makes — there's no recommendation for modern cities here.
+- C invents a technical comparison (gas vs. electric engineering) that the
+  passage doesn't provide — it mentions both types only in passing.
+- D introduces "crime rates" as a specific measured statistic, but the
+  passage only speaks generally of "danger," never citing rate data or a
+  direct before/after comparison of crime.
+
+**Trips people up:** watch for choices that sound plausible because they're
+adjacent to the topic (streetlights → crime, streetlights → engineering)
+but describe something the passage doesn't actually take up.
+
 ---
 
 ### I2 — Command of evidence (textual)
@@ -142,6 +221,97 @@ claim as worded, not just be generally relevant to the topic — a classic
 wrong choice is a true, on-topic quote that doesn't actually prove the
 particular thing being claimed (like A and C above).
 
+**Worked example 2**
+
+> Ornithologists tracking a population of Arctic terns fitted several
+> hundred birds with lightweight geolocators before their annual migration.
+> The data revealed that individual terns did not follow a single fixed
+> route each year; instead, many birds shifted their flight paths by
+> hundreds of miles from one year to the next, apparently in response to
+> changing wind patterns and food availability along the way. One tagged
+> bird flew a route in its second tracked year that shared less than 40
+> percent of its path with the route it had taken the year before.
+
+**Claim:** Some researchers now believe that Arctic terns do not simply
+repeat a fixed migratory route every year, but instead adjust their path
+based on shifting conditions.
+
+**Question:** Which quotation from the text most effectively illustrates
+this claim?
+
+A) "Ornithologists tracking a population of Arctic terns fitted several
+   hundred birds with lightweight geolocators"
+B) "many birds shifted their flight paths by hundreds of miles from one
+   year to the next, apparently in response to changing wind patterns and
+   food availability"
+C) "individual terns did not follow a single fixed route each year"
+D) "One tagged bird flew a route in its second tracked year that shared
+   less than 40 percent of its path with the route it had taken the year
+   before"
+
+**Reasoning:** The claim has two parts: terns don't repeat a fixed route,
+*and* they adjust based on shifting conditions. B is the only quote that
+supports both halves at once — it states the year-to-year shift and names
+the conditions (wind, food) driving it.
+
+- A only describes the study's method (tagging birds), not any finding
+  about route behavior — it's setup, not evidence.
+- C supports only the first half of the claim (no fixed route) but says
+  nothing about *why* — it drops the "adjust based on conditions" part.
+- D is a vivid, specific data point that supports "not a fixed route," but
+  like C it never mentions wind or food availability, so it only proves
+  half of the two-part claim.
+
+**Trips people up:** when a claim has two linked parts, the best-evidence
+quote must cover both — a quote that only proves half the claim (like C or
+D here) is a tempting but incomplete answer.
+
+**Worked example 3**
+
+> A historian studying medieval trade argues that overland caravan routes
+> across Central Asia did not simply move goods from east to west, but
+> also functioned as channels for the spread of ideas and technologies.
+> Merchant records from the period describe not only shipments of silk and
+> spices but also traveling scholars, religious texts, and even papermaking
+> techniques that moved along the same routes, often carried by the same
+> caravans that carried the trade goods.
+
+**Claim:** A historian argues that Central Asian trade routes served as
+conduits for cultural and technological exchange, not merely commercial
+exchange.
+
+**Question:** Which quotation from the text most effectively illustrates
+this claim?
+
+A) "overland caravan routes across Central Asia did not simply move goods
+   from east to west"
+B) "Merchant records from the period describe not only shipments of silk
+   and spices but also traveling scholars, religious texts, and even
+   papermaking techniques"
+C) "often carried by the same caravans that carried the trade goods"
+D) "A historian studying medieval trade argues that" the routes served
+   more than a commercial purpose
+
+**Reasoning:** The claim needs a quote that shows both categories at once:
+goods *and* non-commercial cultural/technological content sharing the same
+routes. B lists silk and spices alongside scholars, texts, and papermaking
+techniques in one sentence — the clearest direct proof of exchange beyond
+commerce.
+
+- A only asserts the general claim in negative form ("did not simply move
+  goods") without giving any concrete supporting detail — a paraphrase,
+  not evidence.
+- C is on-topic (same caravans) but incomplete on its own — without the
+  list of what was carried, it doesn't show that non-commercial content was
+  moving at all.
+- D just attributes the claim to "a historian" — an appeal to who said it,
+  not a demonstration of the underlying evidence.
+
+**Trips people up:** a quote that merely restates the claim in the
+passage's own words (like A) feels efficient but isn't actual evidence —
+the real support has to add a concrete detail the claim itself doesn't
+already contain.
+
 ---
 
 ### I3 — Command of evidence (quantitative)
@@ -193,6 +363,103 @@ single year (8→14→22→31→41), and the bill column falls every single year
 trend that isn't actually in the table (a partial exception, a missing
 range) — trace the actual numbers row by row instead of trusting a choice
 that just "sounds like" a reasonable data story.
+
+**Worked example 2**
+
+> A public health official claims that as a city's annual flu vaccination
+> rate has risen, the city's rate of flu-related hospitalizations has
+> fallen.
+
+**Data:**
+
+| Flu season | Vaccination rate (%) | Flu-related hospitalizations (per 100,000) |
+|---|---|---|
+| 2019–20 | 38% | 62 |
+| 2020–21 | 45% | 71 |
+| 2021–22 | 52% | 49 |
+| 2022–23 | 58% | 41 |
+| 2023–24 | 63% | 33 |
+
+**Question:** Which choice best describes how the data in the table relate
+to the official's claim?
+
+A) The data support the claim: vaccination rates rose every season while
+   hospitalizations fell every season.
+B) The data partially support the claim: vaccination rates rose every
+   season, but hospitalizations rose in one season before falling in the
+   following seasons.
+C) The data contradict the claim: hospitalizations rose as vaccination
+   rates rose.
+D) The data are insufficient to evaluate the claim because the table does
+   not report the total number of flu cases.
+
+**Reasoning:** Vaccination rate climbs every season (38→45→52→58→63), but
+hospitalizations do *not* fall every season — they rise from 62 to 71 in
+2020–21 before falling the rest of the way (71→49→41→33). B is the only
+choice that accounts for that one-season exception instead of claiming a
+clean, unbroken trend.
+
+- A claims hospitalizations "fell every season," but the 2020–21 row shows
+  an increase — this choice ignores that exception.
+- C overstates the mismatch — hospitalizations only rise in one season out
+  of four transitions, not across the whole table, so "hospitalizations
+  rose as vaccination rates rose" isn't an accurate overall description.
+- D invents a data requirement (total case counts) the claim doesn't need
+  — the claim is specifically about the hospitalization *rate*, which the
+  table already reports directly.
+
+**Trips people up:** don't default to "supports" or "contradicts" as an
+all-or-nothing choice — when a table shows a mostly-consistent trend with
+one exception, the accurate description is the "partially supports" choice,
+and skipping a careful row-by-row check is how that exception gets missed.
+
+**Worked example 3**
+
+> A restaurant industry analyst claims that as menu prices at casual dining
+> chains have increased, the number of monthly customer visits per chain
+> has declined.
+
+**Data:**
+
+| Year | Average menu price index | Avg. monthly visits per chain (millions) |
+|---|---|---|
+| 2020 | 100 | 18.4 |
+| 2021 | 104 | 18.9 |
+| 2022 | 111 | 17.6 |
+| 2023 | 119 | 16.2 |
+| 2024 | 126 | 15.0 |
+
+**Question:** Which choice best describes how the data in the table relate
+to the analyst's claim?
+
+A) The data support the claim: the price index rose every year while
+   visits fell every year.
+B) The data contradict the claim: visits increased every year as prices
+   rose.
+C) The data partially support the claim: the price index rose every year,
+   and visits fell in most years shown but rose in one year before the
+   overall decline continued.
+D) The data are insufficient to evaluate the claim because the table does
+   not include data from before 2020.
+
+**Reasoning:** The price index rises every year without exception
+(100→104→111→119→126). Visits, however, tick up slightly from 18.4 to 18.9
+between 2020 and 2021 before declining the rest of the way (18.9→17.6→
+16.2→15.0). C is the only choice that correctly notes both the unbroken
+price rise and the one-year exception in the visits trend.
+
+- A says visits "fell every year," but the 2020-to-2021 change is an
+  increase, not a decrease — this choice overlooks that one row.
+- B is wrong in the opposite direction — visits don't rise every year;
+  they fall in three of the four year-to-year comparisons.
+- D invents a requirement (pre-2020 data) that isn't needed — the claim
+  is about the trend across the years given, and five years of matched
+  data is enough to check it.
+
+**Trips people up:** on multi-row quantitative-evidence questions, scan
+*every* year-to-year change before picking "supports" or "contradicts" —
+a single early exception (like the 2020→2021 uptick here) is easy to miss
+if you only compare the first row to the last.
 
 ---
 
@@ -251,6 +518,92 @@ specific purposes — B restates that gap without adding anything unstated.
 beyond what's stated, never a leap — over-inferring (adding a cause, a
 motive, a timeline, or a "who" the passage never gives you) is the classic
 wrong-answer trap, not under-inferring.
+
+**Worked example 2**
+
+> A software company redesigned its customer support system so that simple
+> billing questions were answered automatically by a chatbot, while
+> technical issues were routed directly to a human specialist. In the six
+> months after the change, customer satisfaction scores for billing
+> inquiries rose slightly, while satisfaction scores for technical support
+> rose sharply, and the average time to resolve a technical issue dropped
+> by nearly half.
+
+**Question:** Which choice most logically completes the text below?
+
+Based on this evidence, it can most reasonably be concluded that ___
+
+A) the chatbot was responsible for the sharp rise in technical support
+   satisfaction
+B) routing technical issues directly to a human specialist coincided with
+   the larger improvement in customer experience, compared to the more
+   modest change seen for automated billing questions
+C) customers generally prefer talking to chatbots over human specialists
+D) the company plans to expand the chatbot to handle technical issues as
+   well
+
+**Reasoning:** The passage states two comparable outcomes — a slight rise
+for billing (chatbot-handled) and a sharp rise plus faster resolution for
+technical issues (human-handled). The cautious inference is just that the
+human-routing change lines up with the bigger improvement — B restates
+exactly that comparison without assigning a cause the passage doesn't give.
+
+- A assigns credit for the technical-support improvement to the chatbot,
+  but the passage says technical issues were routed to *humans*, not the
+  chatbot — this reverses which system handled which outcome.
+- C claims a general preference for chatbots that the passage never states
+  — satisfaction data alone doesn't tell us which channel customers
+  "prefer," only which produced better scores in this case.
+- D invents a future company plan that has no basis anywhere in the
+  passage — there's no mention of expansion plans at all.
+
+**Trips people up:** when a passage compares two conditions (chatbot vs.
+human, before vs. after), double-check which outcome is tied to which
+condition before picking an answer — swapping which cause produced which
+effect (like A does here) is a common, easy-to-miss trap.
+
+**Worked example 3**
+
+> A botanist studying a coastal plant species found that individuals
+> growing in sandy, high-salinity soil near the shoreline had thicker,
+> waxier leaves than individuals of the same species growing in
+> freshwater marsh soil less than a mile inland. When seeds from
+> shoreline plants were germinated in marsh soil under controlled
+> conditions, the resulting plants developed leaves similar to those of
+> other marsh-grown plants, not the thick, waxy leaves of their
+> shoreline parents.
+
+**Question:** Which choice most logically completes the text below?
+
+Based on this evidence, the botanist most reasonably concluded that ___
+
+A) the thick, waxy leaf trait is a fixed genetic difference between two
+   separate populations of the species
+B) the leaf differences are most likely a response to local soil
+   conditions rather than a fixed inherited trait
+C) shoreline plants are better adapted to survive than marsh plants
+D) marsh soil is less nutrient-rich than shoreline soil
+
+**Reasoning:** The key fact is the germination experiment: shoreline
+seeds grown in marsh soil did *not* keep the shoreline leaf trait — they
+matched the marsh plants instead. That result rules out a simple fixed
+genetic explanation and points to the environment shaping the trait, which
+is exactly what B says, without going further than the experiment shows.
+
+- A is directly contradicted by the germination result — if the trait
+  were fixed and inherited regardless of environment, shoreline seeds
+  would have kept their thick, waxy leaves in marsh soil, but they didn't.
+- C is an unsupported value judgment about overall survival — the passage
+  only describes a leaf-trait difference, not a broader claim about which
+  population survives better.
+- D introduces a factor (nutrient content) the passage never measures or
+  mentions — only salinity and sandiness are described, not nutrients.
+
+**Trips people up:** when a passage includes a controlled experiment (seeds
+moved to a new environment), the result of *that* experiment is usually
+the real basis for the inference — don't default to the more "obvious"
+surface explanation (like fixed genetics in A) if the passage's own
+experiment rules it out.
 
 ---
 

@@ -63,6 +63,25 @@ that the cylinder/rectangular-solid versions don't — it's easy to forget
 that factor under time pressure even with the formula right in front of
 you. Double-check you copied the whole formula, not just the shape part.
 
+**Worked example 2:** A rectangular storage box has length 5 ft, width 4 ft,
+and height 3 ft. Find its volume.
+$$V = lwh = (5)(4)(3) = 60 \text{ ft}^3$$
+
+**Shortcut/trap:** rectangular solid volume has no fraction in front — it's
+just the product of all three dimensions. Don't second-guess yourself into
+adding a $\tfrac{1}{3}$ or $\tfrac{4}{3}$ from the cone/sphere formulas;
+those factors only belong to shapes that taper to a point or curve back on
+themselves.
+
+**Worked example 3:** A sphere has radius 6. Find its volume in terms of
+$\pi$.
+$$V = \tfrac{4}{3}\pi r^3 = \tfrac{4}{3}\pi (6)^3 = \tfrac{4}{3}\pi (216) = 288\pi$$
+
+**Shortcut/trap:** cube the radius *before* multiplying by $\tfrac{4}{3}$ —
+a common slip is squaring $r$ (copying the pattern from area/cylinder
+formulas) instead of cubing it, which silently produces a much smaller,
+wrong answer.
+
 ---
 
 ### G2 — Pythagorean theorem + special right triangles
@@ -89,6 +108,22 @@ ratios that look like $1:\sqrt3:2$ or equal legs) saves a full Pythagorean
 calculation — but if you're not sure it's actually 30-60-90 or 45-45-90,
 Pythagorean theorem always works and never assumes an angle you haven't
 confirmed.
+
+**Worked example 2:** A right triangle has legs of length 9 and 12. Find
+the hypotenuse.
+$$a^2+b^2=c^2 \Rightarrow 9^2+12^2=c^2 \Rightarrow 81+144=225=c^2 \Rightarrow c=15$$
+
+**Shortcut/trap:** notice $9:12:15$ reduces to $3:4:5$ — recognizing common
+Pythagorean triples (3-4-5, 5-12-13, 8-15-17, and their multiples) lets you
+skip the squaring/adding entirely once you spot the pattern.
+
+**Worked example 3:** A 45-45-90 right triangle has a hypotenuse of
+$8\sqrt{2}$. Find the length of one leg.
+Using $x : x : x\sqrt2$ with $x\sqrt2 = 8\sqrt2$: $x = 8$, so each leg is 8.
+
+**Shortcut/trap:** when the hypotenuse is given as "(number)$\sqrt2$," the
+leg is just that number — you don't need to divide by $\sqrt2$ and rationalize
+if the problem already handed you the hypotenuse in that exact form.
 
 ---
 
@@ -118,6 +153,26 @@ circumference/area number directly" — write the fraction $\theta/360$ first,
 then multiply by the *whole-circle* formula, so you don't accidentally use
 the arc's own length as if it were the radius.
 
+**Worked example 2:** A circle has radius 12. A central angle of 90° cuts
+off a sector. Find the sector's area.
+$$\text{sector area} = \frac{90}{360} \times \pi(12)^2 = \frac{1}{4} \times 144\pi = 36\pi$$
+
+**Shortcut/trap:** a 90° central angle is always exactly one quarter of the
+circle — recognizing "nice" fractions (90° = 1/4, 120° = 1/3, 180° = 1/2)
+lets you skip writing out the full $\theta/360$ fraction and go straight to
+the simplified multiplier.
+
+**Worked example 3:** An inscribed angle intercepts an arc, and that same
+arc is also intercepted by a central angle. If the inscribed angle measures
+35°, find the central angle.
+Since the inscribed angle is always half the central angle: central angle
+$= 2 \times 35° = 70°$.
+
+**Shortcut/trap:** this is the *reverse* direction of the inscribed angle
+theorem — going from inscribed to central, you multiply by 2 instead of
+dividing by 2. Reread the question to see which angle you're given before
+picking the operation.
+
 ---
 
 ### G4 — Circle equation
@@ -141,6 +196,26 @@ $r = 5$.
 the center's $x$-coordinate is $+3$, and $(y+2)^2$ means the center's
 $y$-coordinate is $-2$. Read it as "$x$ minus $h$," not "$x$ plus whatever
 number is written."
+
+**Worked example 2:** Find the center and radius of the circle
+$x^2 + y^2 - 6x + 4y - 3 = 0$.
+Group and complete the square: $(x^2-6x) + (y^2+4y) = 3$
+$\Rightarrow (x-3)^2 - 9 + (y+2)^2 - 4 = 3$
+$\Rightarrow (x-3)^2 + (y+2)^2 = 16$. Center $(3, -2)$, radius $r = 4$.
+
+**Shortcut/trap:** whatever you add inside the parentheses to complete the
+square (here, $+9$ and $+4$) must also be added to the *other side* of the
+equation — forgetting to balance both sides gives a wrong radius even when
+the center comes out right.
+
+**Worked example 3:** A circle has center $(-1, 5)$ and radius 7. Write its
+equation.
+$$(x-(-1))^2 + (y-5)^2 = 7^2 \Rightarrow (x+1)^2 + (y-5)^2 = 49$$
+
+**Shortcut/trap:** this is the reverse direction — going from center/radius
+to equation, a *negative* center coordinate becomes a *plus* sign inside
+the parentheses ($x - (-1) = x+1$), which feels backwards if you're used to
+always reading centers off of existing equations.
 
 ---
 
@@ -170,6 +245,23 @@ pressure — mismatching which side pairs with which is the single most
 common error here, especially when the two triangles are drawn at
 different orientations or aren't drawn touching at all.
 
+**Worked example 2:** A 5-foot student casts a 3-foot shadow at the same
+time a nearby flagpole casts a 21-foot shadow. How tall is the flagpole?
+$$\frac{\text{student height}}{\text{student shadow}} = \frac{\text{pole height}}{\text{pole shadow}} \Rightarrow \frac{5}{3} = \frac{h}{21} \Rightarrow 3h = 105 \Rightarrow h = 35 \text{ ft}$$
+
+**Shortcut/trap:** shadow problems are similar triangles even though no
+triangle is drawn — the sun's rays hit both objects at the same angle, so
+object height and shadow length form the two pairs of corresponding sides.
+Keep "height over shadow" consistent on both sides of the proportion.
+
+**Worked example 3:** $\triangle DEF \sim \triangle GHI$, with $DE = 10$,
+$EF = 14$, $GH = 15$. Find $HI$.
+$$\frac{DE}{GH} = \frac{EF}{HI} \Rightarrow \frac{10}{15} = \frac{14}{HI} \Rightarrow 10 \cdot HI = 210 \Rightarrow HI = 21$$
+
+**Shortcut/trap:** the similarity ratio here is $10:15 = 2:3$ — once you
+spot it, you can scale $EF=14$ by $\tfrac{3}{2}$ directly ($14 \times 1.5 =
+21$) instead of setting up and cross-multiplying a full proportion.
+
 ---
 
 ### G6 — Right-triangle trig: sin/cos/tan (SOH-CAH-TOA)
@@ -194,6 +286,27 @@ whichever angle you're evaluating* — the same triangle gives different
 opposite/adjacent labels depending on which of the two acute angles you're
 computing the ratio for. Always re-check which angle is $\theta$ before
 labeling sides.
+
+**Worked example 2:** A right triangle has an angle $\theta$ with the side
+adjacent to $\theta$ equal to 9 and hypotenuse 15. Find $\sin\theta$,
+$\cos\theta$, $\tan\theta$.
+First find the opposite side: $\text{opp} = \sqrt{15^2-9^2} = \sqrt{225-81} = \sqrt{144} = 12$.
+$$\sin\theta = \frac{12}{15} = \frac{4}{5} \qquad \cos\theta = \frac{9}{15} = \frac{3}{5} \qquad \tan\theta = \frac{12}{9} = \frac{4}{3}$$
+
+**Shortcut/trap:** always simplify the final fractions — $9/15$ and
+$12/15$ don't look like a familiar triple until you reduce them to $3/5$
+and $4/5$, at which point you can recognize the underlying 3-4-5 triangle.
+
+**Worked example 3:** In a right triangle, $\cos\theta = \tfrac{7}{25}$.
+Find $\sin\theta$ and $\tan\theta$.
+The hypotenuse is 25 and the adjacent side is 7, so the opposite side is
+$\sqrt{25^2-7^2} = \sqrt{625-49} = \sqrt{576} = 24$.
+$$\sin\theta = \frac{24}{25} \qquad \tan\theta = \frac{24}{7}$$
+
+**Shortcut/trap:** given just one ratio, rebuild the whole right triangle
+with the Pythagorean theorem before answering — don't try to guess the
+missing ratio without finding the missing side first, since $\sin\theta$
+and $\tan\theta$ depend on a side you weren't given directly.
 
 ---
 
@@ -220,6 +333,24 @@ $$\sin^2\theta + \cos^2\theta = 1 \Rightarrow \cos^2\theta = 1 - \frac{9}{25} = 
 **Shortcut/trap:** the co-function identity is the fast way to solve "if
 $\sin(x°) = \cos(y°)$, find $x$ in terms of $y$" questions — set
 $x = 90 - y$ directly instead of trying to compute either value numerically.
+
+**Worked example 2:** If $\cos(x°) = \sin(40°)$ and $0 < x < 90$, what is
+$x$?
+By the co-function identity, $\cos(x°) = \sin(90° - x°)$, so
+$90 - x = 40 \Rightarrow x = 50$.
+
+**Shortcut/trap:** watch which function is on which side — here it's
+cosine equal to sine, the mirror image of the standard "$\sin = \cos$"
+setup, but the same rule applies: the two angles must sum to 90°.
+
+**Worked example 3:** If $\cos\theta = \tfrac{5}{13}$ and $\theta$ is
+acute, find $\sin\theta$ using the Pythagorean identity.
+$$\sin^2\theta + \cos^2\theta = 1 \Rightarrow \sin^2\theta = 1 - \frac{25}{169} = \frac{144}{169} \Rightarrow \sin\theta = \frac{12}{13}$$
+
+**Shortcut/trap:** same identity as before, just solving for $\sin\theta$
+instead of $\cos\theta$ — don't memorize it as "always solve for cosine";
+memorize the identity itself and isolate whichever variable the question
+asks for.
 
 ---
 
@@ -253,6 +384,27 @@ pressure — instead just sort every angle in the diagram into one of two
 buckets, "same as the angle I'm given" or "supplementary to it." Only
 same-side interior pairs (and linear pairs) are supplementary; everything
 else that isn't literally the same angle is equal.
+
+**Worked example 2:** Two parallel lines are cut by a transversal. One
+angle formed measures 73°. Find its corresponding angle and the angle that
+forms a linear pair with it.
+Corresponding angles are equal: $73°$.
+A linear pair is supplementary: $180° - 73° = 107°$.
+
+**Shortcut/trap:** "corresponding" angles sit in the *same relative
+position* at each intersection (e.g., both upper-right) — if you can't
+picture the position, fall back on the two-bucket rule: same angle unless
+it's a same-side-interior or linear pair, in which case it's supplementary.
+
+**Worked example 3:** In $\triangle PQR$, the angles measure $x°$,
+$(x+20)°$, and $(2x-20)°$. Find the measure of the largest angle.
+$$x + (x+20) + (2x-20) = 180 \Rightarrow 4x = 180 \Rightarrow x = 45$$
+The three angles are $45°$, $65°$, and $70°$ — the largest is $70°$.
+
+**Shortcut/trap:** when a triangle's angles are given as algebraic
+expressions, set their sum equal to 180° first and solve for the variable
+before evaluating any individual angle — plugging in a guessed value for
+$x$ before solving is how these go wrong.
 
 ---
 
