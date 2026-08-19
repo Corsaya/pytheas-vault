@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/SAT/SAT Diagnostic Test (2026-08-07).md",
+                "file": "Courses/SAT/Diagnostic Gap Lessons (2026-08-07).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAT Diagnostic Test (2026-08-07)"
+              "title": "Diagnostic Gap Lessons (2026-08-07)"
             }
           }
         ]
@@ -194,22 +194,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b33a3431d7c376b5",
+  "active": "ef9ab3996f526e5c",
   "lastOpenFiles": [
-    "learning-vault/ai-improvement/Conversations/2026-08-14/04-43-49-7159bb6b.md",
-    "learning-vault/ai-improvement/Conversations/2026-08-14/04-42-54-7159bb6b.md",
-    "learning-vault/ai-improvement/Conversations/2026-08-14/04-40-55-7159bb6b.md",
-    "learning-vault/ai-improvement/Conversations/2026-08-14",
-    "Ultimate Workspace Roadmap.md.tmp.5634.a4c733b76232",
-    "code/pytheas/static/style.css.tmp.5634.3c550b8f18a5",
-    "code/pytheas/settings.py.tmp.5634.a078bc57953e",
-    "code/pytheas/settings.py.tmp.5634.af13262b558d",
-    "Ultimate Workspace Roadmap.md.tmp.5634.ec5ced4902fa",
-    "Courses/SAT/Diagnostic Gap Lessons (2026-08-07).md",
-    "Courses/SAT/Diagnostic Gap Lessons (2026-08-07).md.tmp.5634.29132dcd0273",
-    "Ultimate Workspace Roadmap.md.tmp.5634.299546dd23ef",
-    "Prompts/2026-08-07 Mega Prompt — SAT Tutor Buildout + Life-Improvement North Star Expansion.md",
-    "Prompts/2026-08-07 Mega Prompt — SAT Tutor Buildout + Life-Improvement North Star Expansion.md.tmp.5634.6b32227a7771",
-    "Courses/SAT/SAT Diagnostic Test (2026-08-07).md.tmp.5634.9c30bd06e840"
+    "Courses/SAT/Morning Of Review/Morning-of Review.md",
+    "Courses/SAT/SAT Study System — Claude Bridge.md",
+    "Courses/SAT/Morning Of Review",
+    "Courses/SAT/Claude Instructions.md",
+    "Courses/SAT/Test Strategy/Test Day Execution.md",
+    "Courses/SAT/Test Strategy",
+    "Courses/SAT/Review System/Formula Vault.md",
+    "Courses/SAT/Review System/English Rule Vault.md",
+    "Courses/SAT/Review System/Adaptive Review System.md",
+    "Courses/SAT/Review System",
+    "Courses/SAT/Pattern Library/Pattern Index.md",
+    "Courses/SAT/Pattern Library/001 Polynomial Tables.md",
+    "Courses/SAT/Pattern Library",
+    "Courses/SAT/Crash Courses/Math — Advanced Math.md",
+    "SAT/Claude Instructions.md",
+    "SAT/Pattern Library/001 Polynomial Tables.md",
+    "SAT/Pattern Library/Pattern Index.md",
+    "SAT/Review System/English Rule Vault.md",
+    "SAT/Review System/Formula Vault.md",
+    "SAT/Review System/Adaptive Review System.md",
+    "SAT/Test Strategy/Test Day Execution.md",
+    "SAT/Test Strategy",
+    "SAT/Review System",
+    "SAT/Pattern Library",
+    "SAT",
+    "Courses/SAT.tar.gz",
+    "Courses/Pytheas Benchmark - SAT Test/_artifacts/20260807-0110-quiz.md",
+    "Courses/Basketball Rules/Official-2025-26-NBA-Playing-Rules.pdf",
+    "Courses/SAT/Units/Unit 1 - Linear Equations and Systems/Unit 1 Progress Check.md",
+    "Courses/SAT/Units/Unit 1 - Linear Equations and Systems/Unit 1 Notes.md",
+    "Courses/SAT/Units/Unit 1 - Linear Equations and Systems/Unit 1 Examples.md",
+    "Courses/SAT/Full-Length Practice Test 1/SAT Full-Length Practice Test 1 (2026-08-12).md",
+    "Courses/SAT/Full-Length Practice Test 1/Test 1 Results and Debrief (2026-08-16).md",
+    "Courses/SAT/Crash Courses/R&W — Standard English Conventions.md",
+    "Courses/SAT/Crash Courses/Math — Geometry and Trigonometry.md",
+    "Courses/SAT/Crash Courses/Math — Algebra.md"
   ]
 }
