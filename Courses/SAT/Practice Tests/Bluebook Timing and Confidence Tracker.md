@@ -7,167 +7,136 @@ related: ["[[SAT Study System — Claude Bridge]]", "[[Adaptive Review System]]"
 
 # Bluebook Timing and Confidence Tracker
 
-> **Use for a Bluebook diagnostic practice test only. Do not bring this to the official SAT.**
-> College Board provides and collects official-test scratch paper; personal paper is prohibited.
+> **Diagnostic practice only—do not bring this to the official SAT.**
 
-## How to use this tracker
+Print double-sided, flip on the long edge. `C`: 5 certain → 1 blind guess. `T`: rough elapsed time. `MR`: marked for review. `D`: Desmos used/would help. Record the timer at each stated checkpoint.
 
-Print double-sided, **flip on the long edge**:
-
-- Reading & Writing: 3 sheets, 6 sides, 9 boxes per side (Questions 1–54).
-- Math: 3 sheets, 6 sides, 8 boxes per side (Questions 1–44, plus spare boxes).
-
-In each box, write only brief data—do not turn the test into bookkeeping.
-
-- `C` = confidence: **5** certain, **4** supported, **3** unsure, **2** narrowed guess, **1** blind guess.
-- `T` = rough elapsed time. A close estimate is enough; leave blank if logging it would interrupt you.
-- `MR` = marked for review in Bluebook.
-- `D` = Desmos used or would have been faster.
-
-Record the Bluebook timer remaining after Questions 9, 18, and 27 in each Reading & Writing
-module; after Questions 8, 16, and 22 in each Math module. That checkpoint data is more reliable
-than pretending every question’s exact time is known.
-
-After the test, enter this sheet and the Bluebook review into a note named
-`Bluebook Practice Test — YYYY-MM-DD.md`, following [[SAT Study System — Claude Bridge]].
+<style>
+.sat-page { box-sizing:border-box; width:7.9in; height:9.35in; display:grid; border:1.5px solid currentColor; break-after:page; page-break-after:always; }
+.sat-page.rw { grid-template:repeat(3,1fr)/repeat(3,1fr); }
+.sat-page.math { grid-template:repeat(2,1fr)/repeat(4,1fr); }
+.sat-box { box-sizing:border-box; padding:.18in; border-right:1px solid currentColor; border-bottom:1px solid currentColor; font-size:12pt; line-height:1.4; }
+.rw .sat-box:nth-child(3n), .math .sat-box:nth-child(4n) { border-right:0; }
+.rw .sat-box:nth-child(n+7), .math .sat-box:nth-child(n+5) { border-bottom:0; }
+.sat-box b { font-size:17pt; }
+@media print { .sat-page { width:7.9in; height:9.35in; } }
+</style>
 
 ---
 
 # Reading & Writing — Sheet 1, Front
 
-**Module 1 · start time:** __________  **Timer remaining after Q9:** __________
+**Module 1 · start:** __________  **Timer after Q9:** __________
 
-| | | |
-|---|---|---|
-| **1**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **2**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **3**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **4**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **5**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **6**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **7**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **8**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **9**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-
-<div style="break-after: page;"></div>
+<div class="sat-page rw">
+<div class="sat-box"><b>Q1</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q2</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q3</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q4</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q5</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q6</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q7</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q8</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q9</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+</div>
 
 # Reading & Writing — Sheet 1, Back
 
-**Module 1 · Timer remaining after Q18:** __________
+**Module 1 · Timer after Q18:** __________
 
-| | | |
-|---|---|---|
-| **10**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **11**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **12**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **13**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **14**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **15**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **16**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **17**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **18**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-
-<div style="break-after: page;"></div>
+<div class="sat-page rw">
+<div class="sat-box"><b>Q10</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q11</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q12</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q13</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q14</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q15</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q16</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q17</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q18</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+</div>
 
 # Reading & Writing — Sheet 2, Front
 
-**Module 1 · Timer remaining after Q27:** __________
+**Module 1 · Timer after Q27:** __________
 
-| | | |
-|---|---|---|
-| **19**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **20**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **21**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **22**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **23**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **24**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **25**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **26**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **27**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-
-<div style="break-after: page;"></div>
+<div class="sat-page rw">
+<div class="sat-box"><b>Q19</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q20</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q21</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q22</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q23</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q24</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q25</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q26</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q27</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+</div>
 
 # Reading & Writing — Sheet 2, Back
 
-**Module 2 · start time:** __________  **Timer remaining after Q9:** __________
+**Module 2 · start:** __________  **Timer after Q9:** __________
 
-| | | |
-|---|---|---|
-| **28**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **29**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **30**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **31**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **32**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **33**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **34**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **35**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **36**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-
-<div style="break-after: page;"></div>
+<div class="sat-page rw">
+<div class="sat-box"><b>Q28</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q29</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q30</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q31</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q32</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q33</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q34</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q35</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q36</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+</div>
 
 # Reading & Writing — Sheet 3, Front
 
-**Module 2 · Timer remaining after Q18:** __________
+**Module 2 · Timer after Q18:** __________
 
-| | | |
-|---|---|---|
-| **37**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **38**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **39**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **40**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **41**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **42**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **43**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **44**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **45**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-
-<div style="break-after: page;"></div>
+<div class="sat-page rw">
+<div class="sat-box"><b>Q37</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q38</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q39</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q40</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q41</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q42</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q43</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q44</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q45</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+</div>
 
 # Reading & Writing — Sheet 3, Back
 
-**Module 2 · Timer remaining after Q27:** __________
+**Module 2 · Timer after Q27:** __________
 
-| | | |
-|---|---|---|
-| **46**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **47**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **48**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **49**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **50**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **51**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **52**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **53**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **54**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-
-<div style="break-after: page;"></div>
+<div class="sat-page rw">
+<div class="sat-box"><b>Q46</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q47</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q48</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q49</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q50</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q51</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q52</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q53</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q54</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+</div>
 
 # Math — Sheet 1, Front
 
-**Module 1 · start time:** __________  **Timer remaining after Q8:** __________
+**Module 1 · start:** __________  **Timer after Q8:** __________
 
-| | | | |
-|---|---|---|---|
-| **1**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **2**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **3**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **4**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **5**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **6**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **7**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **8**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-
-<div style="break-after: page;"></div>
+<div class="sat-page math">
+<div class="sat-box"><b>Q1</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q2</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q3</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q4</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q5</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q6</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q7</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q8</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+</div>
 
 # Math — Sheet 1, Back
 
-**Module 1 · Timer remaining after Q16:** __________
+**Module 1 · Timer after Q16:** __________
 
-| | | | |
-|---|---|---|---|
-| **9**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **10**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **11**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **12**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **13**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **14**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **15**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **16**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-
-<div style="break-after: page;"></div>
+<div class="sat-page math">
+<div class="sat-box"><b>Q9</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q10</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q11</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q12</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q13</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q14</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q15</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q16</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+</div>
 
 # Math — Sheet 2, Front
 
-**Module 1 · Timer remaining after Q22:** __________
+**Module 1 · Timer after Q22:** __________
 
-| | | | |
-|---|---|---|---|
-| **17**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **18**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **19**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **20**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **21**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **22**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **Spare / Notes**<br>________________ | **Spare / Notes**<br>________________ |
-
-<div style="break-after: page;"></div>
+<div class="sat-page math">
+<div class="sat-box"><b>Q17</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q18</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q19</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q20</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q21</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q22</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Spare / Notes</b></div><div class="sat-box"><b>Spare / Notes</b></div>
+</div>
 
 # Math — Sheet 2, Back
 
-**Module 2 · start time:** __________  **Timer remaining after Q8:** __________
+**Module 2 · start:** __________  **Timer after Q8:** __________
 
-| | | | |
-|---|---|---|---|
-| **23**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **24**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **25**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **26**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **27**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **28**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **29**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **30**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-
-<div style="break-after: page;"></div>
+<div class="sat-page math">
+<div class="sat-box"><b>Q23</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q24</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q25</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q26</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q27</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q28</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q29</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q30</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+</div>
 
 # Math — Sheet 3, Front
 
-**Module 2 · Timer remaining after Q16:** __________
+**Module 2 · Timer after Q16:** __________
 
-| | | | |
-|---|---|---|---|
-| **31**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **32**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **33**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **34**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **35**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **36**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **37**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **38**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-
-<div style="break-after: page;"></div>
+<div class="sat-page math">
+<div class="sat-box"><b>Q31</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q32</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q33</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q34</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q35</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q36</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q37</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q38</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+</div>
 
 # Math — Sheet 3, Back
 
-**Module 2 · Timer remaining after Q22:** __________
+**Module 2 · Timer after Q22:** __________
 
-| | | | |
-|---|---|---|---|
-| **39**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **40**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **41**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **42**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ |
-| **43**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **44**<br>C: ___/5 · T: ___<br>MR ☐ · D ☐ | **Spare / Notes**<br>________________ | **Spare / Notes**<br>________________ |
+<div class="sat-page math">
+<div class="sat-box"><b>Q39</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q40</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q41</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q42</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div>
+<div class="sat-box"><b>Q43</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Q44</b><br>C: ___ / 5<br>T: ______<br>MR ☐ · D ☐</div><div class="sat-box"><b>Spare / Notes</b></div><div class="sat-box"><b>Spare / Notes</b></div>
+</div>
 
 ---
 
