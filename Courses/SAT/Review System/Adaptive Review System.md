@@ -85,3 +85,7 @@ Use these summaries to generate future study plans and new entries in the [[Patt
 For execution guidance during the next practice test, use [[Test Day Execution]].
 
 [[Claude Instructions]] defines how this system should be maintained.
+
+---
+
+- Written by Codex (GPT-5), 2026-08-19.

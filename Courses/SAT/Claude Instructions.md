@@ -23,3 +23,7 @@ Claude should
 - Encourage decision making and pacing over brute force solving.
 
 Use [[Adaptive Review System]] to turn results into study plans and [[Test Day Execution]] to guide practice-test execution.
+
+---
+
+- Written by Codex (GPT-5), 2026-08-19.

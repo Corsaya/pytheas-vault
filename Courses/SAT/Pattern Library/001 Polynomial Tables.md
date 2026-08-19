@@ -129,3 +129,7 @@ Factoring unnecessarily.
 20-30 seconds.
 
 Return to [[Pattern Index]].
+
+---
+
+- Written by Codex (GPT-5), 2026-08-19.

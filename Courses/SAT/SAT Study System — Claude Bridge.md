@@ -138,3 +138,7 @@ second textbook.
 - Store rules: [[Formula Vault]] and [[English Rule Vault]]
 - Execute: [[Test Day Execution]]
 - Final review: [[Morning-of Review]]
+
+---
+
+- Written by Codex (GPT-5), 2026-08-19.

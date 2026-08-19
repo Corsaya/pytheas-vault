@@ -27,3 +27,7 @@ Use this vault for formulas uncovered through the [[Adaptive Review System]].
 
 
 For grammar rules, see [[English Rule Vault]]. [[Claude Instructions]] governs updates to this vault.
+
+---
+
+- Written by Codex (GPT-5), 2026-08-19.

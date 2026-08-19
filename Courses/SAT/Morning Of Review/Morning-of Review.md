@@ -32,3 +32,7 @@ _Link only the relevant entries from [[Formula Vault]] and [[English Rule Vault]
 ## Morning Checklist
 
 _Add the final no-new-content checklist after the practice-test review is complete._
+
+---
+
+- Written by Codex (GPT-5), 2026-08-19.

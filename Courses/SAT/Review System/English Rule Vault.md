@@ -39,3 +39,7 @@ Use this vault for governing grammar rules uncovered through the [[Adaptive Revi
 
 
 For math formulas, see [[Formula Vault]]. [[Claude Instructions]] governs updates to this vault.
+
+---
+
+- Written by Codex (GPT-5), 2026-08-19.

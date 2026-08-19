@@ -34,3 +34,7 @@ Use this index to navigate recurring SAT question patterns. Add each new pattern
 - _Future patterns_
 
 [[Claude Instructions]] defines the standard for adding new entries.
+
+---
+
+- Written by Codex (GPT-5), 2026-08-19.

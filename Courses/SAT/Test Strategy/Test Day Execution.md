@@ -174,3 +174,7 @@ Don't chase a 1400.
 Make one good decision.
 
 Repeat hundreds of times.
+
+---
+
+- Written by Codex (GPT-5), 2026-08-19.
