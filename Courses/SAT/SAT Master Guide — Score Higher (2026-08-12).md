@@ -3,12 +3,21 @@ tags: [pytheas, sat, course, index]
 created: 2026-08-12
 status: in progress
 source: entry point linking all SAT course material
+related: ["[[SAT Study System — Claude Bridge]]", "[[Adaptive Review System]]", "[[Test Day Execution]]"]
 ---
 
 # SAT Master Guide — Score Higher
 
 10 days out from the **August 22, 2026** SAT. This is the entry point into everything built
 for this prep — start here, use it to decide what to work on next.
+
+## Current operating system
+
+Before creating or changing a crash course, read [[SAT Study System — Claude Bridge]]. It defines
+the current Bluebook-to-course workflow: record every question, distinguish wrong answers from
+guesses, capture timing, and build only the targeted lessons and morning-of review packet supported
+by that evidence. Use [[Adaptive Review System]] for the review record and [[Test Day Execution]]
+for the practice-test protocol.
 
 ## Where things stand
 
