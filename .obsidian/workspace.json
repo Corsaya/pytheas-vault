@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef9ab3996f526e5c",
+  "active": "b33a3431d7c376b5",
   "lastOpenFiles": [
+    "Courses/SAT/Quick Reference/Quick Reference — Math Formulas and Grammar Rules.md",
+    "Courses/SAT/Quick Reference",
     "Courses/SAT/Claude Instructions.md",
     "Courses/SAT/Diagnostic Gap Lessons (2026-08-07).md",
     "Courses/SAT/Foundations Knowledge Check.md",
@@ -226,11 +228,9 @@
     "SAT/Review System/English Rule Vault.md",
     "SAT/Review System/Formula Vault.md",
     "SAT/Review System/Adaptive Review System.md",
-    "SAT/Test Strategy/Test Day Execution.md",
     "SAT/Test Strategy",
     "SAT/Review System",
     "SAT/Pattern Library",
-    "SAT",
-    "Courses/SAT.tar.gz"
+    "SAT"
   ]
 }
