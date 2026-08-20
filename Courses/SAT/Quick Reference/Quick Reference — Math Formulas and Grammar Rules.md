@@ -29,12 +29,12 @@ Degrees in a circle = 360 · Radians in a circle = 2π · Angles in a triangle =
 
 ## 1.2 Linear 🧠
 
-| Form | Equation | Use it when |
-|---|---|---|
-| Slope-intercept | `y = mx + b` | you have/need slope + y-intercept |
-| Point-slope | `y − y₁ = m(x − x₁)` | given a point and a slope |
-| Standard | `Ax + By = C` | intercepts fast: x-int = C/A, y-int = C/B |
-| Slope | `m = (y₂ − y₁)/(x₂ − x₁)` | two points |
+| Form            | Equation                  | Use it when                               |
+| --------------- | ------------------------- | ----------------------------------------- |
+| Slope-intercept | `y = mx + b`              | you have/need slope + y-intercept         |
+| Point-slope     | `y − y₁ = m(x − x₁)`      | given a point and a slope                 |
+| Standard        | `Ax + By = C`             | intercepts fast: x-int = C/A, y-int = C/B |
+| Slope           | `m = (y₂ − y₁)/(x₂ − x₁)` | two points                                |
 
 - Parallel → **same slope**. Perpendicular → **negative reciprocal** (`m₁m₂ = −1`).
 - Systems: **1 solution** = different slopes · **infinite** = same line (all coefficients proportional) · **none** = same slope, different intercept.
