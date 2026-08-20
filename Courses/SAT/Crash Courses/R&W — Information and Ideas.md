@@ -2,7 +2,7 @@
 tags: [pytheas, sat, reading, information-and-ideas, crash-course]
 created: 2026-08-12
 source: "Foundations Knowledge Check I1-I4"
-related: ["[[../Foundations Knowledge Check]]", "[[../Research/YouTube Guide Research — Math, Grammar, Reading (2026-08-07)]]"]
+related: ["[[../Foundations Knowledge Check]]"]
 ---
 
 # R&W — Information and Ideas Crash Course
@@ -17,7 +17,7 @@ inference. All four share one passage format — a single short passage
 carry across all of them.
 
 The shared meta-strategy from the vetted YouTube research
-(`Research/YouTube Guide Research`): **Question → Passage → Prediction →
+(2026-08-07 research): **Question → Passage → Prediction →
 Elimination.** Read the question stem first so you know what you're looking
 for before you read the passage, form your own answer in your head before
 looking at the choices, then eliminate rather than hunt for "the right one."

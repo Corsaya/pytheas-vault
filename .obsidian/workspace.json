@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/SAT/Quick Reference/Quick Reference — Math Formulas and Grammar Rules.md",
+                "file": "Courses/SAT/Review System/Adaptive Review System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Reference — Math Formulas and Grammar Rules"
+              "title": "Adaptive Review System"
             }
           }
         ]
@@ -196,10 +196,12 @@
   },
   "active": "ef9ab3996f526e5c",
   "lastOpenFiles": [
+    "Courses/SAT/Research/Bluebook Tools and Pacing Reference (2026-08-12).md",
+    "learning-vault/ai-improvement/Conversations/2026-08-20/20-16-07-fb1400cc.md",
+    "Courses/SAT/Quick Reference/Quick Reference — Math Formulas and Grammar Rules.md",
     "Courses/SAT/Practice Tests/Bluebook Timing and Confidence Tracker.md",
     "learning-vault/ai-improvement/Conversations/2026-08-20/17-10-19-fb1400cc.md",
     "learning-vault/ai-improvement/Conversations/2026-08-20",
-    "Courses/SAT/Quick Reference/Quick Reference — Math Formulas and Grammar Rules.md",
     "Courses/SAT/Quick Reference",
     "Courses/SAT/Claude Instructions.md",
     "Courses/SAT/Diagnostic Gap Lessons (2026-08-07).md",
@@ -227,8 +229,6 @@
     "SAT/Claude Instructions.md",
     "SAT/Pattern Library/001 Polynomial Tables.md",
     "SAT/Pattern Library/Pattern Index.md",
-    "SAT/Review System/English Rule Vault.md",
-    "SAT/Review System/Formula Vault.md",
     "SAT/Test Strategy",
     "SAT/Review System",
     "SAT/Pattern Library"

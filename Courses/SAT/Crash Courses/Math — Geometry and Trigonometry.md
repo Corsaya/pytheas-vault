@@ -2,7 +2,7 @@
 tags: [pytheas, sat, math, geometry, trigonometry, crash-course]
 created: 2026-08-12
 source: "Foundations Knowledge Check G1-G8"
-related: ["[[../Foundations Knowledge Check]]", "[[../Research/Bluebook Parity, Khan Academy, Strategy, and Social Advice Research (2026-08-12)]]"]
+related: ["[[../Foundations Knowledge Check]]", "[[../Research/Bluebook Tools and Pacing Reference (2026-08-12)]]"]
 ---
 
 # Math — Geometry & Trigonometry Crash Course
@@ -14,7 +14,7 @@ to you outright or a short, memorizable rule. Covers G1–G8 from the
 [[../Foundations Knowledge Check]].
 
 **The reference-sheet split — know this before you study anything below.**
-Per the [[../Research/Bluebook Parity, Khan Academy, Strategy, and Social Advice Research (2026-08-12)|2026-08-12 research]], the digital SAT's
+Per the [[../Research/Bluebook Tools and Pacing Reference (2026-08-12)|2026-08-12 research]], the digital SAT's
 built-in reference sheet is **geometry-only** — about 15 formulas: area of a
 rectangle/triangle/circle, circumference, volumes of a rectangular solid,
 cylinder, sphere, cone, and pyramid, the Pythagorean theorem, both special

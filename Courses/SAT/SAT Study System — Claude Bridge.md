@@ -2,7 +2,7 @@
 tags: [pytheas, sat, workflow, claude, bluebook, crash-course]
 created: 2026-08-19
 status: active operating instructions
-related: ["[[SAT Master Guide — Score Higher (2026-08-12)]]", "[[Adaptive Review System]]", "[[Pattern Index]]", "[[Formula Vault]]", "[[English Rule Vault]]", "[[Test Day Execution]]", "[[Morning-of Review]]"]
+related: ["[[Adaptive Review System]]", "[[Pattern Index]]", "[[Formula Vault]]", "[[English Rule Vault]]", "[[Test Day Execution]]", "[[Morning-of Review]]"]
 ---
 
 # SAT Study System — Claude Bridge
@@ -97,6 +97,13 @@ actionable. After each completed practice-test review, update it to contain only
 Do not fill the packet with every crash-course topic. It is a last-mile execution tool, not a
 second textbook.
 
+## Sources — Bluebook and the Question Bank only
+
+As of 2026-08-20 the only question sources are **official Bluebook practice tests** and the
+**College Board Student Question Bank**. All self-generated practice tests, the vault
+full-length test, and the Chiron test/drill apps have been deleted. Do not write new practice
+questions, and do not treat any non-official item as score evidence.
+
 ## Critique of the current SAT material
 
 ### What is already strong
@@ -108,31 +115,28 @@ second textbook.
   execution problems instead of knowledge gaps.
 - [[Diagnostic Gap Lessons (2026-08-07)]] already models focused remediation: one defined gap,
   a short lesson, practice, and a retest.
-- [[SAT Adaptive Drill]] already supports difficulty adjustment and explicitly calls out Desmos.
+- [[Quick Reference — Math Formulas and Grammar Rules]] is the scannable pre-test layer the
+  crash courses were too long to serve as.
 
 ### What must improve
 
 - The crash courses are organized by coverage, not yet by the student's next Bluebook evidence.
-  They should become a resource library; the practice-test record should decide what gets studied.
-- There is no single per-question dataset that combines result, confidence, time, mistake reason,
+  They should stay a resource library; the Bluebook and Question Bank record decides what gets
+  studied.
+- There is no per-question dataset yet that combines result, confidence, time, mistake reason,
   and Desmos opportunity. Without it, Claude cannot reliably distinguish a knowledge gap from a
-  lucky guess, pacing problem, or careless error.
-- [[Test 1 — Results and Debrief (2026-08-16)]] correctly explains that three Reading & Writing
-  domains were not actually attempted. Those blanks must not be used to build content courses;
-  a completed Bluebook test is needed first.
-- The existing full-length practice test is described as fixed-difficulty, while Bluebook is
-  adaptive. Bluebook results should therefore be the main current diagnostic, with the vault test
-  used as supplementary practice rather than equivalent score evidence.
+  lucky guess, a pacing problem, or a careless error.
 - Much of the crash-course content is explanatory and comprehensive. For the final study window,
-  each verified weak skill needs a shorter recognition cue, algorithm, trap, and timed retest.
-- Desmos guidance exists in the practice runner, but there is not yet a durable, personalized
-  list of when the student should use it. Build that list only from verified question types.
-- The Master Guide is a strong catalog but its date-specific countdown and open items are stale.
-  This bridge is the active workflow until it is deliberately reconciled with a new test date.
+  each verified weak skill needs a shorter recognition cue, algorithm, trap, and timed retest
+  built from real Question Bank items.
+- There is not yet a durable, personalized list of when to reach for Desmos. Build it only from
+  verified question types, and only from official items.
+- [[Formula Vault]] and [[English Rule Vault]] are still empty. They fill from real misses, not
+  in advance.
 
 ## Navigation
 
-- Start here: [[SAT Master Guide — Score Higher (2026-08-12)]]
+- Start here: [[Quick Reference — Math Formulas and Grammar Rules]]
 - Record and diagnose: [[Adaptive Review System]]
 - Build recognition: [[Pattern Index]]
 - Store rules: [[Formula Vault]] and [[English Rule Vault]]

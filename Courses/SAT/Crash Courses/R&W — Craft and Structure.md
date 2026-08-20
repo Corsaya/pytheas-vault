@@ -2,7 +2,7 @@
 tags: [pytheas, sat, reading, craft-and-structure, crash-course]
 created: 2026-08-12
 source: "Foundations Knowledge Check R1-R4"
-related: ["[[../Foundations Knowledge Check]]", "[[../Research/YouTube Guide Research — Math, Grammar, Reading (2026-08-07)]]"]
+related: ["[[../Foundations Knowledge Check]]"]
 ---
 
 # R&W — Craft and Structure Crash Course
