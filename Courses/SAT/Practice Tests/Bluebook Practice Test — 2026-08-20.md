@@ -2,7 +2,7 @@
 tags: [pytheas, sat, bluebook, practice-test, record, official]
 created: 2026-08-20
 source: "SAT Practice 11 — mypractice.collegeboard.org, taken 2026-08-20"
-status: misses recorded — confidence and timing still to be filled in by Donovan
+status: complete — all 98 rated for confidence 2026-08-20
 related: ["[[SAT Study System — Claude Bridge]]", "[[Adaptive Review System]]", "[[English Rule Vault]]", "[[Formula Vault]]", "[[Pattern Index]]"]
 ---
 
@@ -135,14 +135,78 @@ gap** — the method was right through the entire chain and the final division u
 infinitely many solutions — which still counts as "at least one." Answer was I and II, not
 II only. The slope-comparison logic was applied but the identical-line case was excluded.
 
-## What this record still needs
+## Confidence layer (all 98 rated, 1-5)
 
-The three fields that decide whether a miss is a knowledge gap or an execution problem are
-**not** in the screenshots and have to come from you:
+Ratings collected blind — the answer panel was cropped out of every screenshot before rating,
+so these reflect how the question felt during the test, not hindsight.
+Raw export: [[Practice 11 — Raw Confidence Export (2026-08-20)]].
 
-1. **Confidence** per miss — 🟢 certain / 🟡 unsure / 🔴 guess.
-2. **Rough time** per miss — fast / normal / slow / sank.
-3. **Any question you got RIGHT but guessed on** — invisible in this data and treated as
-   unlearned under [[Adaptive Review System]].
+| | Certain (4-5) | Unsure (3) | Guess (1-2) |
+|---|---:|---:|---:|
+| **Correct** | 61 | 4 | 6 |
+| **Incorrect** | 5 | 10 | 12 |
 
-Item 3 matters most: 71 correct includes an unknown number of lucky guesses.
+### Calibration is good — that is the most useful thing here
+
+**When you were certain, you were right 61 times out of 66 (92%).** Only 5 confident misses on
+the whole test. Self-knowledge is not the problem, which means the study list can be built from
+a small, specific set instead of re-covering domains.
+
+**But the "leaning" bucket is upside down.** On the 14 questions rated 3 — narrowed to two,
+picking the more likely one — you went **4 for 14 (29%)**. A genuine coin flip between two
+survivors would be 50%. The sample is small enough that this could be noise, but the direction
+is worth an execution rule: **a 3 means your lean is not evidence.** Go back to the text and
+find one concrete line that decides it, or flag it and come back. Don't go with the feeling.
+
+### Effective score, adjusted
+
+Six correct answers were guesses (1-2). If those had broken the other way you'd be at **65/98**
+rather than 71. Five of those six are Reading & Writing.
+
+### The four quadrants
+
+**Wrong + certain — blind spots, highest priority.** You will not flag these on test day
+because they don't feel wrong.
+
+| Question | Conf | What it was |
+|---|---:|---|
+| R&W M1 Q23 | 4 | Transition |
+| R&W M2 Q23 | 4 | Transition |
+| R&W M2 Q12 | **5** | Table data (TRAPPIST-1) |
+| Math M2 Q12 | **5** | Probability, compound condition |
+| Math M2 Q19 | 4 | System with "at least one solution" |
+
+**Correct + guessed — unlearned, would not survive a harder module.**
+R&W M1 Q4 (Craft), R&W M2 Q7 (Craft), R&W M2 Q8 (Info & Ideas), R&W M2 Q13 (Info & Ideas),
+R&W M2 Q27 (Expression), Math M2 Q20 (Geometry & Trig).
+
+**Wrong + unsure — need a decision rule, not more theory.**
+R&W M1 Q3, Q8, Q13, Q19; R&W M2 Q2, Q5, Q9, Q20, Q21; Math M2 Q15.
+
+**Wrong + guessed — known gaps, correctly identified as such.**
+R&W M1 Q6, Q7, Q12; R&W M2 Q3, Q4, Q14; Math M1 Q19, Q20; Math M2 Q16, Q17, Q21, Q22.
+
+### Section split
+
+| | n | Avg confidence | Correct |
+|---|---:|---:|---:|
+| R&W Module 1 | 27 | 3.59 | 19 |
+| R&W Module 2 | 27 | 3.22 | 17 |
+| Math Module 1 | 22 | **4.64** | **20** |
+| Math Module 2 | 22 | 3.64 | 15 |
+
+Math Module 1 is the standout: 18 of 22 rated 5, all 18 correct. Both misses there were rated
+2 — you knew. Math Module 2 is where the difficulty jumped (consistent with routing into the
+harder tier after a strong Module 1), and 6 of its 7 misses were rated 3 or below.
+
+**R&W carries both the misses and the uncertainty.** Average confidence 3.41 against Math's
+4.14, and 5 of the 6 lucky guesses.
+
+## Transitions are now the top priority, not word-in-context
+
+The raw miss count said word-in-context (4 misses). The confidence layer says otherwise:
+those four were rated 3, 3, 2, 2 — **you knew you were struggling**, and on test day you will
+flag them and spend the time.
+
+Both transition misses were rated **4**. That is a blind spot: a domain you believe you have
+and don't. It gets fixed first. See [[Study Plan — Final Two Days (2026-08-20)]].

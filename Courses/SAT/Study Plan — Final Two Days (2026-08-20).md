@@ -24,68 +24,71 @@ grammar** — which is the opposite of what the last three weeks assumed.
 
 ---
 
-## Priority 1 — Word in context (4 misses, ~40 min)
+## Revised by the confidence data
 
-The biggest single cluster, and the cheapest to fix, because it's a **habit change, not
-knowledge**. Every one of the four was a real word that fit the topic and failed the logic.
+All 98 are now rated. **Your calibration is good — 61 of 66 "certain" answers were right.**
+That means the study list is short and specific, and it is *not* ordered by miss count.
+Full analysis: [[Bluebook Practice Test — 2026-08-20]].
 
-**The drill:** open the College Board Question Bank, filter to **Craft and Structure → Words in
-Context**, and do 20 questions with this rule enforced:
+## Priority 1 — Transitions (~20 min) — the real blind spot
 
-1. Cover the choices with your hand or the Option Eliminator.
-2. Find the logical signal — *although, but, yet, however, paradox, despite*. These force a reversal.
-3. **Say your own word out loud before looking.**
-4. Uncover. Match to your word.
+Two misses, **both rated 4 (confident)**. That is the definition of a blind spot: on Saturday
+you will not flag these, because they won't feel wrong. Everything else you missed, you knew
+you were shaky on.
 
-If you can't predict a word, you haven't understood the sentence yet — re-read the clause
-rather than shopping the choices. Full pattern: [[002 Word in Context]].
+**The rule:** cover the choices. Read the sentence before and the sentence after. **Say the
+relationship out loud in your own words** — "this contradicts that," "this is an example of
+that." *Then* look. Plugging each option in and listening for what sounds right is exactly what
+produced both misses.
 
-> Your four misses, as evidence you can check yourself against: M1 Q3 needed a negative word
-> because the sentence announced a *paradox*; M2 Q4 needed "manifest" in its older sense
-> (*perceptible*), not the everyday one (*realized*).
-
-## Priority 2 — Conventions: finite verb or participle? (~15 min)
-
-M2 Q20 and Q21 are the **same trap twice in one module**, which means it will almost certainly
-appear again on Saturday.
-
-**The rule:** if the sentence already has a main verb and there's no FANBOYS or subordinator,
-the blank takes a **participle** (*prioritizing*, *searching*), never a finite verb.
-
-**The tell:** all four choices are forms of the same verb. That's the SAT asking "finite or
-participle?", not "which tense?"
-
-Plus the matched-pair rule from M1 Q19: **an interrupter closes with the mark that opened it**,
-and the opening mark is usually outside the underline — look left before choosing.
-
-Both are written up in [[English Rule Vault]] and [[003 Finite Verb or Participle]].
-Ten Question Bank items on Boundaries is enough.
-
-## Priority 3 — Table-data questions (0 for 2, ~20 min)
-
-"Which choice most effectively uses data from the table." You went 0 for 2, and every wrong
-option in both quoted **accurate numbers** from the table.
-
-**The rule:** claim first, table second. Read the sentence before the blank, write down what
-has to be true, *then* look at the table. See [[004 Table Data Completion]].
-
-## Priority 4 — Advanced Math, the two real ones (~30 min)
-
-Only if the R&W work above is done.
-
-- **M2 Q16 — rational functions.** `g(k)=0` means the **numerator** is zero at k. `g(0)` is the
-  ratio of the constant terms.
-- **M2 Q21 — factored form from a graph.** A root the curve *bounces* off is a squared factor;
-  one it *crosses* is single. Apply any input shift to the roots.
-
-Both in [[Formula Vault]]. **Skip Q15** — that one was correct method and a botched final
-division, and re-teaching rational exponents would be treating a careless error as a gap.
-
-## Priority 5 — Transitions (~10 min)
-
-Two misses (M1 Q23, M2 Q23), both from plugging choices in and listening for what sounds right.
-Cover the choices, state the relationship in your own words, *then* pick.
+Question Bank → Expression of Ideas → Transitions. Twenty questions, method enforced.
 Table: [[Quick Reference — Math Formulas and Grammar Rules]] §2.11.
+
+## Priority 2 — Quantitative evidence / table questions (~25 min)
+
+R&W M2 Q12 was your **single most confident miss (rated 5)**, and M1 Q13 was the same question
+type. Two more in this area (M2 Q8, M2 Q13) you got right **on a guess**. So this skill is
+4-for-shaky and one part of it is an outright blind spot.
+
+**The rule:** claim first, table second. Read the sentence before the blank, write down what has
+to be true, *then* look at the table. Every wrong option in both misses quoted accurate numbers
+that supported the wrong claim. See [[004 Table Data Completion]].
+
+## Priority 3 — The two confident Math misses (~15 min)
+
+Small, mechanical, and both already written up in [[Formula Vault]]:
+
+- **Math M2 Q12 (rated 5)** — probability with a compound condition. "Even **and** ≤ 50" is
+  25 numbers out of 160, not 50. Underline each condition and tick it off as you count.
+- **Math M2 Q19 (rated 4)** — "at least one solution" **includes infinitely many**. Check all
+  three coefficients for proportionality before calling a system parallel.
+
+## Priority 4 — Word in context (~30 min)
+
+Still four misses, still the biggest raw cluster — but rated 3, 3, 2, 2, so you already know
+when you're in trouble here. Worth the time after the blind spots are handled.
+
+Cover the choices → find the reversal signal (*although, but, yet, paradox, despite*) → say your
+own word out loud → then match. See [[002 Word in Context]].
+
+## Priority 5 — If time remains
+
+- **Finite verb vs. participle** (M2 Q20, Q21 — both rated 3). Ten Question Bank items on
+  Boundaries. [[003 Finite Verb or Participle]].
+- **Advanced Math** — Q16 (rational functions) and Q21 (factored form from a graph), both
+  rated 1. Real gaps, but you rated them honestly and they're two questions.
+  **Skip Q15** — correct method, botched final division. Not a gap.
+
+## The execution rule that may be worth more than any of the above
+
+On the 14 questions you rated **3** — "narrowed to two, leaning one way" — you went **4 for 14**.
+Worse than a coin flip between two survivors.
+
+> **A 3 means your lean is not evidence.** Go back to the text and find one concrete line that
+> decides it. If you can't, mark for review and move on — don't spend the time going with a
+> feeling that is running below chance.
+
+Small sample, so treat it as a flag rather than a law. But it costs nothing to apply.
 
 ---
 
@@ -102,20 +105,9 @@ Table: [[Quick Reference — Math Formulas and Grammar Rules]] §2.11.
 
 | When | What |
 |---|---|
-| **Tonight** | Rate all 98 in the confidence tool (~20 min). Then Priority 1. |
-| **Friday** | Priorities 2, 3, and 5 — about an hour total. Priority 4 if it's going well. Stop by evening. |
+| **Tonight** | Priorities 1 and 2 — the two blind spots. ~45 min. |
+| **Friday** | Priority 3 (15 min), then Priority 4. Priority 5 only if it's going well. Stop by evening. |
 | **Saturday AM** | [[Morning-of Review]] only. No new questions. |
 
-## Before any of it: rate your confidence
-
-`~/Pictures/Screenshots/SAT Practice Screenshots/confidence-rater.html`
-
-The 27 misses are only half the picture. **71 correct includes an unknown number of lucky
-guesses**, and under [[Adaptive Review System]] a correct-but-guessed question is unlearned
-material that will not survive a harder module. Rating all 98 tells us:
-
-- **Correct + guess** → study it anyway; it's a gap wearing a disguise.
-- **Wrong + certain** → a real knowledge gap, highest priority.
-- **Wrong + unsure** → needs a decision rule, not more theory.
-
-That output reorders this plan, and it's what the [[Morning-of Review]] packet gets built from.
+Confidence rating is done — all 98, collected blind. That work is finished and folded into
+[[Bluebook Practice Test — 2026-08-20]].
