@@ -246,7 +246,7 @@ made certain.
 
 ## Miss review triage (in progress)
 
-Tool: `~/Pictures/Screenshots/SAT Practice Screenshots/miss-review.html` — all 27 misses, full
+Tool: `Courses/SAT/Practice Tests/Practice 11/miss-review.html` — all 27 misses, full
 screenshot with the College Board rationale, plus the one-line diagnosis from this record.
 Three verdicts per question: **got it now** / **still don't understand** / **careless, I knew it**,
 with an optional note on what's confusing.
