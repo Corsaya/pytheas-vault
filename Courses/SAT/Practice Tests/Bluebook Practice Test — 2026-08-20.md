@@ -202,6 +202,23 @@ harder tier after a strong Module 1), and 6 of its 7 misses were rated 3 or belo
 **R&W carries both the misses and the uncertainty.** Average confidence 3.41 against Math's
 4.14, and 5 of the 6 lucky guesses.
 
+## Desmos usage log (pending)
+
+Tool: `~/Pictures/Screenshots/SAT Practice Screenshots/desmos-log.html` — per question, whether
+Desmos was used, what kind of work was done, and the exact input. Scoped to the 44 Math
+questions by default (Desmos isn't available in R&W), with a toggle for all 98.
+
+This is the last missing field from the [[SAT Study System — Claude Bridge]] record format, and
+it's what turns section 5 of [[Morning-of Review]] from inference into evidence — the packet
+currently lists Desmos triggers derived from the *type* of question missed, not from what you
+actually did.
+
+The three things it will answer:
+
+1. **Missed, didn't use Desmos, and it would have helped** — the real Desmos list.
+2. **Missed while using Desmos** — an input or interpretation problem, not a tool problem.
+3. **Correct by hand at low confidence** — where the tool would buy back time on Saturday.
+
 ## Transitions are now the top priority, not word-in-context
 
 The raw miss count said word-in-context (4 misses). The confidence layer says otherwise:
