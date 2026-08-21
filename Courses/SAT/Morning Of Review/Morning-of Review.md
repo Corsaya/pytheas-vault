@@ -77,21 +77,54 @@ Two more that solve questions in seconds:
 
 ---
 
-## 5. Desmos: when to reach for it
+## 5. Desmos: you own a solver and you're using it as a calculator
 
-Verified from your own misses and near-misses — type it in rather than solving by hand when
-you see:
+From your own log of all 44 Math questions:
 
-- **A system of equations** — graph both, read the intersection. (Would have settled M2 Q19.)
-- **Reading a value off a provided graph** — retype the line and click the gray intercept dots
-  instead of eyeballing the gridlines. (M1 Q19 was an intercept misread.)
-- **Any "for what value of x" with ugly numbers**
-- **Vertex, max/min, or roots** — click the point, don't derive it
-- **A quadratic whose answers aren't integers**
+| What you did with it | Count |
+|---|---:|
+| Arithmetic only | 6 |
+| Graphed it / read a point | 5 |
+| Backsolved the choices | 4 |
+| **Solved an equation** | **2** |
 
-Desmos is available for **both** Math modules, the whole time.
+**Two questions out of forty-four.** Six times you opened a graphing engine to multiply numbers.
 
----
+> **Saturday's rule: type the problem in, not your own arithmetic.**
+> If you find yourself doing algebra on paper and using Desmos to check the multiplication,
+> you have it backwards. Type the equation as printed and let it solve.
+
+### Four misses where you didn't open it and it solves the question outright
+
+| Question | What to have typed |
+|---|---|
+| M1 Q19 — intercept off a graph | Retype the line, click the gray intercept dot. You eyeballed gridlines and misread it. |
+| M2 Q16 — rational function | Type `g(x)=(x^2-x-a)/(x^3-x-b)`, add sliders for a and b, or just evaluate. |
+| M2 Q21 — factored form from a graph | Graph the polynomial and read the roots off it. |
+| M2 Q22 — chained percents | Type `4.68b=0.00780c` and solve. |
+
+### And the flip side — four misses where Desmos was already open
+
+M1 Q20, M2 Q15, M2 Q17, M2 Q19. **In none of them was the tool the problem.**
+
+- **M2 Q19 — you graphed it and still missed it.** `2x+9y=7` and `3x+13.5y=10.5` are the
+  *same line*, so Desmos draws what looks like **one** line. That's not a glitch and it's not
+  "no second equation" — **coincident lines mean infinitely many solutions**, which counts as
+  "at least one." If you graph two equations and see one line, that's your answer.
+- **M2 Q17** — you graphed an angle-relationship question. Graphing can't answer "could NOT be
+  the sum." Right tool, wrong question.
+- **M2 Q15** — Desmos was open for arithmetic and the final division still went wrong
+  (41/9 instead of 41/81). The step you did in your head is the step that broke. Put the last
+  step in the calculator too.
+- **M1 Q20** — backsolved a trig setup. No calculator fixes labeling the wrong side as opposite.
+
+### The trigger list
+
+Type it in, don't solve it, when you see: **a system of equations** · **any graph you have to
+read a value off** · **roots, vertex, max or min** · **an equation with ugly numbers** ·
+**a percent relationship between two unknowns** · **the last arithmetic step of anything**.
+
+Desmos is available for **both** Math modules, the entire time.
 
 ## 6. Where your points actually are
 

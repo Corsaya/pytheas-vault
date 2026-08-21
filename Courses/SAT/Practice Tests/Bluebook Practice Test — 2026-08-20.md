@@ -202,22 +202,47 @@ harder tier after a strong Module 1), and 6 of its 7 misses were rated 3 or belo
 **R&W carries both the misses and the uncertainty.** Average confidence 3.41 against Math's
 4.14, and 5 of the 6 lucky guesses.
 
-## Desmos usage log (pending)
+## Desmos usage log (complete)
 
-Tool: `~/Pictures/Screenshots/SAT Practice Screenshots/desmos-log.html` — per question, whether
-Desmos was used, what kind of work was done, and the exact input. Scoped to the 44 Math
-questions by default (Desmos isn't available in R&W), with a toggle for all 98.
+All 44 Math questions logged. Raw: [[Practice 11 — Raw Desmos Log (2026-08-20)]].
+Desmos used on **17 of 44**.
 
-This is the last missing field from the [[SAT Study System — Claude Bridge]] record format, and
-it's what turns section 5 of [[Morning-of Review]] from inference into evidence — the packet
-currently lists Desmos triggers derived from the *type* of question missed, not from what you
-actually did.
+### The finding: it's being used as a four-function calculator
 
-The three things it will answer:
+| Use | Count |
+|---|---:|
+| Arithmetic only | 6 |
+| Graphed it / read a point | 5 |
+| Backsolved the choices | 4 |
+| **Solved an equation** | **2** |
 
-1. **Missed, didn't use Desmos, and it would have helped** — the real Desmos list.
-2. **Missed while using Desmos** — an input or interpretation problem, not a tool problem.
-3. **Correct by hand at low confidence** — where the tool would buy back time on Saturday.
+Two of forty-four questions used Desmos as a solver. Six of the seventeen uses were arithmetic.
+Correct rate with the tool (13/17) is no better than without it (22/27) — unsurprising, since
+it's reached for on harder questions, but it confirms the tool isn't converting into points
+**as currently used**.
+
+### Misses, split by tool
+
+**Didn't open it, and it solves the question outright — 4:** M1 Q19 (read an intercept),
+M2 Q16 (rational function), M2 Q21 (factored form from a graph), M2 Q22 (chained percents).
+Two of these you flagged yourself as "would have helped."
+
+**Had it open and missed anyway — 4:** M1 Q20, M2 Q15, M2 Q17, M2 Q19. In none of them was the
+tool the limiting factor:
+
+- **M2 Q19** is the important one — *graphed, and still wrong*. Coincident lines render as a
+  single line, and that was read as something other than "infinitely many solutions."
+  A Desmos **interpretation** gap, not a usage gap.
+- **M2 Q17** — graphing applied to a question graphing can't answer.
+- **M2 Q15** — tool open for arithmetic; the final division was done mentally and broken.
+- **M1 Q20** — no calculator fixes a mislabeled opposite side.
+
+**Neither — 1:** M2 Q12 (probability, compound condition, confidence 5).
+
+### One more candidate
+
+M2 Q20: correct, but at **confidence 2**, done by hand. A lucky point that the tool would have
+made certain.
 
 ## Transitions are now the top priority, not word-in-context
 

@@ -63,6 +63,22 @@ Small, mechanical, and both already written up in [[Formula Vault]]:
 - **Math M2 Q19 (rated 4)** — "at least one solution" **includes infinitely many**. Check all
   three coefficients for proportionality before calling a system parallel.
 
+## Priority 3.5 — Desmos as a solver (~15 min) — new, from the usage log
+
+You logged all 44 Math questions. **Two of them used Desmos to solve an equation.** Six of the
+seventeen uses were arithmetic — a graphing engine used to multiply.
+
+Four misses were questions Desmos answers outright and you didn't open it (M1 Q19, M2 Q16,
+M2 Q21, M2 Q22). Four more you missed *with it open*, where the input or the reading was the
+problem, not the tool.
+
+**The drill:** take those eight questions and re-do them in Desmos, typing the problem as
+printed rather than your own algebra. Fifteen minutes. You're rehearsing the reach, not the math.
+
+**The one interpretation trap to fix:** graph `2x+9y=7` and `3x+13.5y=10.5`. They're the same
+line, so you'll see **one** line. That means infinitely many solutions — which counts as "at
+least one." Seeing a single line is the answer, not a problem with the graph.
+
 ## Priority 4 — Word in context (~30 min)
 
 Still four misses, still the biggest raw cluster — but rated 3, 3, 2, 2, so you already know
@@ -105,8 +121,8 @@ Small sample, so treat it as a flag rather than a law. But it costs nothing to a
 
 | When | What |
 |---|---|
-| **Tonight** | Priorities 1 and 2 — the two blind spots. ~45 min. |
-| **Friday** | Priority 3 (15 min), then Priority 4. Priority 5 only if it's going well. Stop by evening. |
+
+| **Friday (today)** | Priorities 1 and 2 first — the blind spots. Then 3 and 3.5 (30 min combined). Priority 4 if there's room. Priority 5 only if it's going well. **Finish by dinner.** |
 | **Saturday AM** | [[Morning-of Review]] only. No new questions. |
 
 Confidence rating is done — all 98, collected blind. That work is finished and folded into
