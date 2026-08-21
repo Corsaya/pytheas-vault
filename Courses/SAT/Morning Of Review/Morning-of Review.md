@@ -3,6 +3,7 @@ tags: [pytheas, sat, final-review, test-day]
 created: 2026-08-19
 updated: 2026-08-20
 status: built from Bluebook Practice 11 (2026-08-20), all 98 questions rated for confidence
+test_date: "2026-08-22 (Saturday), 8:00 AM start"
 related: ["[[Bluebook Practice Test — 2026-08-20]]", "[[Test Day Execution]]", "[[Study Plan — Final Two Days (2026-08-20)]]", "[[Formula Vault]]", "[[English Rule Vault]]"]
 ---
 
@@ -101,13 +102,33 @@ R&W carried 18 of your 27 misses and 5 of your 6 lucky guesses. Math Module 1 yo
 
 ---
 
-## 7. Morning checklist
+## 7. Saturday timeline — 8:00 AM start
 
-- [ ] Normal breakfast. Water.
-- [ ] Admission ticket, photo ID, charged laptop/tablet + charger, calculator, pencils.
-- [ ] Bluebook already installed, updated, and **launched once** to confirm it opens.
-- [ ] Read sections 1–3 above. Once.
-- [ ] **No new practice questions.** Nothing new goes in today.
-- [ ] Phone away before the first module.
+Adjust for your actual travel time; check the admission ticket for the exact reporting time.
+
+| Time | What |
+|---|---|
+| **Friday night** | Bag packed. Bluebook exam setup already completed. Read sections 1–6 **once**. Bed by 10. |
+| **6:00 AM** | Up. No snooze. |
+| **6:15** | Real breakfast — protein, not just sugar. Water. |
+| **6:45** | Skim sections 1 and 2 only. Ten minutes, maximum. |
+| **7:00** | Leave. |
+| **~7:30** | Arrive and check in (whatever your ticket says — be early, not on time). |
+| **8:00** | Start. Reading & Writing: two 32-minute modules. |
+| **~9:15** | Ten-minute break. Eat the snack. Stand up. Don't review anything. |
+| **~9:25** | Math: two 35-minute modules, Desmos available throughout. |
+| **~11:00** | Done. |
+
+## 8. Packing checklist — do this Friday night, not Saturday
+
+- [ ] Admission ticket
+- [ ] Photo ID
+- [ ] Laptop or tablet, **fully charged**, plus the charger
+- [ ] Bluebook installed, updated, and **exam setup already completed**
+- [ ] Calculator (even with Desmos built in)
+- [ ] Pencils, water, snack for the break
+- [ ] Phone away before the first module
+
+**No new practice questions Saturday morning.** Nothing new goes in.
 
 > Don't chase a score. Make one good decision, then repeat it a hundred times.

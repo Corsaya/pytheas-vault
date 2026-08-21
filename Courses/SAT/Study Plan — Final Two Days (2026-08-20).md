@@ -2,13 +2,13 @@
 tags: [pytheas, sat, study-plan, final-review]
 created: 2026-08-20
 source: "Bluebook Practice Test — 2026-08-20 (SAT Practice 11), 27 misses"
-assumption: "Test date 2026-08-22 (Saturday), per SAT Diagnostic — Score History. Confirm."
+test_date: "2026-08-22 (Saturday), 8:00 AM start — confirmed by Donovan 2026-08-20"
 related: ["[[Bluebook Practice Test — 2026-08-20]]", "[[Quick Reference — Math Formulas and Grammar Rules]]", "[[Test Day Execution]]", "[[English Rule Vault]]", "[[Formula Vault]]"]
 ---
 
 # Study Plan — Final Two Days
 
-**Two days out. Nothing new gets learned now.** Everything below is either a decision rule you
+**Test is Saturday 2026-08-22 at 8:00 AM. One working day left. Nothing new gets learned now.** Everything below is either a decision rule you
 already know applied more reliably, or a 15-minute patch on a specific gap. Re-reading the
 crash courses at this point costs time and returns nothing.
 
