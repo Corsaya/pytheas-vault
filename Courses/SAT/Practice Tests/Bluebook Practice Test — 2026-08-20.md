@@ -244,6 +244,18 @@ tool the limiting factor:
 M2 Q20: correct, but at **confidence 2**, done by hand. A lucky point that the tool would have
 made certain.
 
+## Miss review triage (in progress)
+
+Tool: `~/Pictures/Screenshots/SAT Practice Screenshots/miss-review.html` — all 27 misses, full
+screenshot with the College Board rationale, plus the one-line diagnosis from this record.
+Three verdicts per question: **got it now** / **still don't understand** / **careless, I knew it**,
+with an optional note on what's confusing.
+
+The export is written to be pasted straight into a Claude session. Anything tagged "still don't
+understand" gets a short method written for it and added to [[Morning-of Review]] — recognition
+cue, three or four steps, and the trap. Anything tagged "careless" gets an execution rule
+instead, not a lesson.
+
 ## Transitions are now the top priority, not word-in-context
 
 The raw miss count said word-in-context (4 misses). The confidence layer says otherwise:
