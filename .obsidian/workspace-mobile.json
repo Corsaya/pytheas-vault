@@ -11,10 +11,14 @@
             "id": "c113c42201b91591",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Prompts/2026-08-08 Mega Prompt — Fork Odysseus Instead of Custom Pytheas Build.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-08-08 Mega Prompt — Fork Odysseus Instead of Custom Pytheas Build"
             }
           }
         ]
@@ -33,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -108,6 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Prompts/2026-08-08 Mega Prompt — Fork Odysseus Instead of Custom Pytheas Build.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,9 +165,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c113c42201b91591",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Courses/SAT/Unit 1 Template — Feedback Survey.md",
+    "Courses/SAT/Diagnostic Gap Lessons (2026-08-07).md",
+    "Courses/SAT/Research/YouTube Guide Research — Math, Grammar, Reading (2026-08-07).md",
+    "Courses/SAT/Research/Official SAT Structure and Content Research (2026-08-07).md",
+    "Courses/SAT/Research/Bluebook Parity, Khan Academy, Strategy, and Social Advice Research (2026-08-12).md",
+    "Courses/SAT/Full-Length Practice Test 1/SAT Full-Length Practice Test 1 (2026-08-12).md"
+  ]
 }
