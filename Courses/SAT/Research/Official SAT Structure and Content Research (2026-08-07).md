@@ -10,7 +10,7 @@ date: 2026-08-07
 > 2026-08-11 with a late fee. Verify Donovan's registration status was handled — this note
 > is not the place to track that, just flagging why it mattered the day this was written.
 
-Companion to `Research/YouTube Guide Research — Math, Grammar, Reading (2026-08-07).md`.
+Companion to `Research/Bluebook Tools and Pacing Reference (2026-08-12).md`.
 That file covers prep-channel strategy content; this one covers official
 College-Board-sourced structure/content facts to build the course's backbone on.
 

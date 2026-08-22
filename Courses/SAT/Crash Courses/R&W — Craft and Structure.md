@@ -2,7 +2,7 @@
 tags: [pytheas, sat, reading, craft-and-structure, crash-course]
 created: 2026-08-12
 source: "Foundations Knowledge Check R1-R4"
-related: ["[[../Foundations Knowledge Check]]", "[[../Research/YouTube Guide Research — Math, Grammar, Reading (2026-08-07)]]"]
+related: ["[[../Foundations Knowledge Check]]"]
 ---
 
 # R&W — Craft and Structure Crash Course
@@ -73,6 +73,72 @@ unrelated dictionary meaning that *isn't* the one being tested (like
 most familiar meaning of the word is frequently the wrong-answer trap, not
 the right answer. Always predict from context before looking at choices.
 
+**Worked example 2:**
+
+> Critics initially dismissed the sculptor's late work as **austere**,
+> noting that she had stripped away the ornamental flourishes of her
+> earlier pieces in favor of bare, unadorned geometric forms that left
+> little for the eye to linger on.
+
+As used in the text, "austere" most nearly means:
+
+A) Severely plain
+B) Expensive
+C) Emotionally moving
+D) Historically inspired
+
+Predict first: the sentence describes work that "stripped away ornamental
+flourishes" in favor of "bare, unadorned" forms — so the word means
+something like "plain" or "bare."
+
+- **(A) Severely plain** matches that prediction — stripped-down, unadorned
+  work is the definition of severely plain.
+- (B) Expensive has no support — nothing in the sentence discusses cost or
+  materials.
+- (C) Emotionally moving is a plausible reaction to art but isn't what the
+  sentence describes — it describes visual simplicity, not emotional
+  impact.
+- (D) Historically inspired has no support — the sentence contrasts this
+  work with the sculptor's *own* earlier pieces, not with history.
+
+**Trips people up:** "austere" carries a harsh, disapproving connotation in
+everyday speech, which can push test-takers toward reading the sentence as
+more negative than it is. The tested meaning here is neutral — just "plain/
+unadorned" — so lean on the sentence's own description, not the word's
+usual emotional flavor.
+
+**Worked example 3:**
+
+> Engineers rejected the initial data-storage design because the memory it
+> relied on was **volatile**, meaning any information held there vanished
+> the instant power to the device was cut, making it unsuitable for
+> archiving critical records long-term.
+
+As used in the text, "volatile" most nearly means:
+
+A) Explosive
+B) Prone to sudden anger
+C) Losing its contents without a continuous power source
+D) Rapidly increasing in value
+
+Predict first: the sentence explains its own meaning directly — data
+"vanished the instant power... was cut" — so the word means something like
+"not permanent" or "erasable."
+
+- **(C)** matches that built-in definition exactly.
+- (A) Explosive is the chemistry/hazardous-materials meaning of "volatile,"
+  a real dictionary sense but not the one this sentence describes.
+- (B) Prone to sudden anger is the personality-trait meaning of "volatile"
+  — a trap for a word with several unrelated senses.
+- (D) Rapidly increasing in value is the finance/stock-market meaning of
+  "volatile," also unrelated to what this sentence is describing.
+
+**Trips people up:** "volatile" has several common, unrelated technical
+meanings (chemistry, temperament, finance, computing). When a passage
+explains its own term in-line, as this one does ("meaning any information
+held there vanished..."), that explanation overrides every other sense of
+the word you might know.
+
 ---
 
 ### R2 — Text structure
@@ -129,6 +195,71 @@ D) It restates the first sentence in different words.
 **Thing that trips people up:** structure questions often have a choice
 that's factually accurate about the sentence's content but assigns it the
 wrong *job* in the passage — read for role, not just for meaning.
+
+**Worked example 2:**
+
+> The printing press is often credited with single-handedly launching the
+> Reformation. Historians note, however, that literacy rates across
+> sixteenth-century Europe remained low, and that many reform ideas spread
+> for years through sermons and word of mouth well before printed pamphlets
+> became widely available.
+
+Which choice best describes the function of the second sentence
+("Historians note... available") in the text as a whole?
+
+A) It provides additional evidence supporting the first sentence's claim.
+B) It complicates the claim made in the first sentence.
+C) It restates the first sentence using different terminology.
+D) It offers a hypothesis that later research will confirm.
+
+- **(B)** is correct: the first sentence credits the printing press with
+  "single-handedly" launching the Reformation; the second sentence
+  undercuts that with counter-evidence (low literacy, ideas already
+  spreading by sermon before pamphlets existed).
+- (A) is wrong because the second sentence pushes against the first
+  sentence's claim rather than reinforcing it.
+- (C) is wrong because the second sentence introduces new information
+  (literacy rates, sermons) not present in the first sentence — it isn't a
+  rewording.
+- (D) is wrong because historians "note" this as an established
+  observation, not a hypothesis, and no later sentence confirms it.
+
+**Trips people up:** a sentence that starts with an attribution like
+"Historians note, however," is a strong structural signal (the "however"
+flags a pivot) — missing small transition words like this is a common way
+to misjudge a sentence's function.
+
+**Worked example 3:**
+
+> Solar power generation peaks at midday, but electricity demand typically
+> peaks in the early evening. Grid-scale battery storage addresses this
+> mismatch by capturing excess midday solar output and releasing it several
+> hours later, smoothing supply to match when it's actually needed.
+
+Which choice best describes the function of the second sentence
+("Grid-scale battery storage... needed") in the text as a whole?
+
+A) It introduces a new problem unrelated to the first sentence.
+B) It describes a solution to the timing mismatch identified in the first
+   sentence.
+C) It contradicts the claim made in the first sentence.
+D) It provides a historical example of the problem discussed in the first
+   sentence.
+
+- **(B)** is correct: the first sentence sets up a timing mismatch between
+  solar generation and demand, and the second sentence explains how battery
+  storage resolves that specific mismatch.
+- (A) is wrong because the second sentence directly addresses the problem
+  from sentence one — it doesn't introduce an unrelated one.
+- (C) is wrong because the second sentence builds on the first sentence's
+  premise rather than disputing it.
+- (D) is wrong because the sentence describes a present-day mechanism, not
+  a historical example, and it's a solution, not another instance of the
+  problem.
+
+**Trips people up:** when a passage states a problem and then immediately
+pivots to a fix, it's easy to mislabel the fix as "more evidence of the
+problem" rather than recognizing the shift from problem to solution.
 
 ---
 
@@ -189,6 +320,77 @@ D) By arguing that rents fell for reasons unrelated to remote work.
 individually — a choice that accurately restates Text 1 or Text 2 alone,
 but says nothing about how they connect, is always wrong.
 
+**Worked example 2:**
+
+**Text 1:** Paleontologist Marcus Webb argues that the mass extinction of
+large Ice Age mammals in North America was caused primarily by rapid
+climate warming, which destroyed the grasslands they depended on.
+
+**Text 2:** An analysis of fossil sites found that many large mammal
+populations began declining several thousand years before the climate
+warming Webb identifies, coinciding instead with the arrival of human
+hunters in the region.
+
+Based on the texts, how would the author of Text 2 most likely respond to
+Webb's claim in Text 1?
+
+A) By agreeing that climate warming was the sole cause of the extinction.
+B) By suggesting that a different factor, human hunting, better explains
+   the timing of the decline than climate warming does.
+C) By denying that any large mammal extinction occurred.
+D) By arguing that grassland loss had no effect on the mammals.
+
+- **(B)** is correct: Text 2's timing evidence — decline beginning before
+  the warming and lining up with human arrival instead — points to a
+  different likely cause than the one Webb identifies.
+- (A) is wrong because it's the opposite of what Text 2's timing evidence
+  suggests.
+- (C) is wrong because Text 2 itself documents a population decline; it
+  doesn't deny the extinction happened.
+- (D) is wrong because Text 2 never discusses grassland loss or its
+  effects — that's outside what the passage addresses.
+
+**Trips people up:** Text 2 doesn't have to explicitly say "Webb is wrong"
+— it can challenge Text 1 just by supplying evidence (here, timing) that
+points toward a different cause. Don't wait for direct disagreement
+language; infer the relationship from what the evidence implies.
+
+**Worked example 3:**
+
+**Text 1:** A literary critic argues that a novel's fragmented timeline
+reflects the protagonist's psychological trauma, calling it a deliberate
+craft choice by the author.
+
+**Text 2:** A scholar's analysis of the author's early drafts shows the
+timeline was originally told in linear order and was reorganized late in
+the editing process for pacing reasons, with no documented connection to
+trauma-themed intentions.
+
+Based on the texts, how would the author of Text 2 most likely respond to
+the claim in Text 1?
+
+A) By fully endorsing the trauma-based interpretation, since both texts
+   discuss the novel's timeline.
+B) By questioning whether the fragmented structure was actually intended to
+   reflect trauma, given evidence that it resulted from pacing-driven edits.
+C) By arguing that the novel has no meaningful structure at all.
+D) By claiming the author never revised the manuscript.
+
+- **(B)** is correct: Text 2's draft evidence (originally linear,
+  reorganized for pacing) undercuts the claim that the fragmentation was a
+  deliberate trauma-reflecting choice.
+- (A) is wrong because Text 2's evidence works against, not for, the
+  trauma-based reading.
+- (C) is wrong and far too extreme — Text 2 discusses *why* the structure
+  changed, not whether the novel has structure at all.
+- (D) is wrong because Text 2's evidence (early drafts vs. the final,
+  reorganized version) implies revision did happen.
+
+**Trips people up:** cross-text science/history examples aren't the only
+flavor tested — the same "does Text 2 support, complicate, or contradict
+Text 1" logic applies to humanities topics like literary criticism just as
+often.
+
 ---
 
 ### R4 — Central claim/purpose
@@ -240,6 +442,77 @@ usually fail by being either too narrow (just one detail/example dressed up
 as "the point") or too broad (a claim bigger than what the passage actually
 supports) — the correct choice sits at exactly the passage's own scope, no
 wider, no narrower.
+
+**Worked example 2:**
+
+> Early spellcheck programs simply compared each word against a fixed
+> dictionary, flagging any it didn't recognize. Modern predictive-text
+> systems instead model the probability of word sequences, allowing them to
+> catch errors a fixed dictionary would miss, such as a correctly spelled
+> word used in the wrong context. This shift from static lookup to
+> probabilistic modeling has made contemporary writing tools dramatically
+> better at catching subtle errors, though not infallible.
+
+Which choice best states the main purpose of the text?
+
+A) To provide a complete history of every spellcheck program ever released.
+B) To explain how a shift from dictionary lookup to probabilistic modeling
+   improved writing tools' ability to catch subtle errors.
+C) To argue that predictive-text systems are completely error-free.
+D) To describe one specific error a spellchecker failed to catch.
+
+- **(B)** is correct — it captures the whole arc: the old method (fixed
+  dictionary), the new method (probabilistic modeling), and the resulting
+  improvement in catching subtle errors.
+- (A) is too broad and inaccurate — the passage compares two approaches, it
+  isn't a complete product history.
+- (C) is too strong — the passage explicitly says "though not infallible,"
+  directly contradicting a claim of complete error-free performance.
+- (D) is too narrow — no single specific error is described; the passage
+  discusses the general *type* of error the newer approach catches.
+
+**Trips people up:** a passage that ends on a hedge ("though not
+infallible") is signaling that the correct main-purpose choice should stay
+measured too — an answer choice that overclaims certainty is a common trap
+right after this kind of qualifier.
+
+**Worked example 3:**
+
+> For much of the twentieth century, archaeologists assumed that
+> large-scale monument building required a centralized state with forced
+> labor. Excavations at several early monumental sites, however, have found
+> no evidence of social stratification, permanent rulers, or coerced
+> workers — instead suggesting the structures were built through seasonal,
+> voluntary communal labor. These findings have pushed researchers to
+> reconsider long-held assumptions about the political conditions necessary
+> for large-scale construction.
+
+Which choice best states the main purpose of the text?
+
+A) To describe the physical construction techniques used at ancient
+   monumental sites.
+B) To argue that all ancient societies were free of political hierarchy.
+C) To present findings that challenge the assumption that centralized state
+   power was necessary for large-scale monument building.
+D) To summarize a complete timeline of monument-building throughout
+   history.
+
+- **(C)** is correct — it captures the passage's full arc: the old
+  assumption (centralized state required), the new evidence (no
+  stratification or coerced labor found), and the resulting reconsideration
+  of that assumption.
+- (A) is too narrow — construction technique is never discussed; the
+  passage is about the *social/political conditions* behind construction.
+- (B) is too broad — the findings concern specific excavated sites, not a
+  sweeping claim about "all ancient societies."
+- (D) is too broad and inaccurate — the passage isn't a timeline, it's
+  built around one specific reconsidered assumption.
+
+**Trips people up:** a choice like (B) can feel right because it's "in the
+spirit" of the passage's finding, but it stretches a claim about particular
+excavated sites into a claim about every ancient society — watch for
+answer choices that generalize past what the evidence in the passage
+actually covers.
 
 ---
 

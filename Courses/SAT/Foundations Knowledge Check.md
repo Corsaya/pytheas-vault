@@ -12,8 +12,7 @@ formula, and question-type across both SAT sections, checked one at a time:
 **do you know the actual steps to solve it, or would you be guessing on test
 day?** Gaps found here become short lessons (same format as
 [[Diagnostic Gap Lessons (2026-08-07)]]). Once this is clean, the plan is a
-full timed Bluebook-style practice test using the existing runner
-(`~/code/pytheas/static/sat-test.*`).
+full timed official Bluebook practice test.
 
 Organized by College Board's official domains (see
 [[Research/Official SAT Structure and Content Research (2026-08-07)]] for

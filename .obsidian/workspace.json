@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/SAT/SAT Diagnostic Test (2026-08-07).md",
+                "file": "Courses/SAT/Review System/Adaptive Review System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAT Diagnostic Test (2026-08-07)"
+              "title": "Adaptive Review System"
             }
           }
         ]
@@ -194,20 +194,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74ca243c16338f03",
+  "active": "ef9ab3996f526e5c",
   "lastOpenFiles": [
-    "learning-vault/ai-improvement/Conversations/2026-08-14/04-40-55-7159bb6b.md",
-    "learning-vault/ai-improvement/Conversations/2026-08-14",
-    "Ultimate Workspace Roadmap.md.tmp.5634.a4c733b76232",
-    "code/pytheas/static/style.css.tmp.5634.3c550b8f18a5",
-    "code/pytheas/settings.py.tmp.5634.a078bc57953e",
-    "code/pytheas/settings.py.tmp.5634.af13262b558d",
-    "Ultimate Workspace Roadmap.md.tmp.5634.ec5ced4902fa",
+    "Courses/SAT/Practice Tests/Practice 11/misses.json",
+    "Courses/SAT/Practice Tests/Practice 11/manifest.json",
+    "Courses/SAT/Practice Tests/Practice 11/miss-review.html",
+    "Courses/SAT/Practice Tests/Practice 11/desmos-log.html",
+    "Courses/SAT/Practice Tests/Practice 11/confidence-rater.html",
+    "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162947.png",
+    "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162945.png",
+    "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162944.png",
+    "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162943.png",
+    "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162943-1.png",
+    "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162942.png",
+    "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162941.png",
+    "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162940.png",
+    "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162940-1.png",
+    "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162939.png",
+    "Courses/SAT/Practice Tests/Practice 11/question-only",
+    "Courses/SAT/Practice Tests/Practice 11",
+    "learning-vault/ai-improvement/Conversations/2026-08-21/04-12-20-fb1400cc.md",
+    "learning-vault/ai-improvement/Conversations/2026-08-21/04-07-23-fb1400cc.md",
+    "Courses/SAT/Practice Tests/Practice 11 — Raw Desmos Log (2026-08-20).md",
+    "learning-vault/ai-improvement/Conversations/2026-08-21/03-52-39-fb1400cc.md",
+    "learning-vault/ai-improvement/Conversations/2026-08-21/03-48-19-fb1400cc.md",
+    "learning-vault/ai-improvement/Conversations/2026-08-21/03-47-02-fb1400cc.md",
+    "learning-vault/ai-improvement/Conversations/2026-08-21/03-46-33-fb1400cc.md",
+    "Courses/SAT/Practice Tests/Practice 11 — Raw Confidence Export (2026-08-20).md",
+    "learning-vault/ai-improvement/Conversations/2026-08-21/03-30-14-fb1400cc.md",
+    "learning-vault/ai-improvement/Conversations/2026-08-21",
+    "Courses/SAT/Study Plan — Final Two Days (2026-08-20).md",
+    "learning-vault/ai-improvement/Conversations/2026-08-20/20-45-46-fb1400cc.md",
+    "Courses/SAT/Pattern Library/004 Table Data Completion.md",
+    "Courses/SAT/Pattern Library/003 Finite Verb or Participle.md",
+    "Courses/SAT/Pattern Library/002 Word in Context.md",
+    "Courses/SAT/Practice Tests/Bluebook Practice Test — 2026-08-20.md",
+    "learning-vault/ai-improvement/Conversations/2026-08-20/20-36-36-fb1400cc.md",
+    "Courses/SAT/Research/Bluebook Tools and Pacing Reference (2026-08-12).md",
+    "learning-vault/ai-improvement/Conversations/2026-08-20/20-16-07-fb1400cc.md",
+    "Courses/SAT/Quick Reference/Quick Reference — Math Formulas and Grammar Rules.md",
+    "Courses/SAT/Practice Tests/Bluebook Timing and Confidence Tracker.md",
+    "learning-vault/ai-improvement/Conversations/2026-08-20/17-10-19-fb1400cc.md",
+    "learning-vault/ai-improvement/Conversations/2026-08-20",
+    "Courses/SAT/Quick Reference",
+    "Courses/SAT/Claude Instructions.md",
     "Courses/SAT/Diagnostic Gap Lessons (2026-08-07).md",
-    "Courses/SAT/Diagnostic Gap Lessons (2026-08-07).md.tmp.5634.29132dcd0273",
-    "Ultimate Workspace Roadmap.md.tmp.5634.299546dd23ef",
-    "Prompts/2026-08-07 Mega Prompt — SAT Tutor Buildout + Life-Improvement North Star Expansion.md",
-    "Prompts/2026-08-07 Mega Prompt — SAT Tutor Buildout + Life-Improvement North Star Expansion.md.tmp.5634.6b32227a7771",
-    "Courses/SAT/SAT Diagnostic Test (2026-08-07).md.tmp.5634.9c30bd06e840"
+    "Courses/SAT/Foundations Knowledge Check.md",
+    "Courses/SAT/SAT Adaptive Drill.md",
+    "Courses/SAT/Practice Tests/Bluebook Timing and Confidence Tracker.docx"
   ]
 }
