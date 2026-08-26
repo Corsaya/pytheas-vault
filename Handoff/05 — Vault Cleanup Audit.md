@@ -2,14 +2,38 @@
 title: Vault Cleanup Audit
 date: 2026-08-25
 tags: [handoff, vault, cleanup, maintenance]
-status: audit complete — NO EDITS APPLIED, awaiting approval
+status: APPLIED 2026-08-25 — sections A and B done; section C left open
 ---
 
 # Vault Cleanup Audit
 
 Scanned all six vaults on 2026-08-25 for content the 2026-08-12 restructure left
-behind. **Nothing here has been changed.** Standing rule: adding files is free,
-editing existing ones needs approval each time. This is the approval list.
+behind.
+
+> [!success] Approved and applied, 2026-08-25
+> **Every item in sections A and B below has been fixed.** The findings are kept
+> as the record of what was wrong and why it was changed — read them as history,
+> not as a to-do list. **Section C (structural suggestions) was deliberately not
+> done** and is still open.
+>
+> What changed:
+> - `pytheas/Home.md` — rewritten as a real Pytheas vault index (was titled
+>   "Jarvis — Scratchpad" and pointed at the wrong repo)
+> - `pytheas/Summary.md` — marked as a 2026-05-30 historical snapshot
+> - `learning/ai-improvement/North Star.md` — refreshed to current focus, broken
+>   `../personal/Health/...` link fixed, Shifts Log entry added, new anti-goal
+>   ("don't answer execution failure with more plans")
+> - `pytheas/Development Roadmap.md` — header block corrected; workstreams untouched
+> - `learning/ai-improvement/Pytheas Capability Map.md` — vault paths + safety posture
+> - `learning/ai-improvement/CLAUDE.md` — **deleted** (frozen duplicate, nothing
+>   unique; recoverable via `git show HEAD~1:ai-improvement/CLAUDE.md`)
+> - root `CLAUDE.md` — three dead MERGED paths corrected, `card-flip` repo line
+>   fixed, companion-files callout added, "Retired rules" section appended
+> - `learning/Japanese/Resources/Genki vs Tae Kim.md` — Genki decision block added
+> - `Gotchas.md` — two entries marked superseded; three new 2026-08-25 entries
+> - `Key Decisions.md` — the 2026-08-12 reversal recorded, plus Genki + migration
+> - `Ultimate Workspace Roadmap.md` — snapshot notice pointing at the current plan
+> - `pytheas/Prompts/*` — untouched, as they must be
 
 **The distinction that matters:** some of these files are *live docs* that should
 be corrected. Others are *dated logs* — `Gotchas.md` explicitly says "append,

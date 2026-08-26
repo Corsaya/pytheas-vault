@@ -1,54 +1,67 @@
 ---
-tags: [project, jarvis, ai, home]
-type: scratchpad
-repo: ~/code/jarvis/
+tags: [project, pytheas, chiron, ai, home]
+type: vault-index
+updated: 2026-08-25
+repos: ["~/code/pytheas", "~/code/chiron", "~/code/jarvis (design-only)"]
 ---
 
-# Jarvis — Scratchpad
+# Pytheas — Vault Home
 
-Personal-vault notes for Jarvis, your terminal personal AI assistant. The design
-docs and (eventual) source live in their own repo; this folder is for ideas,
-wishlists, and how Jarvis should plug into the rest of the second brain.
+Notes for **Pytheas**, Donovan's personal AI assistant, and **Chiron**, the
+Odysseus fork that became its workspace shell. Source code lives outside the
+vault; this vault holds the thinking, the roadmaps, the courses, and the
+briefings.
 
-> [!info] The code lives elsewhere (moved 2026-07-01)
-> Architecture, decisions, and source now live in their own repo at
-> **`~/code/jarvis/`** (moved out of the Obsidian vault per the repo-split plan).
-> Keep this folder for cross-vault thinking — what you want Jarvis to know about
-> *you*, and how it should read (read-only) from these Obsidian vaults.
+> [!important] Start here if you're new to this vault
+> **[[Handoff/00 — START HERE|Handoff/]]** — written 2026-08-25 at the Claude
+> Code → Codex migration. Identity/context doc, the senior-year workspace plan,
+> the course plan, the migration checklist, and a vault cleanup audit.
 
-## What lives here
+## Where the code actually lives
 
-- Feature wishlist and "wouldn't it be nice if…" notes
-- Raw material for `memory/identity.md` (still blank in the repo)
-- How Jarvis should surface vault context (v2 Obsidian integration is read-only)
-- Build-order reminders and parking-lot ideas
+| Repo | What it is | State |
+|---|---|---|
+| `~/code/pytheas` | The Pytheas desktop app (Python). `server.py`, `voice.py`, `courses.py`, `research.py`, `models.py`, `actions.py`, `briefing.py`, `chats.py`, `emailcal.py`, `permissions.py` | **Live and implemented** |
+| `~/code/chiron` | Personal fork of Odysseus. Docker, port 7001, ingests all six vaults. Custom SAT classroom app built to Bluebook parity | **Live.** ⚠ No personal git remote — see [[Handoff/02 — AI Workspace Master Plan]] §1 |
+| `~/code/jarvis` | The original terminal CLI. Fully architected, never implemented | **Design-only.** Historical |
 
-## Symlinks (added 2026-07-05)
+## What lives in this vault
 
-- `code/` → `~/code` — the actual jarvis source repo and sibling code projects
-- `learning-vault/` → `~/Documents/Obsidian/learning` — the AI-accessible
-  reference vault, for recent school/entertainment/Japanese context. Never
-  points at `personal-private/` — that vault stays walled off from this one.
+- **`Handoff/`** — the 2026-08-25 context transfer. Read `00 — START HERE` first.
+- **`Courses/`** — course content. `SAT/` is the fully built one (8 crash
+  courses, 2 full-length tests, diagnostic + gap system). Also `Basketball
+  Rules`, `Pytheas Benchmark - SAT Test`.
+- **`Briefings/`** — daily AI-news briefs, ISO-dated, written by
+  `~/code/pytheas/briefing.py`.
+- **`Prompts/`** — the prompt-logging convention. **Immutable — never edit
+  these**, their value is being a true record of what was asked.
+- **`Research/`**, **`Surveys/`** (weekly setup surveys), **`session-wraps/`**.
 
-## The repo at a glance
+## The roadmaps, newest first
 
-- `README.md` — setup, meta-commands, project layout
-- `ARCHITECTURE.md` — 9-component design, data flow, invariants, non-goals
-- `DECISIONS.md` — DEC-001 → DEC-024, full rationale (011 subprocess, 012
-  Fable 5, 016 subprocess client, 022 improve, 023 api client, 024 briefing)
-- `CLAUDE.md` — working rules for Claude Code sessions
-- `SELF-IMPROVEMENT.md` — the standing discover→evaluate→adopt→record loop
-- `blueprints/` — build-ready specs for cheap models (Blueprint Vault run)
-- `memory/identity.md` — injected every session; **still blank — fill this in**
-- `memory/facts.md` — written by `/remember`
+- **[[Handoff/02 — AI Workspace Master Plan]]** (2026-08-25) — **current.** The
+  senior-year goal: own workspace + database by June 2027.
+- **[[Ultimate Workspace Roadmap]]** (2026-08-02) — snapshot. Superseded in
+  direction by the above, but its research (CalDAV decision, Notion ruled out)
+  is still the reasoning of record.
+- **[[Development Roadmap]]** (2026-07-29) — the four technical workstreams
+  (Atlas, environment-context injection, vault-pyramid agents, Hermes). Still
+  the live technical plan.
+- **[[perfect-assistant-goals-2026-07-15]]** — the four capability goals and the
+  "graduating from Claude" ladder.
+- **[[capabilities-roadmap]]** · **[[jarvis-desk-app]]** · **[[Pytheas 2.0 Changelog]]**
 
-## This vault's map
+## Historical
 
-- **[[Jarvis Progress Guide]]** — full build status + roadmap to graduation
-- **[[jarvis-desk-app]]** — the native desktop workspace (Odysseus+ build,
-  2026-07-16): what shipped, what's verified, what's next
-- **[[perfect-assistant-goals-2026-07-15]]** — the four capability goals
-  (self-improvement scan, parity, voice, laptop), Odysseus plan, own-model path
-- **[[capabilities-roadmap]]** · **[[Summary]]** — earlier status notes
-- `Surveys/` — auto-written weekly setup surveys (answer them; they steer the loop)
-- `session-wraps/` — per-session status handoffs
+- **[[Summary]]** — a 2026-05-30 snapshot of the *Jarvis design phase*. Kept as
+  an artifact; it does not describe the current system.
+
+## Symlinks
+
+- `code/` → `~/code` — the source repos
+- `learning-vault/` → `~/Documents/Obsidian/learning`
+
+> [!note] Access
+> Full read/write across all six vaults by default since 2026-08-12. The old
+> `personal-private` wall is retired. The one override is a doc Donovan marks
+> **"locked"**. See `~/Documents/Obsidian/AGENTS.md`.

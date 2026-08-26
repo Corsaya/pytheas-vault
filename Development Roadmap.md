@@ -12,12 +12,21 @@ model that comes after it competent) → **vault pyramid agents** (needs the
 context layer) → **Hermes** (needs both — it's the thing that acts on what
 the pyramid knows, described in the voice the environment layer teaches).
 
-Repo: `~/code/pytheas`. Vaults: `~/Documents/Obsidian/{pytheas, learning,
-personal, ai-improvement, finance, agonizing-sentience, card-flip,
-minecraft-event}` (see `~/Documents/Obsidian/CLAUDE.md` for the private-wall
-rules every agent below must respect — `personal/Journal`, `personal/Daily`,
-`personal/Work`, `personal/Private-Reference.md` are never AI-readable,
-never AI-writable, no exceptions).
+Repo: `~/code/pytheas` (Odysseus fork at `~/code/chiron`). Vaults:
+`~/Documents/Obsidian/{pytheas, learning, finance, life,
+agonizing-sentience}` — see `~/Documents/Obsidian/AGENTS.md` (or `CLAUDE.md`)
+for the access rules every agent below must respect.
+
+> [!warning] Header corrected 2026-08-25
+> This block previously listed the pre-restructure vault roots (`personal`,
+> `ai-improvement`, `card-flip`, `minecraft-event` as top-level) and stated
+> that `personal/Journal`, `personal/Daily`, `personal/Work`, and
+> `personal/Private-Reference.md` were "never AI-readable, never AI-writable,
+> no exceptions." **Both are retired** — the vaults were restructured
+> 2026-08-12 and the standing private wall was dropped the same day. Access is
+> now open by default across all vaults; the single override is a doc Donovan
+> marks **"locked"**. The four workstreams below are unaffected and still live.
+> Current direction: `Handoff/02 — AI Workspace Master Plan.md`.
 
 ---
 
