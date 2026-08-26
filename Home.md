@@ -12,6 +12,9 @@ Odysseus fork that became its workspace shell. Source code lives outside the
 vault; this vault holds the thinking, the roadmaps, the courses, and the
 briefings.
 
+**[[Pytheas and Chiron Project Map]]** is the canonical responsibility map for
+the two codebases and their relationship to Obsidian and the planned database.
+
 > [!important] Start here if you're new to this vault
 > **[[Handoff/00 — START HERE|Handoff/]]** — written 2026-08-25 at the Claude
 > Code → Codex migration. Identity/context doc, the senior-year workspace plan,
