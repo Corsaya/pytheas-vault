@@ -198,6 +198,15 @@
   },
   "active": "74ca243c16338f03",
   "lastOpenFiles": [
+    "Briefings/2026-08-26.md",
+    "scripts/__pycache__/export-codex-conversation.cpython-314.pyc",
+    "scripts/__pycache__",
+    "Conversations/2026-08-25 to 2026-08-26 — Device Freedom and Chiron Roadmap.md",
+    "Conversations",
+    "Prompts/2026-08-26 Chiron Roadmap and Finito Conversation Archive.md",
+    "scripts/export-codex-conversation.py",
+    "scripts",
+    "Chiron Roadmap — Mobile Owned Workspace.md",
     "learning-vault/ai-improvement/Conversations/2026-08-22/01-54-30-61b65163.md",
     "learning-vault/ai-improvement/Conversations/2026-08-22",
     "Courses/SAT/Morning Of Review/Practice 11 — Every Miss, Steps, and Test-Day Tricks (2026-08-21).md",
@@ -208,7 +217,6 @@
     "Courses/SAT/Practice Tests/Practice 11/manifest.json",
     "Courses/SAT/Practice Tests/Practice 11/miss-review.html",
     "Courses/SAT/Practice Tests/Practice 11/desmos-log.html",
-    "Courses/SAT/Practice Tests/Practice 11/confidence-rater.html",
     "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162947.png",
     "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162945.png",
     "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162944.png",
@@ -219,8 +227,6 @@
     "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162940.png",
     "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162940-1.png",
     "Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162939.png",
-    "Courses/SAT/Practice Tests/Practice 11/question-only",
-    "Courses/SAT/Practice Tests/Practice 11",
     "learning-vault/ai-improvement/Conversations/2026-08-21/04-12-20-fb1400cc.md",
     "learning-vault/ai-improvement/Conversations/2026-08-21/04-07-23-fb1400cc.md",
     "Courses/SAT/Practice Tests/Practice 11 — Raw Desmos Log (2026-08-20).md",
@@ -230,7 +236,6 @@
     "learning-vault/ai-improvement/Conversations/2026-08-21/03-46-33-fb1400cc.md",
     "Courses/SAT/Practice Tests/Practice 11 — Raw Confidence Export (2026-08-20).md",
     "learning-vault/ai-improvement/Conversations/2026-08-21/03-30-14-fb1400cc.md",
-    "learning-vault/ai-improvement/Conversations/2026-08-21",
     "Courses/SAT/Study Plan — Final Two Days (2026-08-20).md",
     "learning-vault/ai-improvement/Conversations/2026-08-20/20-45-46-fb1400cc.md",
     "Courses/SAT/Pattern Library/004 Table Data Completion.md",
@@ -238,11 +243,6 @@
     "Courses/SAT/Pattern Library/002 Word in Context.md",
     "Courses/SAT/Practice Tests/Bluebook Practice Test — 2026-08-20.md",
     "learning-vault/ai-improvement/Conversations/2026-08-20/20-36-36-fb1400cc.md",
-    "Courses/SAT/Research/Bluebook Tools and Pacing Reference (2026-08-12).md",
-    "learning-vault/ai-improvement/Conversations/2026-08-20/20-16-07-fb1400cc.md",
-    "Courses/SAT/Quick Reference/Quick Reference — Math Formulas and Grammar Rules.md",
-    "Courses/SAT/Practice Tests/Bluebook Timing and Confidence Tracker.md",
-    "learning-vault/ai-improvement/Conversations/2026-08-20/17-10-19-fb1400cc.md",
-    "learning-vault/ai-improvement/Conversations/2026-08-20"
+    "Courses/SAT/Research/Bluebook Tools and Pacing Reference (2026-08-12).md"
   ]
 }
