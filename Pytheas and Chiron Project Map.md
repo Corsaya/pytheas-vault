@@ -21,6 +21,7 @@ in the roadmaps and handoff documents.
 | Workspace shell | Chiron (`~/code/chiron`) | Primary web interface, multi-vault ingestion, chat, agents, documents, calendar, classroom, and workspace services |
 | Native capability lab | Pytheas (`~/code/pytheas`) | Smaller local-first desktop assistant, voice, computer actions, briefings, and focused experiments |
 | Structured data | Host-side SQLite database (planned) | Events, tasks, progress, training logs, finance records, and other queryable state |
+| External accounts | Per-account Google Workspace connectors (planned) | Read authorized school/personal mail, calendars, Classroom coursework, and Drive metadata through narrowly scoped OAuth grants |
 | Historical predecessor | Jarvis (`~/code/jarvis`) | Original design and experiments; not an active competing product |
 
 ## Direction of travel
@@ -35,6 +36,10 @@ in the roadmaps and handoff documents.
    it, but the database must not become the only readable copy.
 5. **Keep aggregate state out of Markdown.** SQLite should own records that need
    filtering, calculations, reminders, or synchronization.
+6. **Treat each external account as a separate trust boundary.** School and
+   personal Google accounts receive separate tokens, scopes, sync state, and
+   revocation controls. Start read-only and add write permissions capability by
+   capability, never as one blanket Google connection.
 
 ## Canonical repositories
 
