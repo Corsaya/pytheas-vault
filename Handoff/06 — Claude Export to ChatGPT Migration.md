@@ -3,7 +3,7 @@ title: Claude Export to ChatGPT Migration
 date: 2026-08-25
 updated: 2026-08-25
 tags: [handoff, migration, claude, chatgpt, memory]
-status: blocked — export archives require authenticated browser download
+status: local archive complete — ChatGPT memory seed pending review
 ---
 
 # Claude Export to ChatGPT Migration
@@ -21,9 +21,24 @@ The manifest identifies four one-use ZIP archives:
 3. `memories-000.zip`
 4. `conversations-000.zip`
 
-Direct command-line downloads returned HTTP 403 because Claude requires an
-authenticated browser session. Download each archive from Claude while signed
-in and place it in `~/Downloads/` before continuing.
+Direct command-line downloads returned HTTP 403 because Claude required an
+authenticated browser session. The four archives were subsequently downloaded
+through the browser and processed locally.
+
+## Completed local migration
+
+- Verified all four ZIP archives successfully.
+- Parsed **417 conversations and 5,874 messages**, dated 2025-10-14 through
+  2026-08-26.
+- Converted conversations to Markdown under
+  `learning/ai-improvement/Conversations/Claude Export/`.
+- Confirmed the searchable archive is ignored by Git.
+- Detected private-key, API-key, and password/secret-shaped content and redacted
+  it from the searchable Markdown copy.
+- Stored the complete raw JSON outside Obsidian at
+  `~/.local/share/claude-export-20260825/` with owner-only permissions.
+- Added a tracked review at
+  `learning/ai-improvement/Memory-Export/Claude Memory Candidate Review.md`.
 
 ## Migration target
 
@@ -37,16 +52,16 @@ export as portable source material with three destinations:
 | Conversations | Local archive under `learning/ai-improvement/Conversations/Claude Export/` | Searchable historical record; local-only under the standing privacy rule |
 | High-value decisions and lessons | Existing `Key Decisions.md`, `Gotchas.md`, and project maps | Active knowledge rather than buried transcripts |
 
-## Procedure after the ZIPs arrive
+## Procedure used
 
-1. Verify archive integrity and inventory filenames without publishing content.
-2. Extract into a temporary directory, not directly into a vault.
-3. Detect secrets, credentials, private attachments, and duplicate material.
-4. Convert conversations to stable Markdown with source IDs and timestamps.
-5. Keep raw conversations local-only; do not add them to Git.
-6. Produce a short, human-reviewable memory candidate list rather than asking
-   ChatGPT to remember the entire export.
-7. Copy only approved durable facts into active context documents.
+1. Verified archive integrity and inventoried filenames without publishing content.
+2. Extracted into a temporary directory, not directly into a vault.
+3. Detected secrets and credentials before enabling searchable copies.
+4. Converted conversations to stable Markdown with source IDs and timestamps.
+5. Kept raw conversations local-only and outside every Git repository.
+6. Produced a human-reviewable memory candidate list instead of asking ChatGPT
+   to remember the entire export.
+7. Deferred promotion of durable facts until the candidate review is accepted.
 
 ## ChatGPT limitation
 
