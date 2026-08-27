@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/SAT/SAT Study System — Claude Bridge.md",
+                "file": "2026-08-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAT Study System — Claude Bridge"
+              "title": "2026-08-26"
             }
           }
         ]
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Prompts/2026-08-08 Mega Prompt — Fork Odysseus Instead of Custom Pytheas Build.md",
+            "file": "Courses/SAT/Morning Of Review/Practice 11 — Every Miss, Steps, and Test-Day Tricks (2026-08-21).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,7 +170,18 @@
   },
   "active": "c113c42201b91591",
   "lastOpenFiles": [
+    "Ultimate Workspace Roadmap.md",
+    "2026-08-26.md",
     "Courses/SAT/Morning Of Review/Morning-of Review.md",
+    "Courses/SAT/Morning Of Review/Practice 11 — Every Miss, Steps, and Test-Day Tricks (2026-08-21).md",
+    "Courses/SAT/Test Strategy/Test Day Execution.md",
+    "Courses/SAT/Quick Reference/Quick Reference — Math Formulas and Grammar Rules.md",
+    "Courses/SAT/Practice Tests/Practice 11 — Raw Desmos Log (2026-08-20).md",
+    "Courses/SAT/Practice Tests/Practice 11 — Raw Confidence Export (2026-08-20).md",
+    "Courses/SAT/Practice Tests/Bluebook Timing and Confidence Tracker.md",
+    "Courses/SAT/Practice Tests/Bluebook Practice Test — 2026-08-20.md",
+    "Courses/SAT/SAT Study System — Claude Bridge.md",
+    "Briefings/2026-08-21.md",
     "Prompts/2026-08-08 Mega Prompt — Fork Odysseus Instead of Custom Pytheas Build.md",
     "Courses/SAT/Unit 1 Template — Feedback Survey.md",
     "Courses/SAT/Diagnostic Gap Lessons (2026-08-07).md",

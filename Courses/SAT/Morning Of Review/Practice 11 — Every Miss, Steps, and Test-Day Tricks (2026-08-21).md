@@ -765,19 +765,19 @@ everything looks relevant and nothing decides the answer.
 
 ## 4.2 What the stem is telling you to hunt for
 
-| Stem says | Type | What you actually look for | The classic trap |
-|---|---|---|---|
-| "most logical and precise **word or phrase**" | Word in context | The **restatement** elsewhere in the sentence, and any **logic word** (although/paradox/but) | A word that fits the **topic** but not the **logic** |
-| "as used in the text, **most nearly means**" | Word in context (2nd meaning) | The **preposition/phrase right after** the word | The **everyday** meaning of the word |
-| "**function** of the underlined portion" | Craft | The **job** it does between the sentence before and after | The job of the **neighbouring** sentence |
-| "**main purpose** / main idea of the text" | Craft / Info | The **finding**, not the background; the **arc**, not one beat | A choice covering only the setup, or one clause reversed |
-| "how would [Text 2] **respond to**" | Cross-text | Each author's **position in one sentence**, then the relationship | **Extreme** words: *unrelated, only, never, entirely* |
-| "which **quotation** … illustrates the claim" | Info | Split the claim into **2–3 requirements**, use as a checklist | A quote that's **on topic** but hits none of them |
-| "most effectively **uses data from the [table/graph]**" | Info | The **claim before the blank** first; then a **specific number** | A real number from the **wrong row or column** |
-| "most logically **completes** the text" | Info | The **limitation** the passage set up → "so what breaks?" | A cause the passage explicitly removed |
-| "conforms to the **conventions of Standard English**" | Conventions | Is there already a **main verb**? Is there an **unclosed dash/comma**? | Choices that "sound right" |
-| "most logical **transition**" | Expression | Summarize before + after in 5 words each; name **add/oppose/cause/example/compare** | Right direction, **wrong object**; or a contrast already spent by an earlier *however* |
-| "**notes**… student wants to…" | Expression (Rhetorical Synthesis) | The **stated goal** in the last line — underline it | A true sentence that doesn't do the **stated goal** |
+| Stem says                                               | Type                              | What you actually look for                                                                   | The classic trap                                                                       |
+| ------------------------------------------------------- | --------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| "most logical and precise **word or phrase**"           | Word in context                   | The **restatement** elsewhere in the sentence, and any **logic word** (although/paradox/but) | A word that fits the **topic** but not the **logic**                                   |
+| "as used in the text, **most nearly means**"            | Word in context (2nd meaning)     | The **preposition/phrase right after** the word                                              | The **everyday** meaning of the word                                                   |
+| "**function** of the underlined portion"                | Craft                             | The **job** it does between the sentence before and after                                    | The job of the **neighbouring** sentence                                               |
+| "**main purpose** / main idea of the text"              | Craft / Info                      | The **finding**, not the background; the **arc**, not one beat                               | A choice covering only the setup, or one clause reversed                               |
+| "how would [Text 2] **respond to**"                     | Cross-text                        | Each author's **position in one sentence**, then the relationship                            | **Extreme** words: *unrelated, only, never, entirely*                                  |
+| "which **quotation** … illustrates the claim"           | Info                              | Split the claim into **2–3 requirements**, use as a checklist                                | A quote that's **on topic** but hits none of them                                      |
+| "most effectively **uses data from the [table/graph]**" | Info                              | The **claim before the blank** first; then a **specific number**                             | A real number from the **wrong row or column**                                         |
+| "most logically **completes** the text"                 | Info                              | The **limitation** the passage set up → "so what breaks?"                                    | A cause the passage explicitly removed                                                 |
+| "conforms to the **conventions of Standard English**"   | Conventions                       | Is there already a **main verb**? Is there an **unclosed dash/comma**?                       | Choices that "sound right"                                                             |
+| "most logical **transition**"                           | Expression                        | Summarize before + after in 5 words each; name **add/oppose/cause/example/compare**          | Right direction, **wrong object**; or a contrast already spent by an earlier *however* |
+| "**notes**… student wants to…"                          | Expression (Rhetorical Synthesis) | The **stated goal** in the last line — underline it                                          | A true sentence that doesn't do the **stated goal**                                    |
 
 ## 4.3 Anti-getting-lost rules
 
