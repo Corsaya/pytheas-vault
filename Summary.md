@@ -5,6 +5,17 @@ updated: 2026-05-30
 
 # Jarvis — Summary
 
+> [!warning] Historical snapshot — 2026-05-30. Not current.
+> This describes the **Jarvis design phase**, when the repo was specs only.
+> It is kept as an artifact of how the system was originally conceived.
+> **What actually shipped is different:** `~/code/pytheas` is a fully
+> implemented desktop app (`server.py`, `voice.py`, `courses.py`,
+> `research.py`, `models.py`, `actions.py`, `briefing.py`, `chats.py`,
+> `emailcal.py`, `permissions.py`), and `~/code/chiron` is a working Odysseus
+> fork. `~/code/jarvis` remains the design-only terminal CLI described below.
+> For current state see [[Home]] and
+> [[../learning/ai-improvement/Pytheas Capability Map|Pytheas Capability Map]].
+
 A personal AI assistant: terminal CLI, persistent memory, usage-aware model
 routing. Anthropic-only with a provider seam. **Fully architected but not yet
 implemented** — the repo is design-only; no `.py` files exist yet.

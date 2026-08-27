@@ -8,6 +8,14 @@ related: ["[[Development Roadmap]]", "[[capabilities-roadmap]]", "[[../ai-improv
 
 # Ultimate Workspace Roadmap
 
+> [!note] 2026-08-02 snapshot — superseded in direction, not in research.
+> The current plan for the workspace is
+> [[Handoff/02 — AI Workspace Master Plan]] (2026-08-25), which sets the
+> end-of-senior-year deadline and phases the build against the real school/crew
+> calendar. **This document's research is still the reasoning of record** —
+> the CalDAV decision, Notion ruled out structurally, the Odysseus adoption
+> call. Body left unedited on purpose.
+
 Structured breakdown of the [[Prompts/2026-08-02 Mega Prompt — Ultimate Workspace Vision|2026-08-02 mega prompt]],
 mapped against what's already planned in [[Development Roadmap]] (workstreams
 1–4: Atlas, environment-context injection, vault-pyramid agents, Hermes).
