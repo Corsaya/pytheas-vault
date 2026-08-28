@@ -32,8 +32,20 @@ for vault in "${vaults[@]}"; do
     echo
     echo '| Type | Path | Bytes | Modified |'
     echo '|---|---|---:|---|'
-    find "$vault_root" -path "$vault_root/.git" -prune -o -mindepth 1 -printf '%y\t%P\t%s\t%TY-%Tm-%Td %TH:%TM\n' \
-      | LC_ALL=C sort -t $'\t' -k2,2 \
+    {
+      if [[ "$vault" == "pytheas" ]]; then
+        find "$vault_root" \
+          -path "$vault_root/.git" -prune -o \
+          -path "$atlas_root" -prune -o \
+          -mindepth 1 -printf '%y\t%P\t%s\t%TY-%Tm-%Td %TH:%TM\n'
+        printf 'd\tOperations/Vault Atlas\t-\tgenerated\n'
+        find "$atlas_root" -mindepth 1 -maxdepth 1 -type f \
+          -printf 'f\tOperations/Vault Atlas/%f\t-\tgenerated\n'
+      else
+        find "$vault_root" -path "$vault_root/.git" -prune -o \
+          -mindepth 1 -printf '%y\t%P\t%s\t%TY-%Tm-%Td %TH:%TM\n'
+      fi
+    } | LC_ALL=C sort -t $'\t' -k2,2 \
       | while IFS=$'\t' read -r kind path bytes modified; do
           case "$kind" in
             d) label='folder' ;;
