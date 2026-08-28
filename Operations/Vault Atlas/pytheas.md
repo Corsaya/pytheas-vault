@@ -12,17 +12,17 @@ vault: pytheas
 ## Summary
 
 - Folders: 25
-- Files: 111
+- Files: 112
 - Symlinks: 2
 
 ## Complete path inventory
 
 | Type | Path | Bytes | Modified |
 |---|---|---:|---|
-| folder | `.agents` | 40 | 2026-08-27 23:47 |
+| folder | `.agents` | 40 | 2026-08-27 23:48 |
 | folder | `.claude` | 4096 | 2026-08-14 02:19 |
 | file | `.claude/settings.local.json` | 6943 | 2026-08-14 02:19 |
-| folder | `.codex` | 40 | 2026-08-27 23:47 |
+| folder | `.codex` | 40 | 2026-08-27 23:48 |
 | folder | `.obsidian` | 4096 | 2026-08-27 23:25 |
 | folder | `.obsidian-claude-code` | 4096 | 2026-07-07 10:39 |
 | folder | `.obsidian-claude-code/history` | 4096 | 2026-07-07 10:39 |
@@ -128,14 +128,15 @@ vault: pytheas
 | file | `Operations/Prompts/2026-08-27 Cross-Vault Consistency Atlas and Organization.md` | 1240 | 2026-08-27 23:25 |
 | folder | `Operations/Surveys` | 4096 | 2026-07-08 01:28 |
 | file | `Operations/Surveys/2026-W28.md` | 437 | 2026-07-08 01:28 |
-| folder | `Operations/Vault Atlas` | 4096 | 2026-08-27 23:27 |
-| file | `Operations/Vault Atlas/Home.md` | 1101 | 2026-08-27 23:40 |
+| folder | `Operations/Vault Atlas` | 4096 | 2026-08-27 23:48 |
+| file | `Operations/Vault Atlas/Completion Audit.md` | 4041 | 2026-08-27 23:48 |
+| file | `Operations/Vault Atlas/Home.md` | 1101 | 2026-08-27 23:47 |
 | file | `Operations/Vault Atlas/Organization Findings.md` | 7433 | 2026-08-27 23:45 |
-| file | `Operations/Vault Atlas/agonizing-sentience.md` | 2091 | 2026-08-27 23:47 |
-| file | `Operations/Vault Atlas/finance.md` | 9698 | 2026-08-27 23:47 |
-| file | `Operations/Vault Atlas/learning.md` | 190199 | 2026-08-27 23:47 |
-| file | `Operations/Vault Atlas/life.md` | 29951 | 2026-08-27 23:47 |
-| file | `Operations/Vault Atlas/pytheas.md` | 420 | 2026-08-27 23:47 |
+| file | `Operations/Vault Atlas/agonizing-sentience.md` | 2091 | 2026-08-27 23:48 |
+| file | `Operations/Vault Atlas/finance.md` | 9698 | 2026-08-27 23:48 |
+| file | `Operations/Vault Atlas/learning.md` | 190199 | 2026-08-27 23:48 |
+| file | `Operations/Vault Atlas/life.md` | 29951 | 2026-08-27 23:48 |
+| file | `Operations/Vault Atlas/pytheas.md` | 420 | 2026-08-27 23:48 |
 | folder | `Operations/scripts` | 4096 | 2026-08-27 23:25 |
 | file | `Operations/scripts/export-codex-conversation.py` | 3163 | 2026-08-26 00:38 |
 | file | `Operations/scripts/generate-vault-atlas.sh` | 3338 | 2026-08-27 23:40 |

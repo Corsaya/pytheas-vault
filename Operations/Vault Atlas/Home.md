@@ -15,7 +15,7 @@ Current inventory after the 2026-08-27 cross-vault organization. The per-vault n
 | finance | 25 | 106 | 0 | [[finance]] |
 | learning | 174 | 1301 | 0 | [[learning]] |
 | life | 61 | 272 | 0 | [[life]] |
-| pytheas | 25 | 111 | 2 | [[pytheas]] |
+| pytheas | 25 | 112 | 2 | [[pytheas]] |
 
 ## Scope rules
 

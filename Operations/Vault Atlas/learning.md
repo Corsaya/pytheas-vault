@@ -317,7 +317,7 @@ vault: learning
 | folder | `Entertainment/Books/Science Fiction` | 4096 | 2026-05-11 16:38 |
 | folder | `Entertainment/Books/Science Fiction/Project Hail Mary` | 4096 | 2026-05-11 16:38 |
 | folder | `Entertainment/Books/Science Fiction/Project Hail Mary/02 - Notes` | 4096 | 2026-05-11 16:38 |
-| file | `Entertainment/Books/Science Fiction/Project Hail Mary/02 - Notes/Chapter 1.md` | 675 | 2026-05-11 16:38 |
+| file | `Entertainment/Books/Science Fiction/Project Hail Mary/02 - Notes/Chapter 1.md` | 675 | 2026-08-27 23:48 |
 | file | `Entertainment/Books/Science Fiction/Project Hail Mary/02 - Notes/Chapter 2.md` | 185 | 2026-05-11 16:38 |
 | file | `Entertainment/Books/Science Fiction/Project Hail Mary/02 - Notes/Chapter 3.md` | 528 | 2026-05-11 16:38 |
 | file | `Entertainment/Home.md` | 494 | 2026-08-27 23:43 |
