@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "96cf950eb7094d22",
+        "id": "5365d700f1646936",
         "type": "tabs",
         "children": [
           {
-            "id": "ef9ab3996f526e5c",
+            "id": "aa626cf82bfed39f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning-vault/Entertainment/Video Games/Super Smash Bros. Melee/Equipment/PDP Wired Fight Pad Pro - Pikachu Yellow.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PDP Wired Fight Pad Pro - Pikachu Yellow"
+              "title": "New tab"
             }
           }
         ]
@@ -196,13 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74ca243c16338f03",
+  "active": "aa626cf82bfed39f",
   "lastOpenFiles": [
+    "learning-vault/Entertainment/Video Games/Super Smash Bros. Melee/Equipment/PDP Wired Fight Pad Pro - Pikachu Yellow.md",
     "2026-08-30.md",
     "Generated/Briefings/2026-08-29.md",
     "learning-vault/Entertainment/Video Games/Super Smash Bros. Melee/Equipment/Nintendo GameCube Controller - Platinum Silver DOL-003.md",
     "learning-vault/Entertainment/Video Games/Super Smash Bros. Melee/Equipment/Attachments/Platinum Silver DOL-003 Listing.jpg",
-    "learning-vault/Entertainment/Video Games/Super Smash Bros. Melee/Equipment/PDP Wired Fight Pad Pro - Pikachu Yellow.md",
     "learning-vault/Entertainment/Video Games/Super Smash Bros. Melee/Equipment/Attachments/DOL-003 Seller Confirmation 2026-08-28.png",
     "learning-vault/Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/2026-08-28 — Falco and Jigglypuff — Friendly Battles.md",
     "learning-vault/Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Gameplay Review Template.md",
