@@ -1,6 +1,6 @@
 ---
 title: Vault Atlas — finance
-date: 2026-08-27
+date: 2026-08-31
 type: generated-vault-atlas
 vault: finance
 ---

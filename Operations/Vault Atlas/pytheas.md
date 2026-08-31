@@ -1,6 +1,6 @@
 ---
 title: Vault Atlas — pytheas
-date: 2026-08-27
+date: 2026-08-31
 type: generated-vault-atlas
 vault: pytheas
 ---
@@ -11,34 +11,33 @@ vault: pytheas
 
 ## Summary
 
-- Folders: 25
-- Files: 112
-- Symlinks: 2
+- Folders: 23
+- Files: 118
+- Symlinks: 1
 
 ## Complete path inventory
 
 | Type | Path | Bytes | Modified |
 |---|---|---:|---|
-| folder | `.agents` | 40 | 2026-08-27 23:49 |
 | folder | `.claude` | 4096 | 2026-08-14 02:19 |
 | file | `.claude/settings.local.json` | 6943 | 2026-08-14 02:19 |
-| folder | `.codex` | 40 | 2026-08-27 23:49 |
-| folder | `.obsidian` | 4096 | 2026-08-27 23:25 |
+| file | `.gitignore` | 0 | 2026-08-31 15:06 |
+| folder | `.obsidian` | 4096 | 2026-08-31 15:06 |
 | folder | `.obsidian-claude-code` | 4096 | 2026-07-07 10:39 |
 | folder | `.obsidian-claude-code/history` | 4096 | 2026-07-07 10:39 |
-| file | `.obsidian/app.json` | 2 | 2026-08-27 14:12 |
-| file | `.obsidian/appearance.json` | 2 | 2026-08-27 14:12 |
-| file | `.obsidian/community-plugins.json` | 61 | 2026-08-27 14:12 |
-| file | `.obsidian/core-plugins.json` | 696 | 2026-08-27 14:12 |
+| file | `.obsidian/app.json` | 2 | 2026-08-31 15:02 |
+| file | `.obsidian/appearance.json` | 2 | 2026-08-31 15:02 |
+| file | `.obsidian/community-plugins.json` | 61 | 2026-08-31 15:02 |
+| file | `.obsidian/core-plugins.json` | 696 | 2026-08-31 15:02 |
 | folder | `.obsidian/plugins` | 4096 | 2026-08-25 22:39 |
 | folder | `.obsidian/plugins/obsidian-git` | 4096 | 2026-07-05 12:31 |
 | file | `.obsidian/plugins/obsidian-git/data.json` | 1819 | 2026-07-05 12:31 |
 | file | `.obsidian/plugins/obsidian-git/main.js` | 719808 | 2026-07-05 12:31 |
 | file | `.obsidian/plugins/obsidian-git/manifest.json` | 325 | 2026-07-05 12:31 |
-| file | `.obsidian/plugins/obsidian-git/obsidian_askpass.sh` | 402 | 2026-08-27 14:12 |
+| file | `.obsidian/plugins/obsidian-git/obsidian_askpass.sh` | 402 | 2026-08-31 15:02 |
 | file | `.obsidian/plugins/obsidian-git/styles.css` | 18303 | 2026-07-05 12:31 |
 | folder | `.obsidian/plugins/omnisearch` | 4096 | 2026-08-25 22:39 |
-| file | `.obsidian/plugins/omnisearch/data.json` | 1103 | 2026-08-27 14:12 |
+| file | `.obsidian/plugins/omnisearch/data.json` | 1103 | 2026-08-31 15:02 |
 | file | `.obsidian/plugins/omnisearch/main.js` | 717409 | 2026-08-25 22:22 |
 | file | `.obsidian/plugins/omnisearch/manifest.json` | 366 | 2026-08-25 22:22 |
 | file | `.obsidian/plugins/omnisearch/styles.css` | 2750 | 2026-08-25 22:22 |
@@ -47,13 +46,14 @@ vault: pytheas
 | file | `.obsidian/plugins/smart-related-notes/main.js` | 637234 | 2026-08-25 22:22 |
 | file | `.obsidian/plugins/smart-related-notes/manifest.json` | 426 | 2026-08-25 22:22 |
 | file | `.obsidian/plugins/smart-related-notes/styles.css` | 13332 | 2026-08-25 22:22 |
-| file | `.obsidian/workspace-mobile.json` | 5645 | 2026-08-27 23:25 |
-| file | `.obsidian/workspace.json` | 8760 | 2026-08-27 14:12 |
+| file | `.obsidian/workspace-mobile.json` | 5976 | 2026-08-31 15:06 |
+| file | `.obsidian/workspace.json` | 9639 | 2026-08-31 15:57 |
+| file | `2026-08-30.md` | 0 | 2026-08-31 15:02 |
 | folder | `Architecture` | 4096 | 2026-08-27 23:44 |
 | file | `Architecture/Pytheas Voices and Briefing Sources.md` | 3165 | 2026-07-28 13:56 |
 | file | `Architecture/Pytheas and Chiron Project Map.md` | 3477 | 2026-08-27 23:34 |
 | folder | `Generated` | 4096 | 2026-08-27 23:33 |
-| folder | `Generated/Briefings` | 4096 | 2026-08-27 14:12 |
+| folder | `Generated/Briefings` | 4096 | 2026-08-31 14:04 |
 | file | `Generated/Briefings/2026-07-16.md` | 4093 | 2026-07-16 18:58 |
 | file | `Generated/Briefings/2026-07-17.md` | 7734 | 2026-07-17 11:29 |
 | file | `Generated/Briefings/2026-07-19-2.md` | 3132 | 2026-07-19 12:31 |
@@ -98,6 +98,9 @@ vault: pytheas
 | file | `Generated/Briefings/2026-08-25.md` | 8180 | 2026-08-25 19:05 |
 | file | `Generated/Briefings/2026-08-26.md` | 7287 | 2026-08-26 16:21 |
 | file | `Generated/Briefings/2026-08-27.md` | 7924 | 2026-08-27 14:12 |
+| file | `Generated/Briefings/2026-08-28.md` | 9002 | 2026-08-28 10:56 |
+| file | `Generated/Briefings/2026-08-29.md` | 7296 | 2026-08-29 11:18 |
+| file | `Generated/Briefings/2026-08-31.md` | 9178 | 2026-08-31 14:04 |
 | file | `Home.md` | 3821 | 2026-08-27 23:45 |
 | folder | `Incubator` | 4096 | 2026-08-27 23:33 |
 | file | `Incubator/2026-08-26.md` | 0 | 2026-08-27 23:25 |
@@ -113,7 +116,7 @@ vault: pytheas
 | file | `Operations/Handoff/05 — Vault Cleanup Audit.md` | 10125 | 2026-08-27 23:39 |
 | file | `Operations/Handoff/06 — Claude Export to ChatGPT Migration.md` | 3113 | 2026-08-25 22:33 |
 | file | `Operations/Handoff/07 — Senior Year Priorities and Workspace Requirements.md` | 5946 | 2026-08-25 22:59 |
-| folder | `Operations/Prompts` | 4096 | 2026-08-27 23:25 |
+| folder | `Operations/Prompts` | 4096 | 2026-08-31 15:57 |
 | file | `Operations/Prompts/2026-08-02 Frontier Model Benchmark Comparison — Content-Authoring Model Choice.md` | 4922 | 2026-08-02 12:46 |
 | file | `Operations/Prompts/2026-08-02 Mega Prompt — Ultimate Workspace Vision.md` | 4441 | 2026-08-02 00:03 |
 | file | `Operations/Prompts/2026-08-02 Notion Calendar, Email, Meeting-Notes Research.md` | 8052 | 2026-08-02 12:03 |
@@ -126,6 +129,7 @@ vault: pytheas
 | file | `Operations/Prompts/2026-08-25 Senior Year Priorities and Connected Workspace.md` | 1520 | 2026-08-25 22:59 |
 | file | `Operations/Prompts/2026-08-26 Chiron Roadmap and Finito Conversation Archive.md` | 1087 | 2026-08-26 00:38 |
 | file | `Operations/Prompts/2026-08-27 Cross-Vault Consistency Atlas and Organization.md` | 1240 | 2026-08-27 23:25 |
+| file | `Operations/Prompts/2026-08-31 GitHub Vault Separation and Mega-Vault Migration.md` | 1053 | 2026-08-31 15:57 |
 | folder | `Operations/Surveys` | 4096 | 2026-07-08 01:28 |
 | file | `Operations/Surveys/2026-W28.md` | 437 | 2026-07-08 01:28 |
 | folder | `Operations/Vault Atlas` | - | generated |
@@ -139,7 +143,7 @@ vault: pytheas
 | file | `Operations/Vault Atlas/pytheas.md` | - | generated |
 | folder | `Operations/scripts` | 4096 | 2026-08-27 23:25 |
 | file | `Operations/scripts/export-codex-conversation.py` | 3163 | 2026-08-26 00:38 |
-| file | `Operations/scripts/generate-vault-atlas.sh` | 3790 | 2026-08-27 23:49 |
+| file | `Operations/scripts/generate-vault-atlas.sh` | 3831 | 2026-08-31 15:58 |
 | folder | `Operations/session-wraps` | 4096 | 2026-08-02 01:06 |
 | file | `Operations/session-wraps/jarvis-session-wrap-2026-07-01.md` | 3327 | 2026-07-01 23:23 |
 | file | `Operations/session-wraps/jarvis-session-wrap-2026-07-03.md` | 3003 | 2026-07-05 10:41 |
@@ -156,4 +160,3 @@ vault: pytheas
 | file | `Roadmaps/Historical/jarvis-desk-app.md` | 3365 | 2026-07-16 18:58 |
 | file | `Roadmaps/perfect-assistant-goals-2026-07-15.md` | 4276 | 2026-07-15 19:41 |
 | symlink | `code` | 18 | 2026-07-05 10:46 |
-| symlink | `learning-vault` | 41 | 2026-07-05 10:46 |

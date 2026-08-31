@@ -1,6 +1,6 @@
 ---
 title: Vault Atlas — learning
-date: 2026-08-27
+date: 2026-08-31
 type: generated-vault-atlas
 vault: learning
 ---
@@ -11,1485 +11,1557 @@ vault: learning
 
 ## Summary
 
-- Folders: 174
-- Files: 1301
+- Folders: 190
+- Files: 1357
 - Symlinks: 0
 
 ## Complete path inventory
 
-| Type   | Path                                                                                                                                                    |   Bytes | Modified         |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------: | ---------------- |
-| folder | `.claude`                                                                                                                                               |    4096 | 2026-07-05 10:41 |
-| file   | `.claude/settings.local.json`                                                                                                                           |    5113 | 2026-07-05 10:49 |
-| file   | `.gitignore`                                                                                                                                            |      81 | 2026-05-11 16:38 |
-| folder | `.obsidian`                                                                                                                                             |    4096 | 2026-07-01 10:25 |
-| folder | `.obsidian-claude-code`                                                                                                                                 |    4096 | 2026-07-06 13:32 |
-| folder | `.obsidian-claude-code/history`                                                                                                                         |    4096 | 2026-07-06 13:32 |
-| file   | `.obsidian/app.json`                                                                                                                                    |       2 | 2026-08-25 22:40 |
-| file   | `.obsidian/appearance.json`                                                                                                                             |      30 | 2026-08-25 22:40 |
-| file   | `.obsidian/community-plugins.json`                                                                                                                      |      69 | 2026-08-25 22:40 |
-| file   | `.obsidian/core-plugins.json`                                                                                                                           |     696 | 2026-08-25 22:40 |
-| file   | `.obsidian/graph.json`                                                                                                                                  |     493 | 2026-05-11 16:38 |
-| folder | `.obsidian/plugins`                                                                                                                                     |    4096 | 2026-08-25 22:40 |
-| folder | `.obsidian/plugins/easy-typing-obsidian`                                                                                                                |    4096 | 2026-05-11 16:38 |
-| file   | `.obsidian/plugins/easy-typing-obsidian/builtin-rules.json`                                                                                             |    6287 | 2026-05-11 16:38 |
-| file   | `.obsidian/plugins/easy-typing-obsidian/main.js`                                                                                                        |  377644 | 2026-05-11 16:38 |
-| file   | `.obsidian/plugins/easy-typing-obsidian/manifest.json`                                                                                                  |     350 | 2026-05-11 16:38 |
-| file   | `.obsidian/plugins/easy-typing-obsidian/styles.css`                                                                                                     |   21054 | 2026-05-11 16:38 |
-| file   | `.obsidian/plugins/easy-typing-obsidian/user-rules.json`                                                                                                |       2 | 2026-05-11 16:38 |
-| folder | `.obsidian/plugins/obsidian-completr`                                                                                                                   |    4096 | 2026-05-30 11:46 |
-| file   | `.obsidian/plugins/obsidian-completr/callout_suggestions.json`                                                                                          |    3224 | 2026-05-11 16:38 |
-| file   | `.obsidian/plugins/obsidian-completr/latex_commands.json`                                                                                               |   84986 | 2026-05-11 16:38 |
-| file   | `.obsidian/plugins/obsidian-completr/main.js`                                                                                                           | 1027362 | 2026-05-11 16:38 |
-| file   | `.obsidian/plugins/obsidian-completr/manifest.json`                                                                                                     |     334 | 2026-05-11 16:38 |
-| file   | `.obsidian/plugins/obsidian-completr/scanned_words.txt`                                                                                                 |  100230 | 2026-08-25 22:40 |
-| file   | `.obsidian/plugins/obsidian-completr/styles.css`                                                                                                        |    2155 | 2026-05-11 16:38 |
-| folder | `.obsidian/plugins/obsidian-completr/wordLists`                                                                                                         |    4096 | 2026-05-11 16:39 |
-| folder | `.obsidian/plugins/obsidian-git`                                                                                                                        |    4096 | 2026-07-05 12:32 |
-| file   | `.obsidian/plugins/obsidian-git/data.json`                                                                                                              |    1857 | 2026-06-02 20:51 |
-| file   | `.obsidian/plugins/obsidian-git/main.js`                                                                                                                |  719808 | 2026-07-05 12:32 |
-| file   | `.obsidian/plugins/obsidian-git/manifest.json`                                                                                                          |     325 | 2026-07-05 12:32 |
-| file   | `.obsidian/plugins/obsidian-git/obsidian_askpass.sh`                                                                                                    |     402 | 2026-08-25 22:40 |
-| file   | `.obsidian/plugins/obsidian-git/styles.css`                                                                                                             |   18303 | 2026-07-05 12:32 |
-| folder | `.obsidian/plugins/obsidian-latex-suite`                                                                                                                |    4096 | 2026-05-11 16:38 |
-| file   | `.obsidian/plugins/obsidian-latex-suite/data.json`                                                                                                      |   23044 | 2026-05-11 16:38 |
-| file   | `.obsidian/plugins/obsidian-latex-suite/main.js`                                                                                                        |  351782 | 2026-05-11 16:38 |
-| file   | `.obsidian/plugins/obsidian-latex-suite/manifest.json`                                                                                                  |     379 | 2026-05-11 16:38 |
-| file   | `.obsidian/plugins/obsidian-latex-suite/styles.css`                                                                                                     |    6624 | 2026-05-11 16:38 |
-| file   | `.obsidian/workspace.json`                                                                                                                              |    7419 | 2026-08-25 22:40 |
-| folder | `Courses`                                                                                                                                               |    4096 | 2026-08-27 23:44 |
-| folder | `Courses/Basketball Rules`                                                                                                                              |    4096 | 2026-07-29 11:48 |
-| file   | `Courses/Basketball Rules/Official-2025-26-NBA-Playing-Rules.pdf`                                                                                       | 1653286 | 2026-07-29 11:48 |
-| file   | `Courses/Home.md`                                                                                                                                       |     477 | 2026-07-24 13:25 |
-| folder | `Courses/Pytheas Benchmark - SAT Test`                                                                                                                  |    4096 | 2026-08-07 01:10 |
-| folder | `Courses/Pytheas Benchmark - SAT Test/_artifacts`                                                                                                       |    4096 | 2026-08-07 01:10 |
-| file   | `Courses/Pytheas Benchmark - SAT Test/_artifacts/20260807-0110-quiz.md`                                                                                 |    3166 | 2026-08-07 01:10 |
-| file   | `Courses/Pytheas Benchmark - SAT Test/sat-math-sample.md`                                                                                               |    1004 | 2026-08-07 01:09 |
-| folder | `Courses/SAT`                                                                                                                                           |    4096 | 2026-08-20 23:30 |
-| file   | `Courses/SAT/Claude Instructions.md`                                                                                                                    |    1097 | 2026-08-19 15:49 |
-| folder | `Courses/SAT/Crash Courses`                                                                                                                             |    4096 | 2026-08-27 23:43 |
-| file   | `Courses/SAT/Crash Courses/Math — Advanced Math.md`                                                                                                     |   30758 | 2026-08-27 23:43 |
-| file   | `Courses/SAT/Crash Courses/Math — Algebra.md`                                                                                                           |   24354 | 2026-08-16 14:49 |
-| file   | `Courses/SAT/Crash Courses/Math — Geometry and Trigonometry.md`                                                                                         |   22064 | 2026-08-20 16:34 |
-| file   | `Courses/SAT/Crash Courses/Math — Problem-Solving and Data Analysis.md`                                                                                 |   24906 | 2026-08-16 14:49 |
-| file   | `Courses/SAT/Crash Courses/R&W — Craft and Structure.md`                                                                                                |   29427 | 2026-08-20 16:34 |
-| file   | `Courses/SAT/Crash Courses/R&W — Expression of Ideas.md`                                                                                                |   31769 | 2026-08-16 14:48 |
-| file   | `Courses/SAT/Crash Courses/R&W — Information and Ideas.md`                                                                                              |   33919 | 2026-08-20 16:34 |
-| file   | `Courses/SAT/Crash Courses/R&W — SAT Grammar Rules Reference.md`                                                                                        |   40392 | 2026-08-19 14:20 |
-| file   | `Courses/SAT/Crash Courses/R&W — Standard English Conventions.md`                                                                                       |   37755 | 2026-08-16 14:50 |
-| file   | `Courses/SAT/Diagnostic Gap Lessons (2026-08-07).md`                                                                                                    |   12317 | 2026-08-07 15:25 |
-| file   | `Courses/SAT/Foundations Knowledge Check.md`                                                                                                            |    6892 | 2026-08-20 16:34 |
-| folder | `Courses/SAT/Morning Of Review`                                                                                                                         |    4096 | 2026-08-27 23:25 |
-| file   | `Courses/SAT/Morning Of Review/Morning-of Review.md`                                                                                                    |    7752 | 2026-08-21 00:07 |
-| file   | `Courses/SAT/Morning Of Review/Practice 11 — Every Miss, Steps, and Test-Day Tricks (2026-08-21).md`                                                    |   51382 | 2026-08-27 23:25 |
-| folder | `Courses/SAT/Pattern Library`                                                                                                                           |    4096 | 2026-08-20 16:45 |
-| file   | `Courses/SAT/Pattern Library/001 Polynomial Tables.md`                                                                                                  |    1076 | 2026-08-19 15:49 |
-| file   | `Courses/SAT/Pattern Library/002 Word in Context.md`                                                                                                    |    1780 | 2026-08-20 16:45 |
-| file   | `Courses/SAT/Pattern Library/003 Finite Verb or Participle.md`                                                                                          |    1831 | 2026-08-20 16:45 |
-| file   | `Courses/SAT/Pattern Library/004 Table Data Completion.md`                                                                                              |    1692 | 2026-08-20 16:45 |
-| file   | `Courses/SAT/Pattern Library/Pattern Index.md`                                                                                                          |     860 | 2026-08-20 16:45 |
-| folder | `Courses/SAT/Practice Tests`                                                                                                                            |    4096 | 2026-08-21 00:14 |
-| file   | `Courses/SAT/Practice Tests/Bluebook Practice Test — 2026-08-20.md`                                                                                     |   12858 | 2026-08-21 00:14 |
-| file   | `Courses/SAT/Practice Tests/Bluebook Timing and Confidence Tracker.docx`                                                                                |    3767 | 2026-08-19 16:27 |
-| file   | `Courses/SAT/Practice Tests/Bluebook Timing and Confidence Tracker.md`                                                                                  |     723 | 2026-08-19 16:23 |
-| folder | `Courses/SAT/Practice Tests/Practice 11`                                                                                                                |   12288 | 2026-08-21 00:14 |
-| file   | `Courses/SAT/Practice Tests/Practice 11 — Raw Confidence Export (2026-08-20).md`                                                                        |    4116 | 2026-08-20 23:45 |
-| file   | `Courses/SAT/Practice Tests/Practice 11 — Raw Desmos Log (2026-08-20).md`                                                                               |    3039 | 2026-08-21 00:07 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/README.md`                                                                                                      |    1405 | 2026-08-21 00:14 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162115.png`                                                                                 |  185162 | 2026-08-20 16:21 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162249.png`                                                                                 |  183431 | 2026-08-20 16:22 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162304.png`                                                                                 |  202156 | 2026-08-20 16:23 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162317.png`                                                                                 |  261038 | 2026-08-20 16:23 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162510.png`                                                                                 |  245128 | 2026-08-20 16:25 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162523.png`                                                                                 |  256889 | 2026-08-20 16:25 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162657.png`                                                                                 |  268634 | 2026-08-20 16:26 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162712.png`                                                                                 |  302477 | 2026-08-20 16:27 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162726.png`                                                                                 |  193447 | 2026-08-20 16:27 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162746.png`                                                                                 |  253818 | 2026-08-20 16:27 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162749.png`                                                                                 |  225690 | 2026-08-20 16:27 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162752.png`                                                                                 |  261625 | 2026-08-20 16:27 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162754.png`                                                                                 |  297101 | 2026-08-20 16:27 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162756.png`                                                                                 |  208105 | 2026-08-20 16:27 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162757.png`                                                                                 |  268948 | 2026-08-20 16:27 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162759.png`                                                                                 |  142003 | 2026-08-20 16:27 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162801.png`                                                                                 |  141566 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162803.png`                                                                                 |  146990 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162805.png`                                                                                 |  142855 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162808.png`                                                                                 |  183414 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162811.png`                                                                                 |  160570 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162813.png`                                                                                 |  169552 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162815.png`                                                                                 |  204397 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162828.png`                                                                                 |  174709 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162830.png`                                                                                 |  208819 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162831.png`                                                                                 |  221171 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162832.png`                                                                                 |  188994 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162836.png`                                                                                 |  181339 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162837.png`                                                                                 |  196803 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162838.png`                                                                                 |  205411 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162839.png`                                                                                 |  183229 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162840.png`                                                                                 |  319811 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162841.png`                                                                                 |  248077 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162842.png`                                                                                 |  288993 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162843.png`                                                                                 |  248586 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162844.png`                                                                                 |  256424 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162845.png`                                                                                 |  245989 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162846.png`                                                                                 |  259793 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162847.png`                                                                                 |  239153 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162848.png`                                                                                 |  272707 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162849.png`                                                                                 |  268633 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162850.png`                                                                                 |  176809 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162851.png`                                                                                 |  182801 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162852.png`                                                                                 |  132035 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162853.png`                                                                                 |  137046 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162854.png`                                                                                 |  165521 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162855.png`                                                                                 |  145708 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162856.png`                                                                                 |  166606 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162857.png`                                                                                 |  172458 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162858.png`                                                                                 |  196684 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162859.png`                                                                                 |  212206 | 2026-08-20 16:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162900.png`                                                                                 |  194431 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162901.png`                                                                                 |  212096 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162902.png`                                                                                 |  209984 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162903.png`                                                                                 |   99824 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162904.png`                                                                                 |  111005 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162905.png`                                                                                 |  107198 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162906.png`                                                                                 |  131340 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162907.png`                                                                                 |  139612 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162908.png`                                                                                 |  101734 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162909.png`                                                                                 |  120838 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162910.png`                                                                                 |  184410 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162911.png`                                                                                 |  104519 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162912.png`                                                                                 |  134234 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162913.png`                                                                                 |  136742 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162914.png`                                                                                 |  110592 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162915.png`                                                                                 |  156639 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162916.png`                                                                                 |  163406 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162917.png`                                                                                 |  150820 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162918.png`                                                                                 |  136642 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162919.png`                                                                                 |  203022 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162921.png`                                                                                 |  133450 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162922.png`                                                                                 |  194164 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162923.png`                                                                                 |  160325 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162924.png`                                                                                 |  152714 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162925.png`                                                                                 |  190888 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162926.png`                                                                                 |  140332 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162927.png`                                                                                 |   89913 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162928.png`                                                                                 |  142328 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162929.png`                                                                                 |  139360 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162930.png`                                                                                 |  204532 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162931.png`                                                                                 |  115988 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162934.png`                                                                                 |  150081 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162935.png`                                                                                 |  110971 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162936.png`                                                                                 |  113236 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162937.png`                                                                                 |  115968 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162938-1.png`                                                                               |  160499 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162938.png`                                                                                 |  136490 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162939.png`                                                                                 |  204992 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162940-1.png`                                                                               |  130867 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162940.png`                                                                                 |  142601 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162941.png`                                                                                 |  161570 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162942.png`                                                                                 |  160837 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162943-1.png`                                                                               |  183190 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162943.png`                                                                                 |  165701 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162944.png`                                                                                 |  162595 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162945.png`                                                                                 |  172388 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162947.png`                                                                                 |  133109 | 2026-08-20 16:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/confidence-rater.html`                                                                                          |   21044 | 2026-08-20 23:29 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/desmos-log.html`                                                                                                |   23484 | 2026-08-20 23:51 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/manifest.json`                                                                                                  |   12096 | 2026-08-20 23:50 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/miss-review.html`                                                                                               |   18363 | 2026-08-21 00:11 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/misses.json`                                                                                                    |    6993 | 2026-08-21 00:10 |
-| folder | `Courses/SAT/Practice Tests/Practice 11/question-only`                                                                                                  |    4096 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162115.png`                                                                   |   42708 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162249.png`                                                                   |   31265 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162304.png`                                                                   |   42617 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162317.png`                                                                   |   44447 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162510.png`                                                                   |   90432 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162523.png`                                                                   |   77899 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162657.png`                                                                   |  115615 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162712.png`                                                                   |  114273 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162726.png`                                                                   |   60349 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162746.png`                                                                   |   80216 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162749.png`                                                                   |   51387 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162752.png`                                                                   |  122924 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162754.png`                                                                   |  127879 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162756.png`                                                                   |   56201 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162757.png`                                                                   |   89823 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162759.png`                                                                   |   30320 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162801.png`                                                                   |   32606 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162803.png`                                                                   |   41348 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162805.png`                                                                   |   45395 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162808.png`                                                                   |   58163 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162811.png`                                                                   |   36870 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162813.png`                                                                   |   38716 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162815.png`                                                                   |   53444 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162828.png`                                                                   |   89035 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162830.png`                                                                   |  107698 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162831.png`                                                                   |  116486 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162832.png`                                                                   |  102130 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162836.png`                                                                   |   37657 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162837.png`                                                                   |   51182 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162838.png`                                                                   |   45746 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162839.png`                                                                   |   63025 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162840.png`                                                                   |   83607 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162841.png`                                                                   |  100913 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162842.png`                                                                   |  113148 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162843.png`                                                                   |   88920 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162844.png`                                                                   |  109316 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162845.png`                                                                   |  102265 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162846.png`                                                                   |  111180 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162847.png`                                                                   |   77559 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162848.png`                                                                   |  107690 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162849.png`                                                                   |   96656 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162850.png`                                                                   |   54644 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162851.png`                                                                   |   49248 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162852.png`                                                                   |   40636 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162853.png`                                                                   |   39073 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162854.png`                                                                   |   44864 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162855.png`                                                                   |   31252 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162856.png`                                                                   |   44163 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162857.png`                                                                   |   46293 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162858.png`                                                                   |   44971 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162859.png`                                                                   |  113135 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162900.png`                                                                   |   87878 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162901.png`                                                                   |  113444 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162902.png`                                                                   |  102756 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162903.png`                                                                   |   14520 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162904.png`                                                                   |   15407 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162905.png`                                                                   |   21325 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162906.png`                                                                   |   30178 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162907.png`                                                                   |   36678 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162908.png`                                                                   |   14231 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162909.png`                                                                   |   18166 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162910.png`                                                                   |   41178 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162911.png`                                                                   |   19673 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162912.png`                                                                   |   22554 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162913.png`                                                                   |   18862 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162914.png`                                                                   |   18195 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162915.png`                                                                   |   37570 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162916.png`                                                                   |   26772 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162917.png`                                                                   |   18490 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162918.png`                                                                   |   34498 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162919.png`                                                                   |   32774 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162921.png`                                                                   |   27363 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162922.png`                                                                   |   81252 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162923.png`                                                                   |   29445 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162924.png`                                                                   |   43102 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162925.png`                                                                   |   20467 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162926.png`                                                                   |   25509 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162927.png`                                                                   |   14189 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162928.png`                                                                   |   33063 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162929.png`                                                                   |   32630 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162930.png`                                                                   |   95222 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162931.png`                                                                   |   14240 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162934.png`                                                                   |   26468 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162935.png`                                                                   |   15316 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162936.png`                                                                   |   13737 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162937.png`                                                                   |   20815 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162938-1.png`                                                                 |   23202 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162938.png`                                                                   |   26605 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162939.png`                                                                   |   59353 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162940-1.png`                                                                 |   13529 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162940.png`                                                                   |   26517 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162941.png`                                                                   |   26642 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162942.png`                                                                   |   27648 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162943-1.png`                                                                 |   27734 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162943.png`                                                                   |   38814 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162944.png`                                                                   |   33606 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162945.png`                                                                   |   38708 | 2026-08-20 23:28 |
-| file   | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162947.png`                                                                   |   21101 | 2026-08-20 23:28 |
-| folder | `Courses/SAT/Quick Reference`                                                                                                                           |    4096 | 2026-08-20 13:10 |
-| file   | `Courses/SAT/Quick Reference/Quick Reference — Math Formulas and Grammar Rules.md`                                                                      |   15173 | 2026-08-20 13:11 |
-| folder | `Courses/SAT/Research`                                                                                                                                  |    4096 | 2026-08-20 16:34 |
-| file   | `Courses/SAT/Research/Bluebook Tools and Pacing Reference (2026-08-12).md`                                                                              |    3755 | 2026-08-20 16:34 |
-| file   | `Courses/SAT/Research/Official SAT Structure and Content Research (2026-08-07).md`                                                                      |    7274 | 2026-08-20 16:34 |
-| folder | `Courses/SAT/Review System`                                                                                                                             |    4096 | 2026-08-19 15:37 |
-| file   | `Courses/SAT/Review System/Adaptive Review System.md`                                                                                                   |    1409 | 2026-08-19 15:49 |
-| file   | `Courses/SAT/Review System/English Rule Vault.md`                                                                                                       |    2961 | 2026-08-20 16:44 |
-| file   | `Courses/SAT/Review System/Formula Vault.md`                                                                                                            |    3849 | 2026-08-20 16:44 |
-| file   | `Courses/SAT/SAT Diagnostic — Score History and Domain Analysis.md`                                                                                     |    4859 | 2026-08-02 12:51 |
-| file   | `Courses/SAT/SAT Study System — Claude Bridge.md`                                                                                                       |    7707 | 2026-08-20 16:34 |
-| file   | `Courses/SAT/Study Plan — Final Two Days (2026-08-20).md`                                                                                               |    6287 | 2026-08-21 00:07 |
-| folder | `Courses/SAT/Test Strategy`                                                                                                                             |    4096 | 2026-08-19 15:37 |
-| file   | `Courses/SAT/Test Strategy/Test Day Execution.md`                                                                                                       |    2399 | 2026-08-19 15:49 |
-| folder | `Entertainment`                                                                                                                                         |    4096 | 2026-08-27 23:43 |
-| folder | `Entertainment/Books`                                                                                                                                   |    4096 | 2026-05-11 16:38 |
-| folder | `Entertainment/Books/Science Fiction`                                                                                                                   |    4096 | 2026-05-11 16:38 |
-| folder | `Entertainment/Books/Science Fiction/Project Hail Mary`                                                                                                 |    4096 | 2026-05-11 16:38 |
-| folder | `Entertainment/Books/Science Fiction/Project Hail Mary/02 - Notes`                                                                                      |    4096 | 2026-05-11 16:38 |
-| file   | `Entertainment/Books/Science Fiction/Project Hail Mary/02 - Notes/Chapter 1.md`                                                                         |     675 | 2026-08-27 23:48 |
-| file   | `Entertainment/Books/Science Fiction/Project Hail Mary/02 - Notes/Chapter 2.md`                                                                         |     185 | 2026-05-11 16:38 |
-| file   | `Entertainment/Books/Science Fiction/Project Hail Mary/02 - Notes/Chapter 3.md`                                                                         |     528 | 2026-05-11 16:38 |
-| file   | `Entertainment/Home.md`                                                                                                                                 |     494 | 2026-08-27 23:43 |
-| folder | `Entertainment/Movies`                                                                                                                                  |    4096 | 2026-05-11 16:38 |
-| folder | `Entertainment/Movies/Watched in 2026`                                                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `Entertainment/Movies/Watched in 2026/Project Hail Mary.md`                                                                                             |     808 | 2026-05-11 16:38 |
-| folder | `Entertainment/TV Shows`                                                                                                                                |    4096 | 2026-05-11 16:38 |
-| folder | `Entertainment/TV Shows/01 - Anime`                                                                                                                     |    4096 | 2026-05-11 16:38 |
-| folder | `Entertainment/TV Shows/01 - Anime/One Piece`                                                                                                           |    4096 | 2026-05-11 16:38 |
-| folder | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites`                                                                                            |    4096 | 2026-05-11 16:38 |
-| folder | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Arcs`                                                                                       |    4096 | 2026-05-11 16:38 |
-| file   | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Arcs/Pre-Timeskip.md`                                                                       |     923 | 2026-05-11 16:38 |
-| folder | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Characters`                                                                                 |    4096 | 2026-05-11 16:38 |
-| file   | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Characters/Main Villains (Overall).md`                                                      |       0 | 2026-05-11 16:38 |
-| file   | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Characters/Main Villains.md`                                                                |     573 | 2026-05-11 16:38 |
-| file   | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Characters/Straw Hat Pirates.md`                                                            |     441 | 2026-05-11 16:38 |
-| folder | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Devil Fruits`                                                                               |    4096 | 2026-05-11 16:38 |
-| file   | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Devil Fruits/Episodes 1-100.md`                                                             |     912 | 2026-05-11 16:38 |
-| folder | `Entertainment/TV Shows/01 - Anime/One Piece/02 - Episode Reviews`                                                                                      |    4096 | 2026-05-11 16:38 |
-| folder | `Entertainment/TV Shows/01 - Anime/One Piece/02 - Episode Reviews/1-100`                                                                                |    4096 | 2026-05-11 16:38 |
-| file   | `Entertainment/TV Shows/01 - Anime/One Piece/02 - Episode Reviews/1-100/Episode 90.md`                                                                  |     452 | 2026-05-11 16:38 |
-| file   | `Entertainment/TV Shows/01 - Anime/One Piece/02 - Episode Reviews/1-100/Episode 91.md`                                                                  |     349 | 2026-05-11 16:38 |
-| folder | `Entertainment/Video Games`                                                                                                                             |    4096 | 2026-06-13 20:09 |
-| folder | `Entertainment/Video Games/Elden Ring`                                                                                                                  |    4096 | 2026-05-11 16:38 |
-| folder | `Entertainment/Video Games/Elden Ring/Builds`                                                                                                           |    4096 | 2026-05-11 16:38 |
-| folder | `Entertainment/Video Games/Elden Ring/Builds/Faith Only`                                                                                                |    4096 | 2026-05-11 16:38 |
-| file   | `Entertainment/Video Games/Elden Ring/Builds/Faith Only/Complete Challenge Build Bible.md`                                                              |   48403 | 2026-05-11 16:38 |
-| file   | `Entertainment/Video Games/Elden Ring/Builds/Faith Only/Shardbearer Stats.md`                                                                           |     167 | 2026-05-11 16:38 |
-| file   | `Entertainment/Video Games/Elden Ring/Every Flat Stat Boost in Elden Ring.md`                                                                           |    9594 | 2026-05-11 16:38 |
-| folder | `Entertainment/Video Games/TC3`                                                                                                                         |    4096 | 2026-06-13 21:19 |
-| folder | `Entertainment/Video Games/TC3/Guides`                                                                                                                  |    4096 | 2026-06-13 21:18 |
-| file   | `Entertainment/Video Games/TC3/Guides/Guide - Basics Tutorial (2021).md`                                                                                |    2922 | 2026-06-13 21:18 |
-| file   | `Entertainment/Video Games/TC3/Guides/Guide - Beginner Tips (Mike, 2019).md`                                                                            |    2753 | 2026-06-13 21:17 |
-| file   | `Entertainment/Video Games/TC3/Guides/Guide - Win in 30 Minutes Rush (PI).md`                                                                           |    4330 | 2026-06-13 21:17 |
-| file   | `Entertainment/Video Games/TC3/Home.md`                                                                                                                 |    2696 | 2026-06-13 21:19 |
-| folder | `Entertainment/Video Games/TC3/Maps`                                                                                                                    |    4096 | 2026-06-13 21:19 |
-| file   | `Entertainment/Video Games/TC3/Maps/_Map Index.md`                                                                                                      |    1961 | 2026-06-13 21:19 |
-| folder | `Entertainment/Video Games/TC3/Matches`                                                                                                                 |    4096 | 2026-06-13 21:17 |
-| file   | `Entertainment/Video Games/TC3/Matches/Match - woof1977 2v2 naval (URiNtrLAfcc).md`                                                                     |    5050 | 2026-06-13 21:17 |
-| folder | `Entertainment/Video Games/TC3/Matches/_frames`                                                                                                         |    4096 | 2026-06-13 20:21 |
-| file   | `Entertainment/Video Games/TC3/Matches/_frames/URiNtrLAfcc_35s.jpg`                                                                                     |  203943 | 2026-06-13 20:15 |
-| folder | `Entertainment/Video Games/TC3/Strategies`                                                                                                              |    4096 | 2026-06-13 21:18 |
-| file   | `Entertainment/Video Games/TC3/Strategies/Strategy - 30-Minute Enemy-Island Rush.md`                                                                    |    2362 | 2026-06-13 21:18 |
-| file   | `Entertainment/Video Games/TC3/Strategies/Strategy - Economy-First Doctrine.md`                                                                         |    2577 | 2026-06-13 21:18 |
-| file   | `Entertainment/Video Games/TC3/TC3_Reference.md`                                                                                                        |   29009 | 2026-06-13 20:09 |
-| file   | `Entertainment/Video Games/TC3/_Video Log.md`                                                                                                           |    2114 | 2026-06-13 21:19 |
-| file   | `Home.md`                                                                                                                                               |    1325 | 2026-08-27 23:35 |
-| folder | `Japanese`                                                                                                                                              |    4096 | 2026-08-27 23:43 |
-| folder | `Japanese/Checklists`                                                                                                                                   |    4096 | 2026-05-30 17:56 |
-| file   | `Japanese/Checklists/Master Checklist.md`                                                                                                               |    3231 | 2026-05-30 17:56 |
-| file   | `Japanese/Home.md`                                                                                                                                      |    2769 | 2026-08-27 23:43 |
-| folder | `Japanese/Log`                                                                                                                                          |    4096 | 2026-05-30 17:56 |
-| file   | `Japanese/Log/Home.md`                                                                                                                                  |    1117 | 2026-05-30 17:56 |
-| folder | `Japanese/Progress`                                                                                                                                     |    4096 | 2026-08-27 23:43 |
-| file   | `Japanese/Progress/Benchmarks Tracker.md`                                                                                                               |    4995 | 2026-08-27 23:43 |
-| folder | `Japanese/Resources`                                                                                                                                    |    4096 | 2026-08-27 23:39 |
-| file   | `Japanese/Resources/Free Resource Stack.md`                                                                                                             |    4639 | 2026-05-30 17:55 |
-| file   | `Japanese/Resources/Genki vs Tae Kim.md`                                                                                                                |    4163 | 2026-08-27 23:39 |
-| file   | `Japanese/Resources/Paid Options Worth It.md`                                                                                                           |    4359 | 2026-05-30 17:56 |
-| folder | `Japanese/Roadmap`                                                                                                                                      |    4096 | 2026-05-30 17:55 |
-| file   | `Japanese/Roadmap/Stage 0 - Foundations (Kana + Setup).md`                                                                                              |    2547 | 2026-05-30 17:53 |
-| file   | `Japanese/Roadmap/Stage 1 - Beginner (N5).md`                                                                                                           |    3398 | 2026-05-30 17:53 |
-| file   | `Japanese/Roadmap/Stage 2 - Upper Beginner (N4).md`                                                                                                     |    3401 | 2026-05-30 17:54 |
-| file   | `Japanese/Roadmap/Stage 3 - Intermediate (N3).md`                                                                                                       |    3345 | 2026-05-30 17:54 |
-| file   | `Japanese/Roadmap/Stage 4 - Upper Intermediate (N2).md`                                                                                                 |    3011 | 2026-05-30 17:54 |
-| file   | `Japanese/Roadmap/Stage 5 - Advanced (N1).md`                                                                                                           |    3405 | 2026-05-30 17:55 |
-| folder | `Japanese/Schedule`                                                                                                                                     |    4096 | 2026-08-27 23:43 |
-| file   | `Japanese/Schedule/Hours & Timeline Reality Check.md`                                                                                                   |    4301 | 2026-05-30 17:52 |
-| file   | `Japanese/Schedule/Weekly Routine.md`                                                                                                                   |    4045 | 2026-08-27 23:43 |
-| folder | `Japanese/Study Hub`                                                                                                                                    |    4096 | 2026-08-27 23:43 |
-| file   | `Japanese/Study Hub/Japanese Master Roadmap.md`                                                                                                         |    5616 | 2026-08-27 23:43 |
-| file   | `Learning Plan.md`                                                                                                                                      |    3433 | 2026-07-15 10:57 |
-| folder | `School`                                                                                                                                                |    4096 | 2026-05-11 16:38 |
-| file   | `School/Home.md`                                                                                                                                        |     793 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)`                                                                                                                        |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem`                                                                                                                |    4096 | 2026-05-18 20:01 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/AP Chem FRQ & MCQ Reference Guide.md`                                                                           |   43062 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/FRQs.md`                                                                                                        |     195 | 2026-05-18 20:01 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Images`                                                                                                         |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 1`                                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 1/aufbau_orbital_filling.svg`                                                                       |    6912 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 1/coulombs_law_ionic.svg`                                                                           |    4780 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 1/mass_spectrum_weighted_average.svg`                                                               |    3803 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 1/periodic_trends.svg`                                                                              |    6679 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 1/pes_spectrum_nitrogen.svg`                                                                        |    4807 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 2`                                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 2/alloy_types_u2.svg`                                                                               |    7659 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 2/bond_order_strength_u2.svg`                                                                       |    6623 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 2/ionic_brittleness_u2.svg`                                                                         |   11343 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 2/ionic_lattice_structure_u2.svg`                                                                   |    8254 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 2/metallic_bonding_properties_u2.svg`                                                               |    9850 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 2/molecular_polarity_u2.svg`                                                                        |    9119 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 3`                                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 3/beers_law_errors_u3.svg`                                                                          |    4947 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 3/em_spectrum_u3.svg`                                                                               |    5981 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 3/gaslaws_separation_u3.svg`                                                                        |    8705 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 3/imf_ranking_u3.svg`                                                                               |    7784 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 3/maxwell_boltzmann_u3.svg`                                                                         |    4693 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 3/solids_types_u3.svg`                                                                              |    7885 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 4`                                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 4/activity_series_u4.svg`                                                                           |    5492 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 4/redox_overview_u4.svg`                                                                            |    7049 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 4/solubility_rules_u4.svg`                                                                          |    4760 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 5`                                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 5/arrhenius_u5.svg`                                                                                 |    4945 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 5/energy_profile_u5.svg`                                                                            |    4935 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 5/integrated_rate_law_u5.svg`                                                                       |    6178 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 5/mechanism_rules_u5.svg`                                                                           |    5087 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6`                                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6/bond_enthalpy_u6.svg`                                                                             |    6014 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6/calorimetry_u6.svg`                                                                               |    6011 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6/energy_diagrams_u6.svg`                                                                           |    6970 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6/enthalpy_diagram_u6.svg`                                                                          |    6492 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6/formation_enthalpy_u6.svg`                                                                        |    5640 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6/heating_curve_u6.svg`                                                                             |    5797 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6/hess_law_u6.svg`                                                                                  |    6106 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 7`                                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 7/concentration_time_eq_u7.svg`                                                                     |    3556 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 7/ice_table_u7.svg`                                                                                 |    3525 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 7/ksp_solubility_u7.svg`                                                                            |    5844 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 7/le_chatelier_u7.svg`                                                                              |    5070 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 8`                                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 8/buffer_action_u8.svg`                                                                             |    4534 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 8/ph_pka_u8.svg`                                                                                    |    4319 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 8/titration_curve_u8.svg`                                                                           |    5340 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 8/weak_acid_eq_u8.svg`                                                                              |    4232 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 9`                                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 9/Pasted image 20260416133918.png`                                                                  |  183663 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 9/Pasted image 20260416140029.png`                                                                  |  341307 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 9/galvanic_cell_u9.svg`                                                                             |    6525 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 9/thermodynamic_triangle_u9.svg`                                                                    |    5490 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Obsidian Chemistry Notation Guide.md`                                                                           |    4755 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Skills`                                                                                                         |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Skills/Notes from Video.md`                                                                                     |   17786 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Skills/Progress Check Skill.md`                                                                                 |   25111 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Study Hub`                                                                                                      |    4096 | 2026-08-27 23:43 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/AP Chem Master Overview.md`                                                                           |   18051 | 2026-08-27 23:43 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Memorization`                                                                                         |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Memorization/Must Memorize.md`                                                                        |   11758 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ`                                                                                    |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ Worked Solutions.md`                                                                |   33325 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-32-38 AP Classroom.png`                                 |  138355 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-32-59 AP Classroom.png`                                 |  135945 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-05 AP Classroom.png`                                 |  136633 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-14 AP Classroom.png`                                 |  142582 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-22 AP Classroom.png`                                 |  121183 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-26 AP Classroom.png`                                 |  139511 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-31 AP Classroom.png`                                 |  140961 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-40 AP Classroom.png`                                 |  137771 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-44 AP Classroom.png`                                 |  109133 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-52 AP Classroom.png`                                 |  149507 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-57 AP Classroom.png`                                 |  137090 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-34-04 AP Classroom.png`                                 |  129995 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-34-10 AP Classroom.png`                                 |  113589 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-34-17 AP Classroom.png`                                 |  153423 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-34-20 AP Classroom.png`                                 |  135808 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ`                                                                                    |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ Worked Solutions.md`                                                                |   40682 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-25-46 AP Classroom.png`                                 |   48472 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-25-51 AP Classroom.png`                                 |   94201 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-25-55 AP Classroom.png`                                 |   93845 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-00 AP Classroom.png`                                 |  100861 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-04 AP Classroom.png`                                 |  107897 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-08 AP Classroom.png`                                 |  116049 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-12 AP Classroom.png`                                 |   74214 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-16 AP Classroom.png`                                 |   78000 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-27 AP Classroom.png`                                 |  126651 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-34 AP Classroom.png`                                 |  136009 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-38 AP Classroom.png`                                 |  118487 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-43 AP Classroom.png`                                 |   87466 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-46 AP Classroom.png`                                 |   93498 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-50 AP Classroom.png`                                 |  130942 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-53 AP Classroom.png`                                 |  119195 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-57 AP Classroom.png`                                 |  148916 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-01 AP Classroom.png`                                 |  148141 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-05 AP Classroom.png`                                 |  146355 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-09 AP Classroom.png`                                 |  151273 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-13 AP Classroom.png`                                 |   81670 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-17 AP Classroom.png`                                 |   96087 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-23 AP Classroom.png`                                 |  130621 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-26 AP Classroom.png`                                 |   52639 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-30 AP Classroom.png`                                 |  110659 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-34 AP Classroom.png`                                 |  133412 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-37 AP Classroom.png`                                 |  148480 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-42 AP Classroom.png`                                 |  152281 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-45 AP Classroom.png`                                 |  162129 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-48 AP Classroom.png`                                 |   56056 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-54 AP Classroom.png`                                 |  103013 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-58 AP Classroom.png`                                 |   66352 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-01 AP Classroom.png`                                 |   48735 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-05 AP Classroom.png`                                 |   76468 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-10 AP Classroom.png`                                 |  120169 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-13 AP Classroom.png`                                 |  170681 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-17 AP Classroom.png`                                 |  149629 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-21 AP Classroom.png`                                 |  160263 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-29 AP Classroom.png`                                 |  164825 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-34 AP Classroom.png`                                 |   80780 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-37 AP Classroom.png`                                 |   84736 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-41 AP Classroom.png`                                 |   90733 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-45 AP Classroom.png`                                 |   93123 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-49 AP Classroom.png`                                 |  104849 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-55 AP Classroom.png`                                 |  109553 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-58 AP Classroom.png`                                 |  104609 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-29-02 AP Classroom.png`                                 |   94448 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-29-06 AP Classroom.png`                                 |   99148 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-29-10 AP Classroom.png`                                 |  102935 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-29-15 AP Classroom.png`                                 |   75296 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-29-23 AP Classroom.png`                                 |   89989 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units`                                                                                                          |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1`                                                                                                   |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/PC FRQ`                                                                                            |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/PC FRQ/Screenshot 2026-05-04 at 12-13-12 AP Classroom.png`                                         |  110629 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/PC FRQ/Screenshot 2026-05-04 at 12-13-25 AP Classroom.png`                                         |  124027 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/PC FRQ/Screenshot 2026-05-04 at 12-13-35 AP Classroom.png`                                         |  139696 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/PC FRQ/Screenshot 2026-05-04 at 12-13-41 AP Classroom.png`                                         |  116115 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/Unit 1 Examples.md`                                                                                |   20581 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/Unit 1 Notes.md`                                                                                   |   25301 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/Unit 1 Progress Check.md`                                                                          |   28385 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2`                                                                                                   |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/PC FRQ`                                                                                            |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/PC FRQ/Screenshot 2026-05-04 at 12-15-56 AP Classroom.png`                                         |  122041 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/PC FRQ/Screenshot 2026-05-04 at 12-16-21 AP Classroom.png`                                         |  119524 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/PC FRQ/Screenshot 2026-05-04 at 12-16-30 AP Classroom.png`                                         |  135176 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/PC FRQ/Screenshot 2026-05-04 at 12-16-35 AP Classroom.png`                                         |  121038 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/Unit 2 Examples.md`                                                                                |   25615 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/Unit 2 Notes.md`                                                                                   |   31612 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/Unit 2 Progress Check.md`                                                                          |   14835 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3`                                                                                                   |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/PC FRQ`                                                                                            |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/PC FRQ/Screenshot 2026-05-04 at 12-17-02 AP Classroom.png`                                         |  152518 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/PC FRQ/Screenshot 2026-05-04 at 12-17-07 AP Classroom.png`                                         |  120098 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/PC FRQ/Screenshot 2026-05-04 at 12-17-13 AP Classroom.png`                                         |  141871 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/PC FRQ/Screenshot 2026-05-04 at 12-17-18 AP Classroom.png`                                         |  131111 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/Unit 3 Examples.md`                                                                                |   40032 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/Unit 3 Notes.md`                                                                                   |   43586 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/Unit 3 Progress Check.md`                                                                          |   32856 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4`                                                                                                   |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/PC FRQ`                                                                                            |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/PC FRQ/Screenshot 2026-05-04 at 12-17-45 AP Classroom.png`                                         |  147004 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/PC FRQ/Screenshot 2026-05-04 at 12-17-52 AP Classroom.png`                                         |  135602 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/PC FRQ/Screenshot 2026-05-04 at 12-18-00 AP Classroom.png`                                         |  134157 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/PC FRQ/Screenshot 2026-05-04 at 12-18-05 AP Classroom.png`                                         |  119302 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/Unit 4 Examples.md`                                                                                |   32499 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/Unit 4 Notes.md`                                                                                   |   43334 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/Unit 4 Progress Check.md`                                                                          |   28290 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5`                                                                                                   |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/PC FRQ`                                                                                            |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/PC FRQ/Screenshot 2026-05-04 at 12-18-33 AP Classroom.png`                                         |  146494 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/PC FRQ/Screenshot 2026-05-04 at 12-18-37 AP Classroom.png`                                         |  141286 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/PC FRQ/Screenshot 2026-05-04 at 12-18-42 AP Classroom.png`                                         |  166273 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/PC FRQ/Screenshot 2026-05-04 at 12-18-53 AP Classroom.png`                                         |  133683 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/PC FRQ/Screenshot 2026-05-04 at 12-19-03 AP Classroom.png`                                         |  151410 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/PC FRQ/Screenshot 2026-05-04 at 12-19-06 AP Classroom.png`                                         |  116624 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/Unit 5 Examples.md`                                                                                |   18722 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/Unit 5 Notes.md`                                                                                   |   31385 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/Unit 5 Progress Check.md`                                                                          |   37366 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6`                                                                                                   |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/PC FRQ`                                                                                            |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/PC FRQ/Screenshot 2026-05-04 at 12-19-34 AP Classroom.png`                                         |  142903 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/PC FRQ/Screenshot 2026-05-04 at 12-19-39 AP Classroom.png`                                         |  131762 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/PC FRQ/Screenshot 2026-05-04 at 12-19-44 AP Classroom.png`                                         |  143871 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/PC FRQ/Screenshot 2026-05-04 at 12-19-50 AP Classroom.png`                                         |  112239 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/Unit 6 Examples.md`                                                                                |   38736 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/Unit 6 Notes.md`                                                                                   |   33638 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/Unit 6 Progress Check.md`                                                                          |   29323 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7`                                                                                                   |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/PC FRQ`                                                                                            |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/PC FRQ/Screenshot 2026-05-04 at 12-20-18 AP Classroom.png`                                         |  147823 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/PC FRQ/Screenshot 2026-05-04 at 12-20-22 AP Classroom.png`                                         |  118309 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/PC FRQ/Screenshot 2026-05-04 at 12-20-26 AP Classroom.png`                                         |  146970 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/PC FRQ/Screenshot 2026-05-04 at 12-20-33 AP Classroom.png`                                         |  145217 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/PC FRQ/Screenshot 2026-05-04 at 12-20-47 AP Classroom.png`                                         |  135336 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/Unit 7 Examples.md`                                                                                |   24591 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/Unit 7 Notes.md`                                                                                   |   27896 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/Unit 7 Progress Check.md`                                                                          |   31191 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8`                                                                                                   |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/PC FRQ`                                                                                            |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/PC FRQ/Screenshot 2026-05-04 at 12-21-09 AP Classroom.png`                                         |  145496 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/PC FRQ/Screenshot 2026-05-04 at 12-21-19 AP Classroom.png`                                         |  136051 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/PC FRQ/Screenshot 2026-05-04 at 12-21-23 AP Classroom.png`                                         |  119029 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions`                                                                          |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-04 AP Classroom.png`                       |  111500 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-11 AP Classroom.png`                       |  111566 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-16 AP Classroom.png`                       |  106373 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-42 AP Classroom.png`                       |   56002 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-46 AP Classroom.png`                       |   85126 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-50 AP Classroom.png`                       |   98307 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-54 AP Classroom.png`                       |   53356 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-58 AP Classroom.png`                       |   58960 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-00 AP Classroom.png`                       |   62041 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-12 AP Classroom.png`                       |  105031 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-21 AP Classroom.png`                       |  109389 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-24 AP Classroom.png`                       |  108630 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-27 AP Classroom.png`                       |   62545 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-30 AP Classroom.png`                       |   70259 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-33 AP Classroom.png`                       |   83019 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-36 AP Classroom.png`                       |   98622 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-41 AP Classroom.png`                       |  105102 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-44 AP Classroom.png`                       |   96202 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-47 AP Classroom.png`                       |   95597 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-55 AP Classroom.png`                       |  116146 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-00 AP Classroom.png`                       |  109758 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-05 AP Classroom.png`                       |  117057 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-09 AP Classroom.png`                       |   96764 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-17 AP Classroom.png`                       |  103720 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-22 AP Classroom.png`                       |  128967 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-26 AP Classroom.png`                       |   76453 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-29 AP Classroom.png`                       |   78932 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-32 AP Classroom.png`                       |  111705 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-35 AP Classroom.png`                       |  128843 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-44 AP Classroom.png`                       |  122340 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-40-00 AP Classroom.png`                       |  128311 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-40-03 AP Classroom.png`                       |   98186 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-40-17 AP Classroom.png`                       |   79252 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Unit 8 Examples.md`                                                                                |   27066 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Unit 8 Notes.md`                                                                                   |   29571 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Unit 8 Progress Check.md`                                                                          |   34565 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9`                                                                                                   |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook`                                                                                          |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook/Class Notes`                                                                              |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook/Class Notes/4-14-26 "Redox Reactions".md`                                                 |    5168 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook/Class Notes/4-15-26 "Galvanic (Voltaic) and Electrolytic Cells".md`                       |    7664 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook/Class Notes/4-16-26 "Galvanic (Voltaic) Cells & Electrolysis".md`                         |    6117 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook/Homework`                                                                                 |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook/Homework/9.1-9.6 Collegeboard Assignment.md`                                              |   14775 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook/Homework/9.7-9.8 Collegeboard Assignment..md`                                             |    2402 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/PC FRQ`                                                                                            |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/PC FRQ/Screenshot 2026-05-04 at 12-21-45 AP Classroom.png`                                         |  141005 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/PC FRQ/Screenshot 2026-05-04 at 12-21-50 AP Classroom.png`                                         |  126763 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/PC FRQ/Screenshot 2026-05-04 at 12-21-54 AP Classroom.png`                                         |  145495 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/PC FRQ/Screenshot 2026-05-04 at 12-21-59 AP Classroom.png`                                         |  138330 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/PC FRQ/Screenshot 2026-05-04 at 12-22-20 AP Classroom.png`                                         |  145388 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/PC FRQ/Screenshot 2026-05-04 at 12-22-24 AP Classroom.png`                                         |  114508 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ`                                                                      |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-43-56 AP Classroom.png`                   |  157820 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-07 AP Classroom.png`                   |  161356 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-12 AP Classroom.png`                   |  182116 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-19 AP Classroom.png`                   |  170555 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-22 AP Classroom.png`                   |  210538 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-27 AP Classroom.png`                   |  182690 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-31 AP Classroom.png`                   |   92455 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-34 AP Classroom.png`                   |  134109 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-37 AP Classroom.png`                   |  113575 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-39 AP Classroom.png`                   |   88603 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-42 AP Classroom.png`                   |   82568 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-45 AP Classroom.png`                   |  100641 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-54 AP Classroom.png`                   |  112718 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-59 AP Classroom.png`                   |  137835 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-04 AP Classroom.png`                   |  137974 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-13 AP Classroom.png`                   |  110489 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-21 AP Classroom.png`                   |  160273 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-24 AP Classroom.png`                   |  114254 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-27 AP Classroom.png`                   |   70822 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-31 AP Classroom.png`                   |  123316 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-36 AP Classroom.png`                   |   80892 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-41 AP Classroom.png`                   |  147191 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-46 AP Classroom.png`                   |  166943 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-56 AP Classroom.png`                   |  108129 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-01 AP Classroom.png`                   |  111805 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-05 AP Classroom.png`                   |  101319 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-08 AP Classroom.png`                   |   87245 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-12 AP Classroom.png`                   |  104575 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-44 AP Classroom.png`                   |  150578 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-48 AP Classroom.png`                   |   79022 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-51 AP Classroom.png`                   |   95667 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-54 AP Classroom.png`                   |   96390 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-56 AP Classroom.png`                   |   92351 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Unit 9 Examples.md`                                                                                |   20183 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Unit 9 Notes.md`                                                                                   |   37952 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Unit 9 Progress Check.md`                                                                          |   50660 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH`                                                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/APUSH Master Study Hub.md`                                                                                        |    6710 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/CLAUDE.md`                                                                                                        |     830 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/NoteBook LM Prompts.md`                                                                                           |    5876 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Skills`                                                                                                           |    4096 | 2026-07-05 10:43 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Skills/DBQ Guide.md`                                                                                              |    5770 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Skills/LEQ Guide.md`                                                                                              |    6086 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Skills/MCQ Stimulus Guide.md`                                                                                     |    6621 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Skills/Progress Check Guide.md`                                                                                   |    5309 | 2026-07-05 10:43 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Skills/SAQ Guide.md`                                                                                              |    3940 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units`                                                                                                            |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1`                                                                                                     |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Progress Check FRQ`                                                                                  |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Progress Check FRQ/Part A`                                                                           |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Progress Check FRQ/Part A/Progress Check 1 FRQ Part A Answers.md`                                    |    4738 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Progress Check FRQ/Part B`                                                                           |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Progress Check FRQ/Part B/Progress Check 1 FRQ Part B Answers.md`                                    |    4967 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Progress Check MCQ`                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Progress Check MCQ/Progress Check 1 MCQ Answers.md`                                                  |   31117 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Unit 1 Notes.md`                                                                                     |   17695 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Unit 1 Progress Check.md`                                                                            |     595 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2`                                                                                                     |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Progress Check FRQ`                                                                                  |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Progress Check FRQ/Part A`                                                                           |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Progress Check FRQ/Part A/Progress Check 2 FRQ Part A Answers.md`                                    |    9340 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Progress Check FRQ/Part B`                                                                           |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Progress Check FRQ/Part B/Progress Check 2 FRQ Part B Answers.md`                                    |    7537 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Progress Check MCQ`                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Progress Check MCQ/Progress Check 2 MCQ Answers.md`                                                  |   33607 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Unit 2 Notes.md`                                                                                     |   23083 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Unit 2 Progress Check.md`                                                                            |     595 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3`                                                                                                     |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Progress Check FRQ`                                                                                  |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Progress Check FRQ/Part A`                                                                           |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Progress Check FRQ/Part A/Progress Check 3 FRQ Part A Answers.md`                                    |    9413 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Progress Check FRQ/Part B`                                                                           |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Progress Check FRQ/Part B/Progress Check 3 FRQ Part B Answers.md`                                    |    6833 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Progress Check MCQ`                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Progress Check MCQ/Progress Check 3 MCQ Answers.md`                                                  |   66150 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Unit 3 Notes.md`                                                                                     |   33004 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Unit 3 Progress Check.md`                                                                            |     597 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4`                                                                                                     |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check FRQ`                                                                                  |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check FRQ/Part A`                                                                           |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check FRQ/Part A/Screenshot 2026-05-07 at 12-39-50 AP Classroom.png`                        |  267843 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check FRQ/Part A/Screenshot 2026-05-07 at 12-39-54 AP Classroom.png`                        |  242270 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check FRQ/Part B`                                                                           |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check FRQ/Part B/Screenshot 2026-05-07 at 12-40-07 AP Classroom.png`                        |  163332 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ`                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-00 AP Classroom.png`                               |  331577 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-03 AP Classroom.png`                               |  278422 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-06 AP Classroom.png`                               |  285873 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-09 AP Classroom.png`                               |  285434 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-12 AP Classroom.png`                               |  289757 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-15 AP Classroom.png`                               |  287512 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-22 AP Classroom.png`                               |  319995 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-25 AP Classroom.png`                               |  288963 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-30 AP Classroom.png`                               |  323177 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-33 AP Classroom.png`                               |  284498 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-36 AP Classroom.png`                               |  322516 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-41 AP Classroom.png`                               |  354295 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-46 AP Classroom.png`                               |  353291 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-49 AP Classroom.png`                               |  351963 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-51 AP Classroom.png`                               |  286887 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-57 AP Classroom.png`                               |  291663 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-00 AP Classroom.png`                               |  287341 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-02 AP Classroom.png`                               |  416784 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-05 AP Classroom.png`                               |  432257 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-08 AP Classroom.png`                               |  419282 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-14 AP Classroom.png`                               |  322197 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-18 AP Classroom.png`                               |  339406 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-21 AP Classroom.png`                               |  337065 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-24 AP Classroom.png`                               |  301196 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-27 AP Classroom.png`                               |  280306 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-36 AP Classroom.png`                               |  308871 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-39 AP Classroom.png`                               |  273535 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-42 AP Classroom.png`                               |  164672 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-45 AP Classroom.png`                               |  174576 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-47 AP Classroom.png`                               |  158512 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-50 AP Classroom.png`                               |  155492 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-53 AP Classroom.png`                               |  158368 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-56 AP Classroom.png`                               |  174288 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-58 AP Classroom.png`                               |  153075 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-39-01 AP Classroom.png`                               |  147217 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 13-13-29 My Assigned Assignments.png`                    |  145301 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Unit 4 Notes.md`                                                                                     |   13799 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Unit 4 Progress Check.md`                                                                            |     597 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5`                                                                                                     |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ`                                                                                  |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part A`                                                                           |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part A/Screenshot 2026-05-07 at 12-43-02 AP Classroom.png`                        |  412456 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part A/Screenshot 2026-05-07 at 12-43-08 AP Classroom.png`                        |  161761 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part B`                                                                           |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part B/Screenshot 2026-05-07 at 12-43-31 AP Classroom.png`                        |  521457 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part B/Screenshot 2026-05-07 at 12-43-40 AP Classroom.png`                        |  579292 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part C`                                                                           |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part C/Screenshot 2026-05-07 at 12-44-32 AP Classroom.png`                        |  178401 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ`                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-33 AP Classroom.png`                               |  310899 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-36 AP Classroom.png`                               |  307731 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-38 AP Classroom.png`                               |  311445 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-41 AP Classroom.png`                               |  343096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-43 AP Classroom.png`                               |  358625 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-46 AP Classroom.png`                               |  357335 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-51 AP Classroom.png`                               |  291047 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-53 AP Classroom.png`                               |  286141 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-56 AP Classroom.png`                               |  299679 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-59 AP Classroom.png`                               |  325484 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-01 AP Classroom.png`                               |  330008 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-04 AP Classroom.png`                               |  329427 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-06 AP Classroom.png`                               |  331447 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-09 AP Classroom.png`                               |  337725 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-12 AP Classroom.png`                               |  330034 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-16 AP Classroom.png`                               |  263878 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-22 AP Classroom.png`                               |  267744 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-25 AP Classroom.png`                               |  239051 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-33 AP Classroom.png`                               |  320582 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-35 AP Classroom.png`                               |  293343 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-38 AP Classroom.png`                               |  284597 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-41 AP Classroom.png`                               |  528313 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-45 AP Classroom.png`                               |  520897 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-51 AP Classroom.png`                               |  515685 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-54 AP Classroom.png`                               |  302286 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-57 AP Classroom.png`                               |  307609 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-42-01 AP Classroom.png`                               |  315629 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-42-04 AP Classroom.png`                               |  167990 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-42-08 AP Classroom.png`                               |  142638 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-42-10 AP Classroom.png`                               |  151847 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-42-12 AP Classroom.png`                               |  155162 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-42-15 AP Classroom.png`                               |  140770 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-42-18 AP Classroom.png`                               |  160842 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Unit 5 Notes.md`                                                                                     |   12958 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Unit 5 Progress Check.md`                                                                            |     597 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6`                                                                                                     |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ`                                                                                  |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ/Part A`                                                                           |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ/Part A/Screenshot 2026-05-07 at 12-44-54 AP Classroom.png`                        |  158570 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ/Part A/Screenshot 2026-05-07 at 12-45-01 AP Classroom.png`                        |  294664 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ/Part B`                                                                           |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ/Part B/Screenshot 2026-05-07 at 12-45-33 AP Classroom.png`                        |  574532 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ/Part B/Screenshot 2026-05-07 at 12-45-44 AP Classroom.png`                        | 1063638 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ/Part B/Screenshot 2026-05-07 at 12-45-51 AP Classroom.png`                        |  910545 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ`                                                                                  |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-21 AP Classroom.png`                               |  279744 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-24 AP Classroom.png`                               |  296303 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-26 AP Classroom.png`                               |  299630 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-29 AP Classroom.png`                               |  515369 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-31 AP Classroom.png`                               |  476045 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-33 AP Classroom.png`                               |  487740 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-36 AP Classroom.png`                               |  300891 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-38 AP Classroom.png`                               |  303762 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-40 AP Classroom.png`                               |  305271 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-42 AP Classroom.png`                               |  418881 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-45 AP Classroom.png`                               |  430607 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-49 AP Classroom.png`                               |  411674 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-51 AP Classroom.png`                               |  429603 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-54 AP Classroom.png`                               |  453644 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-56 AP Classroom.png`                               |  425133 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-00 AP Classroom.png`                               |  268534 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-03 AP Classroom.png`                               |  281504 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-05 AP Classroom.png`                               |  291433 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-08 AP Classroom.png`                               |  305875 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-10 AP Classroom.png`                               |  306694 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-14 AP Classroom.png`                               |  336865 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-17 AP Classroom.png`                               |  326614 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-19 AP Classroom.png`                               |  312658 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-21 AP Classroom.png`                               |  324676 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-23 AP Classroom.png`                               |  315972 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-25 AP Classroom.png`                               |  284051 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-28 AP Classroom.png`                               |  284279 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-30 AP Classroom.png`                               |  283386 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-35 AP Classroom.png`                               |  337771 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-40 AP Classroom.png`                               |  300595 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-42 AP Classroom.png`                               |  146374 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-44 AP Classroom.png`                               |  174694 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-50 AP Classroom.png`                               |  151339 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-52 AP Classroom.png`                               |  168037 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-54 AP Classroom.png`                               |  190643 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-56 AP Classroom.png`                               |  172727 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Unit 6 Notes.md`                                                                                     |   14442 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Unit 6 Progress Check.md`                                                                            |     597 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 7`                                                                                                     |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 7/Unit 7 Notes.md`                                                                                     |   18840 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 7/Unit 7 Progress Check.md`                                                                            |     597 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 8`                                                                                                     |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 8/Unit 8 Notes.md`                                                                                     |   17293 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 8/Unit 8 Progress Check.md`                                                                            |     597 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 9`                                                                                                     |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 9/Unit 9 Notes.md`                                                                                     |   10007 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/APUSH/Units/Unit 9/Unit 9 Progress Check.md`                                                                            |     598 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/Pre-Calc`                                                                                                               |    4096 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/Pre-Calc/5-7-26`                                                                                                        |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/Pre-Calc/5-7-26/4.11 - Modeling with Trigonometry Homework.md`                                                          |    4514 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/Pre-Calc/5-7-26/Screenshots`                                                                                            |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/Pre-Calc/5-7-26/Screenshots/IMG_5566.jpg`                                                                               | 1784220 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/Pre-Calc/5-7-26/Screenshots/IMG_5567.jpg`                                                                               | 1822891 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/Pre-Calc/5-7-26/Screenshots/IMG_5568.jpg`                                                                               | 1902519 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/Pre-Calc/Chapter 4 Study Guide.md`                                                                                      |    6449 | 2026-05-11 16:38 |
-| folder | `School/Junior Year (2025-2026)/Pre-Calc/Images`                                                                                                        |    4096 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/Pre-Calc/Images/graph13_sin_phase.svg`                                                                                  |    2524 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/Pre-Calc/Images/graph14_neg_half_cos.svg`                                                                               |    2293 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/Pre-Calc/Images/graph15_sin2x_plus1.svg`                                                                                |    3867 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/Pre-Calc/Images/graph16_csc.svg`                                                                                        |    3334 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/Pre-Calc/Images/graph17_neg2cos_phase.svg`                                                                              |    2553 | 2026-05-11 16:38 |
-| file   | `School/Junior Year (2025-2026)/Pre-Calc/Images/graph18_neg_sec.svg`                                                                                    |    2967 | 2026-05-11 16:38 |
-| folder | `School/Senior Year (2026-2027)`                                                                                                                        |    4096 | 2026-05-11 16:38 |
-| file   | `School/Senior Year (2026-2027)/Home.md`                                                                                                                |     800 | 2026-05-11 16:38 |
-| folder | `_Templates`                                                                                                                                            |    4096 | 2026-05-30 17:56 |
-| file   | `_Templates/Crew Race Report.md`                                                                                                                        |     401 | 2026-05-11 16:38 |
-| file   | `_Templates/Crew Training Entry.md`                                                                                                                     |     202 | 2026-05-11 16:38 |
-| file   | `_Templates/Entertainment - Album.md`                                                                                                                   |     183 | 2026-05-11 16:38 |
-| file   | `_Templates/Entertainment - Book.md`                                                                                                                    |     194 | 2026-05-11 16:38 |
-| file   | `_Templates/Entertainment - Movie.md`                                                                                                                   |     173 | 2026-05-11 16:38 |
-| file   | `_Templates/Entertainment - TV Show.md`                                                                                                                 |     226 | 2026-05-11 16:38 |
-| file   | `_Templates/Entertainment - Video Game.md`                                                                                                              |     214 | 2026-05-11 16:38 |
-| file   | `_Templates/Japanese Study Log.md`                                                                                                                      |     179 | 2026-05-30 17:56 |
-| file   | `_Templates/Journal Entry.md`                                                                                                                           |     734 | 2026-05-11 16:38 |
-| file   | `_Templates/Person.md`                                                                                                                                  |     171 | 2026-05-11 16:38 |
-| file   | `_Templates/README.md`                                                                                                                                  |    1723 | 2026-05-11 16:38 |
-| folder | `ai-improvement`                                                                                                                                        |    4096 | 2026-08-27 23:39 |
-| file   | `ai-improvement/.gitignore`                                                                                                                             |     202 | 2026-08-09 00:55 |
-| folder | `ai-improvement/.obsidian`                                                                                                                              |    4096 | 2026-08-09 00:55 |
-| file   | `ai-improvement/.obsidian/app.json`                                                                                                                     |       2 | 2026-08-09 00:55 |
-| file   | `ai-improvement/.obsidian/appearance.json`                                                                                                              |       2 | 2026-08-09 00:55 |
-| file   | `ai-improvement/.obsidian/community-plugins.json`                                                                                                       |      20 | 2026-08-09 00:55 |
-| file   | `ai-improvement/.obsidian/core-plugins.json`                                                                                                            |     696 | 2026-08-09 00:55 |
-| folder | `ai-improvement/.obsidian/plugins`                                                                                                                      |    4096 | 2026-08-09 00:55 |
-| folder | `ai-improvement/.obsidian/plugins/obsidian-claude-code`                                                                                                 |    4096 | 2026-08-09 00:55 |
-| file   | `ai-improvement/.obsidian/plugins/obsidian-claude-code/main.js`                                                                                         |  968194 | 2026-08-09 00:55 |
-| file   | `ai-improvement/.obsidian/plugins/obsidian-claude-code/manifest.json`                                                                                   |     353 | 2026-08-09 00:55 |
-| file   | `ai-improvement/.obsidian/plugins/obsidian-claude-code/styles.css`                                                                                      |   18551 | 2026-08-09 00:55 |
-| folder | `ai-improvement/.obsidian/plugins/obsidian-git`                                                                                                         |    4096 | 2026-08-09 00:55 |
-| file   | `ai-improvement/.obsidian/plugins/obsidian-git/data.json`                                                                                               |    1819 | 2026-08-09 00:55 |
-| file   | `ai-improvement/.obsidian/plugins/obsidian-git/main.js`                                                                                                 |  719808 | 2026-08-09 00:55 |
-| file   | `ai-improvement/.obsidian/plugins/obsidian-git/manifest.json`                                                                                           |     325 | 2026-08-09 00:55 |
-| file   | `ai-improvement/.obsidian/plugins/obsidian-git/styles.css`                                                                                              |   18303 | 2026-08-09 00:55 |
-| file   | `ai-improvement/.obsidian/workspace-mobile.json`                                                                                                        |    4159 | 2026-08-09 00:55 |
-| file   | `ai-improvement/.obsidian/workspace.json`                                                                                                               |    7097 | 2026-08-09 00:55 |
-| file   | `ai-improvement/2026-07-15-perfect-assistant-thought-dump.md`                                                                                           |    2954 | 2026-08-09 00:55 |
-| file   | `ai-improvement/Briefings Roadmap.md`                                                                                                                   |    1078 | 2026-08-09 00:55 |
-| folder | `ai-improvement/Conversations`                                                                                                                          |    4096 | 2026-08-25 22:28 |
-| folder | `ai-improvement/Conversations/2026-08-09`                                                                                                               |    4096 | 2026-08-09 01:09 |
-| file   | `ai-improvement/Conversations/2026-08-09/05-08-12-fdba7ad6.md`                                                                                          |  431279 | 2026-08-09 01:08 |
-| file   | `ai-improvement/Conversations/2026-08-09/05-08-31-fdba7ad6.md`                                                                                          |  431656 | 2026-08-09 01:08 |
-| file   | `ai-improvement/Conversations/2026-08-09/05-09-24-fdba7ad6.md`                                                                                          |  432301 | 2026-08-09 01:09 |
-| folder | `ai-improvement/Conversations/2026-08-11`                                                                                                               |    4096 | 2026-08-10 21:53 |
-| file   | `ai-improvement/Conversations/2026-08-11/01-25-33-21258e0b.md`                                                                                          |     265 | 2026-08-10 21:25 |
-| file   | `ai-improvement/Conversations/2026-08-11/01-53-16-0ab5f209.md`                                                                                          |    1990 | 2026-08-10 21:53 |
-| folder | `ai-improvement/Conversations/2026-08-12`                                                                                                               |    4096 | 2026-08-12 15:09 |
-| file   | `ai-improvement/Conversations/2026-08-12/06-52-58-b90f7120.md`                                                                                          |    1803 | 2026-08-12 02:53 |
-| file   | `ai-improvement/Conversations/2026-08-12/06-54-05-b90f7120.md`                                                                                          |    2668 | 2026-08-12 02:54 |
-| file   | `ai-improvement/Conversations/2026-08-12/06-56-00-b90f7120.md`                                                                                          |    3330 | 2026-08-12 02:56 |
-| file   | `ai-improvement/Conversations/2026-08-12/18-50-52-c2d8f9ac.md`                                                                                          |    1634 | 2026-08-12 14:51 |
-| file   | `ai-improvement/Conversations/2026-08-12/19-08-18-c2d8f9ac.md`                                                                                          |  219350 | 2026-08-12 15:08 |
-| file   | `ai-improvement/Conversations/2026-08-12/19-08-38-c2d8f9ac.md`                                                                                          |  222041 | 2026-08-12 15:08 |
-| file   | `ai-improvement/Conversations/2026-08-12/19-09-13-c2d8f9ac.md`                                                                                          |  224511 | 2026-08-12 15:09 |
-| file   | `ai-improvement/Conversations/2026-08-12/19-09-15-c2d8f9ac.md`                                                                                          |  226510 | 2026-08-12 15:09 |
-| file   | `ai-improvement/Conversations/2026-08-12/19-09-26-c2d8f9ac.md`                                                                                          |  228554 | 2026-08-12 15:09 |
-| file   | `ai-improvement/Conversations/2026-08-12/19-09-29-c2d8f9ac.md`                                                                                          |  231177 | 2026-08-12 15:09 |
-| file   | `ai-improvement/Conversations/2026-08-12/19-09-31-c2d8f9ac.md`                                                                                          |  233722 | 2026-08-12 15:09 |
-| folder | `ai-improvement/Conversations/2026-08-13`                                                                                                               |    4096 | 2026-08-12 22:38 |
-| file   | `ai-improvement/Conversations/2026-08-13/02-23-59-2509116e.md`                                                                                          |    1652 | 2026-08-12 22:24 |
-| file   | `ai-improvement/Conversations/2026-08-13/02-35-48-2509116e.md`                                                                                          |   16861 | 2026-08-12 22:35 |
-| file   | `ai-improvement/Conversations/2026-08-13/02-37-55-2509116e.md`                                                                                          |   19323 | 2026-08-12 22:37 |
-| file   | `ai-improvement/Conversations/2026-08-13/02-38-17-2509116e.md`                                                                                          |   19856 | 2026-08-12 22:38 |
-| folder | `ai-improvement/Conversations/2026-08-14`                                                                                                               |    4096 | 2026-08-14 16:29 |
-| file   | `ai-improvement/Conversations/2026-08-14/04-40-55-7159bb6b.md`                                                                                          |    1186 | 2026-08-14 00:40 |
-| file   | `ai-improvement/Conversations/2026-08-14/04-42-54-7159bb6b.md`                                                                                          |    3670 | 2026-08-14 00:42 |
-| file   | `ai-improvement/Conversations/2026-08-14/04-43-49-7159bb6b.md`                                                                                          |    5473 | 2026-08-14 00:43 |
-| file   | `ai-improvement/Conversations/2026-08-14/06-20-54-7159bb6b.md`                                                                                          |   12973 | 2026-08-14 02:20 |
-| file   | `ai-improvement/Conversations/2026-08-14/20-29-17-9acfc90f.md`                                                                                          |     206 | 2026-08-14 16:29 |
-| file   | `ai-improvement/Conversations/2026-08-14/20-29-41-9acfc90f.md`                                                                                          |     476 | 2026-08-14 16:29 |
-| folder | `ai-improvement/Conversations/2026-08-16`                                                                                                               |    4096 | 2026-08-16 15:24 |
-| file   | `ai-improvement/Conversations/2026-08-16/17-28-25-131016e9.md`                                                                                          |     412 | 2026-08-16 13:28 |
-| file   | `ai-improvement/Conversations/2026-08-16/17-28-51-131016e9.md`                                                                                          |     760 | 2026-08-16 13:28 |
-| file   | `ai-improvement/Conversations/2026-08-16/17-29-48-131016e9.md`                                                                                          |    1764 | 2026-08-16 13:29 |
-| file   | `ai-improvement/Conversations/2026-08-16/17-30-40-131016e9.md`                                                                                          |    2066 | 2026-08-16 13:30 |
-| file   | `ai-improvement/Conversations/2026-08-16/17-31-29-131016e9.md`                                                                                          |    2494 | 2026-08-16 13:31 |
-| file   | `ai-improvement/Conversations/2026-08-16/18-18-02-131016e9.md`                                                                                          |    3581 | 2026-08-16 14:18 |
-| file   | `ai-improvement/Conversations/2026-08-16/18-18-59-131016e9.md`                                                                                          |    4242 | 2026-08-16 14:19 |
-| file   | `ai-improvement/Conversations/2026-08-16/18-30-54-131016e9.md`                                                                                          |    4636 | 2026-08-16 14:30 |
-| file   | `ai-improvement/Conversations/2026-08-16/18-35-23-131016e9.md`                                                                                          |    8451 | 2026-08-16 14:35 |
-| file   | `ai-improvement/Conversations/2026-08-16/18-53-39-131016e9.md`                                                                                          |   22973 | 2026-08-16 14:53 |
-| file   | `ai-improvement/Conversations/2026-08-16/19-24-33-131016e9.md`                                                                                          |   47883 | 2026-08-16 15:24 |
-| folder | `ai-improvement/Conversations/2026-08-17`                                                                                                               |    4096 | 2026-08-17 13:15 |
-| file   | `ai-improvement/Conversations/2026-08-17/15-31-25-3b26517c.md`                                                                                          |    2015 | 2026-08-17 11:31 |
-| file   | `ai-improvement/Conversations/2026-08-17/16-42-02-3b26517c.md`                                                                                          |    6956 | 2026-08-17 12:42 |
-| file   | `ai-improvement/Conversations/2026-08-17/17-05-32-8337d3cb.md`                                                                                          |   24587 | 2026-08-17 13:05 |
-| file   | `ai-improvement/Conversations/2026-08-17/17-11-11-8337d3cb.md`                                                                                          |   26970 | 2026-08-17 13:11 |
-| file   | `ai-improvement/Conversations/2026-08-17/17-15-49-8337d3cb.md`                                                                                          |   45881 | 2026-08-17 13:15 |
-| folder | `ai-improvement/Conversations/2026-08-19`                                                                                                               |    4096 | 2026-08-19 14:22 |
-| file   | `ai-improvement/Conversations/2026-08-19/02-05-37-12ef635e.md`                                                                                          |     892 | 2026-08-18 22:05 |
-| file   | `ai-improvement/Conversations/2026-08-19/02-07-07-12ef635e.md`                                                                                          |    1985 | 2026-08-18 22:07 |
-| file   | `ai-improvement/Conversations/2026-08-19/02-09-44-320b765b.md`                                                                                          |    1855 | 2026-08-18 22:09 |
-| file   | `ai-improvement/Conversations/2026-08-19/02-18-49-aa2c710a.md`                                                                                          |   10993 | 2026-08-18 22:18 |
-| file   | `ai-improvement/Conversations/2026-08-19/02-23-45-aa2c710a.md`                                                                                          |   39315 | 2026-08-18 22:23 |
-| file   | `ai-improvement/Conversations/2026-08-19/02-24-50-aa2c710a.md`                                                                                          |   51580 | 2026-08-18 22:24 |
-| file   | `ai-improvement/Conversations/2026-08-19/02-27-00-320b765b.md`                                                                                          |    9232 | 2026-08-18 22:27 |
-| file   | `ai-improvement/Conversations/2026-08-19/02-30-31-320b765b.md`                                                                                          |   19391 | 2026-08-18 22:30 |
-| file   | `ai-improvement/Conversations/2026-08-19/18-10-08-131016e9.md`                                                                                          |   87703 | 2026-08-19 14:10 |
-| file   | `ai-improvement/Conversations/2026-08-19/18-22-13-131016e9.md`                                                                                          |   91906 | 2026-08-19 14:22 |
-| folder | `ai-improvement/Conversations/2026-08-20`                                                                                                               |    4096 | 2026-08-20 16:46 |
-| file   | `ai-improvement/Conversations/2026-08-20/17-10-19-fb1400cc.md`                                                                                          |     697 | 2026-08-20 13:10 |
-| file   | `ai-improvement/Conversations/2026-08-20/20-16-07-fb1400cc.md`                                                                                          |    2655 | 2026-08-20 16:16 |
-| file   | `ai-improvement/Conversations/2026-08-20/20-36-36-fb1400cc.md`                                                                                          |    9308 | 2026-08-20 16:36 |
-| file   | `ai-improvement/Conversations/2026-08-20/20-45-46-fb1400cc.md`                                                                                          |   14410 | 2026-08-20 16:46 |
-| folder | `ai-improvement/Conversations/2026-08-21`                                                                                                               |    4096 | 2026-08-21 00:15 |
-| file   | `ai-improvement/Conversations/2026-08-21/03-30-14-fb1400cc.md`                                                                                          |   23391 | 2026-08-20 23:30 |
-| file   | `ai-improvement/Conversations/2026-08-21/03-46-33-fb1400cc.md`                                                                                          |   26908 | 2026-08-20 23:46 |
-| file   | `ai-improvement/Conversations/2026-08-21/03-47-02-fb1400cc.md`                                                                                          |   29979 | 2026-08-20 23:47 |
-| file   | `ai-improvement/Conversations/2026-08-21/03-48-19-fb1400cc.md`                                                                                          |   32739 | 2026-08-20 23:48 |
-| file   | `ai-improvement/Conversations/2026-08-21/03-52-39-fb1400cc.md`                                                                                          |   35134 | 2026-08-20 23:52 |
-| file   | `ai-improvement/Conversations/2026-08-21/04-07-23-fb1400cc.md`                                                                                          |   37473 | 2026-08-21 00:07 |
-| file   | `ai-improvement/Conversations/2026-08-21/04-12-20-fb1400cc.md`                                                                                          |   41192 | 2026-08-21 00:12 |
-| file   | `ai-improvement/Conversations/2026-08-21/04-14-53-fb1400cc.md`                                                                                          |   43881 | 2026-08-21 00:15 |
-| folder | `ai-improvement/Conversations/2026-08-22`                                                                                                               |    4096 | 2026-08-22 15:28 |
-| file   | `ai-improvement/Conversations/2026-08-22/01-54-30-61b65163.md`                                                                                          |    3083 | 2026-08-21 21:54 |
-| file   | `ai-improvement/Conversations/2026-08-22/19-14-35-24cc3913.md`                                                                                          |     290 | 2026-08-22 15:14 |
-| file   | `ai-improvement/Conversations/2026-08-22/19-15-22-24cc3913.md`                                                                                          |    1588 | 2026-08-22 15:15 |
-| file   | `ai-improvement/Conversations/2026-08-22/19-16-51-24cc3913.md`                                                                                          |    3732 | 2026-08-22 15:17 |
-| file   | `ai-improvement/Conversations/2026-08-22/19-18-00-24cc3913.md`                                                                                          |    5442 | 2026-08-22 15:18 |
-| file   | `ai-improvement/Conversations/2026-08-22/19-21-19-24cc3913.md`                                                                                          |    8010 | 2026-08-22 15:21 |
-| file   | `ai-improvement/Conversations/2026-08-22/19-22-25-24cc3913.md`                                                                                          |   10309 | 2026-08-22 15:22 |
-| file   | `ai-improvement/Conversations/2026-08-22/19-23-02-24cc3913.md`                                                                                          |   11983 | 2026-08-22 15:23 |
-| file   | `ai-improvement/Conversations/2026-08-22/19-23-49-24cc3913.md`                                                                                          |   14466 | 2026-08-22 15:23 |
-| file   | `ai-improvement/Conversations/2026-08-22/19-24-51-24cc3913.md`                                                                                          |   15830 | 2026-08-22 15:25 |
-| file   | `ai-improvement/Conversations/2026-08-22/19-26-03-24cc3913.md`                                                                                          |   19085 | 2026-08-22 15:26 |
-| file   | `ai-improvement/Conversations/2026-08-22/19-28-28-24cc3913.md`                                                                                          |   20379 | 2026-08-22 15:28 |
-| folder | `ai-improvement/Conversations/2026-08-23`                                                                                                               |    4096 | 2026-08-23 12:11 |
-| file   | `ai-improvement/Conversations/2026-08-23/03-01-00-af2b6243.md`                                                                                          |    3199 | 2026-08-22 23:01 |
-| file   | `ai-improvement/Conversations/2026-08-23/16-09-00-f73fff3c.md`                                                                                          |     701 | 2026-08-23 12:09 |
-| file   | `ai-improvement/Conversations/2026-08-23/16-09-34-f73fff3c.md`                                                                                          |    1920 | 2026-08-23 12:09 |
-| file   | `ai-improvement/Conversations/2026-08-23/16-10-31-f73fff3c.md`                                                                                          |  122315 | 2026-08-23 12:10 |
-| file   | `ai-improvement/Conversations/2026-08-23/16-10-51-f73fff3c.md`                                                                                          |  123396 | 2026-08-23 12:11 |
-| folder | `ai-improvement/Conversations/2026-08-26`                                                                                                               |    4096 | 2026-08-25 23:22 |
-| file   | `ai-improvement/Conversations/2026-08-26/01-15-06-42438e7d.md`                                                                                          |    4180 | 2026-08-25 21:15 |
-| file   | `ai-improvement/Conversations/2026-08-26/01-34-46-42438e7d.md`                                                                                          |    8488 | 2026-08-25 21:35 |
-| file   | `ai-improvement/Conversations/2026-08-26/02-12-48-27959e68.md`                                                                                          |     888 | 2026-08-25 22:12 |
-| file   | `ai-improvement/Conversations/2026-08-26/03-22-05-27959e68.md`                                                                                          |    1502 | 2026-08-25 23:22 |
-| folder | `ai-improvement/Conversations/Claude Export`                                                                                                            |    4096 | 2026-08-25 22:29 |
-| folder | `ai-improvement/Conversations/Claude Export/Conversations`                                                                                              |   40960 | 2026-08-25 22:28 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-10-14 — Untitled — 832271a0.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-10-27 — Untitled — 406d3de6.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-03 — Untitled — 01a7e62d.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-03 — Untitled — 9611a0d4.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-18 — Untitled — 29d52757.md`                                                          |     499 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-18 — Untitled — e5097638.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-24 — Untitled — 024b5111.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-24 — Untitled — 0c60309b.md`                                                          |     944 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-24 — Untitled — 37b01deb.md`                                                          |    1033 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-24 — Untitled — 60f9b303.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-02 — Untitled — 1688e68d.md`                                                          |     772 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-09 — Untitled — 2bca9a61.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-10 — Untitled — 78ed429b.md`                                                          |     499 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-11 — Untitled — 92a3de89.md`                                                          |     944 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-11 — Untitled — d83af9af.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-12 — Untitled — b23cc8e6.md`                                                          |     677 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-13 — Untitled — 89870136.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-13 — Untitled — e8696d46.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-15 — Untitled — 900eeb0c.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-15 — Untitled — 99a6aae2.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-15 — Untitled — 9a8b5f71.md`                                                          |     766 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-16 — Untitled — 881a2506.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-16 — Untitled — 962009c5.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-16 — Untitled — bb76062c.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-17 — Untitled — 0120d7e1.md`                                                          |     499 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-17 — Untitled — b9579390.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-18 — Untitled — d5a97ee9.md`                                                          |     499 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-20 — Untitled — f396df11.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-21 — Untitled — 49dfa81a.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-26 — Untitled — ec285a76.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-28 — Script refactoring for entity removal — cca73cdd.md`                             |    2799 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-28 — Untitled — 2adaf534.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-31 — Cross-platform mouse passthrough for Godot — 0009d10e.md`                        |    7359 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-31 — Cross-platform mouse passthrough for Godot — 218e4fcd.md`                        |    8297 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-31 — Untitled — 9d8e4078.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-01 — Linux mouse side button autoclicker macro — 9bed6c2c.md`                         |   35947 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-02 — Fish categorization for clicking game — ca1a98ff.md`                             |  270255 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-02 — Untitled — 15731093.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-02 — Untitled — 265307dd.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-02 — Untitled — 71b7d88d.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-04 — Fish tier list game redesign — 3bd62097.md`                                      |   16946 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-04 — Untitled — 1ecb051c.md`                                                          |     546 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-05 — Untitled — ae164fd8.md`                                                          |     411 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-06 — Untitled — 6bd2e3ce.md`                                                          |     366 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-06 — Untitled — 96bc557b.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-07 — Untitled — 2f43cc55.md`                                                          |     588 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-08 — Untitled — 31511202.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-08 — Untitled — 3ceb0ee2.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-08 — Untitled — cc23556c.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-10 — Untitled — ab518358.md`                                                          |     588 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-12 — Untitled — c9c1f11f.md`                                                          |     588 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-13 — Untitled — 52e21248.md`                                                          |     588 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-15 — Untitled — 0aac5d9b.md`                                                          |     677 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-15 — Untitled — 544abac8.md`                                                          |     588 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-15 — Untitled — 864db977.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-15 — Untitled — aaedc987.md`                                                          |     588 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-16 — Untitled — 3172caf3.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-16 — Untitled — a3d8875f.md`                                                          |     499 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-16 — Untitled — e139755b.md`                                                          |     499 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-17 — Untitled — 18171dfa.md`                                                          |     499 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-21 — Untitled — 14e5956c.md`                                                          |     455 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-21 — Untitled — 9b745b95.md`                                                          |     412 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-21 — Untitled — e007002b.md`                                                          |    6076 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-22 — Untitled — 5ea5d6b2.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-25 — Six islands 30-minute strategy — 6ebe20e0.md`                                    |    4342 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-25 — Untitled — 1d8fe23e.md`                                                          |     232 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-25 — Untitled — 2f06651a.md`                                                          |    1746 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-25 — Untitled — 33b7f050.md`                                                          |     277 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-25 — Untitled — 358ef068.md`                                                          |     322 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-25 — Untitled — 75effde3.md`                                                          |     366 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-25 — Untitled — 7e3008da.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-26 — Medieval RTS game systems — 399023ba.md`                                         |    7848 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-26 — Mini Empires RTS strategy guide and conquest plan — 06e13ae8.md`                 |    8119 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-26 — Six Small Islands naval rush strategy — 282f1f52.md`                             |   51279 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-27 — Untitled — 0f22c2d2.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-27 — Untitled — 89629353.md`                                                          |     499 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-27 — Untitled — 8cbe137d.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-27 — Untitled — dbf90772.md`                                                          |     766 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-28 — The Conquerors 3 pricing and unit reference — 0ce2ba63.md`                       |  118026 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-28 — Untitled — c43d31a6.md`                                                          |     232 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-29 — Untitled — 3a6caced.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-01 — Untitled — 6f3819c8.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-02 — Untitled — 9bd62134.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-03 — Untitled — 157cec77.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-04 — Untitled — 028d71a4.md`                                                          |     232 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-05 — Untitled — b66ab3c1.md`                                                          |    1567 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-09 — Untitled — 055f32bb.md`                                                          |     677 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-12 — Untitled — b570f347.md`                                                          |     944 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-12 — Untitled — bf7cce37.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-12 — Untitled — dba24f1f.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-13 — Untitled — 6389b2f8.md`                                                          |     499 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-15 — Untitled — fd0dccec.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-20 — Untitled — 07303905.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-20 — Untitled — 670e1eec.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-20 — Untitled — de3541b1.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-20 — Untitled — fc672954.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-21 — Untitled — 54ec2fc5.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-21 — Untitled — 5b6f242e.md`                                                          |     944 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-21 — Untitled — e2f64791.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-22 — Untitled — 65ded84e.md`                                                          |    1122 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-23 — Untitled — 470d5cbf.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-23 — Untitled — 5339d930.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-23 — Untitled — 76677349.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-23 — Untitled — a85612cd.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-23 — Untitled — b6cd7418.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-23 — Untitled — e76f5d13.md`                                                          |     588 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-23 — Untitled — fdb8a436.md`                                                          |     855 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-24 — Untitled — cef5b0da.md`                                                          |    2190 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-25 — Untitled — 01948f3c.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-25 — Untitled — 69e38fe3.md`                                                          |     277 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-25 — Untitled — 744284db.md`                                                          |     277 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-25 — Untitled — 7fa536ff.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-25 — Untitled — fc774431.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-27 — Untitled — 3d977e94.md`                                                          |     944 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-27 — Untitled — 4c82d804.md`                                                          |     766 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-27 — Untitled — 98a8da03.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-27 — Untitled — cd1664b0.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-28 — Untitled — fa69d4ce.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-01 — Untitled — 88fbac67.md`                                                          |    1478 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-01 — Untitled — dfae7a52.md`                                                          |     588 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-01 — Untitled — f07b2e25.md`                                                          |     588 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-02 — Untitled — 27b704a7.md`                                                          |     232 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-02 — Untitled — ab782f4b.md`                                                          |    5259 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-02 — Untitled — aeb5f535.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-02 — Untitled — c448a845.md`                                                          |    1300 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-06 — Untitled — 950ce63a.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-07 — Untitled — 57d04426.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-07 — Untitled — aaf9bfe3.md`                                                          |    1122 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-07 — Untitled — b08424df.md`                                                          |     499 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-08 — Untitled — 094091be.md`                                                          |    1033 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-08 — Untitled — 7119305c.md`                                                          |     944 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-08 — Untitled — c0d9bdee.md`                                                          |    1478 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-09 — Untitled — 02c7b763.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-09 — Untitled — 16477ca0.md`                                                          |     588 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-09 — Untitled — 2de6b4ac.md`                                                          |     499 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-09 — Untitled — 3cd60307.md`                                                          |     588 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-09 — Untitled — 83f885d0.md`                                                          |    1211 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-10 — One Piece viewing timeline calculator — 419a0ec2.md`                             |   29256 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-11 — Untitled — 7a8103f7.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-11 — Untitled — a7ae68b7.md`                                                          |     944 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-11 — Untitled — e72b34fb.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-12 — Untitled — 017dd5e7.md`                                                          |    1122 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-12 — Untitled — 3ea67847.md`                                                          |    4238 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-12 — Untitled — a44c5fe7.md`                                                          |     588 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-12 — Untitled — d3c59557.md`                                                          |     677 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-13 — Untitled — 5b1fda12.md`                                                          |     944 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-13 — Untitled — 99ee9578.md`                                                          |    1300 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-14 — TCG as a money making strategy — f6cea894.md`                                    |   29325 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-14 — Untitled — 2d48063e.md`                                                          |    1389 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-15 — Finding One Piece TCG booster packs at Walmart — fa602b2d.md`                    |    2161 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-16 — Cost-efficient single card pack strategy — 0c48b54c.md`                          |   21324 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-16 — Untitled — fc6a8ec6.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-17 — One Piece TCG booster pricing and market analysis — f61fee3d.md`                 |    4985 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-17 — Untitled — 3ef62c45.md`                                                          |     677 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-17 — Untitled — d57adb84.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-20 — Untitled — e73ce3da.md`                                                          |     277 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-21 — ARB monitor startup and VNC connection — 8077da01.md`                            |   10429 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-21 — Kalshi book pricing anomaly debugging — c354c724.md`                             |    8941 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-23 — Arbitrage bot session report and project planning — 0c855327.md`                 |   44611 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-23 — Untitled — 27abbfd9.md`                                                          |     277 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-23 — Untitled — 55489a4c.md`                                                          |    1567 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-23 — Untitled — 58d8e00c.md`                                                          |     454 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-23 — Untitled — 809714d8.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-23 — Untitled — aafaf28d.md`                                                          |    1567 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-24 — Government's evolving role 1877-1936 — 28749861.md`                              |   11464 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-24 — Untitled — 5d83223a.md`                                                          |    1033 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-24 — Untitled — bf1ad476.md`                                                          |    2990 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-25 — Improving feet out square blades in single sculling — faab535a.md`               |   10242 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-25 — Untitled — 62d537c1.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-25 — Untitled — c60b194c.md`                                                          |     899 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-26 — Building a grand-scheme folder structure with Claude — d666dfec.md`              |   16760 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-26 — Git merge conflict with uncommitted changes — 51837331.md`                       |   10201 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-26 — Grand Scheme Income Projection — 91359e78.md`                                    |   36218 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-26 — Kalshi arbitrage bot price feed errors — a7a959ca.md`                            |    4927 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-26 — Monetizing Claude Code for passive income — aef75438.md`                         |   54080 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-26 — Reconsidering the arbitrage bot project — c81ba896.md`                           |    6919 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-26 — Starting arb bot daily with Telegram polling — 805c55f4.md`                      |   24636 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-27 — Downloads folder icon display issue — af7192ca.md`                               |    5741 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-27 — Reducing Google Antigravity usage consumption — b5b1af9e.md`                     |    9023 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-27 — Untitled — c2af3a41.md`                                                          |     232 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-28 — GitHub repo access and update schedule — 66038c73.md`                            |   32880 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-28 — Reviewing recent conversation highlights — 852c07fe.md`                          |   15760 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-29 — Grand Scheme - Income Calculator — 8f969999.md`                                  |   17816 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-29 — eBay developer program account rejection — 7cfbf58c.md`                          |   68185 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-30 — AP Chemistry FRQ solubility equilibrium walkthrough — a5fbf86f.md`               |    5170 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-30 — Grand Scheme v2 eBay comps scraping refactor — 7ca15a65.md`                      |   35675 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-30 — Next steps for grand scheme and arb bot — f84608c1.md`                           |    8255 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-30 — Optimizing arb bot for increased daily windows — 63d4dbcd.md`                    |   13129 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-30 — Setting up GitHub for arb folder — 840991c0.md`                                  |    4274 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-30 — 💬 One Piece Watch Tracker — pick… — e6c7b7fd.md`                                |   11551 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-31 — Analyzing fictional characters through psychological concepts — abe0f5c5.md`     |   24315 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-31 — Interactive income stream calculators for Grand Scheme — 6e31b9ae.md`            |   33789 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-31 — Phase 4 development and live trading test — 913cf37f.md`                         |   19720 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-31 — Setting up eBay sniper bot for trading — 40a6062e.md`                            |   52535 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-02 — Dotnet SDK installation file conflict — 11120e24.md`                             |    3672 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-02 — Optimizing a $200 income-generation prompt — 738f8997.md`                        |   32665 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-02 — Twitter link shared — f65b37a2.md`                                               |    6999 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-02 — Untitled — 6d284857.md`                                                          |     371 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-03 — Adventures on Kami's island pack pull — 9a1f2b2d.md`                             |    6259 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-03 — Building a one-man arbitrage empire with Claude — 579018bd.md`                   |    8063 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-03 — Casual check-in — 5476c764.md`                                                   |     535 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-03 — Fetching content from X (Twitter) URLs — 1a9f86bf.md`                            |   11182 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-03 — Untitled — b625fa1b.md`                                                          |     812 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-03 — Upgrading Node.js to version 20 — b3baeb03.md`                                   |    3496 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-04 — Finding accurate prices for graded and ungraded cards — 5b499b03.md`             |    6548 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Checking Target and Walmart trading card inventory online — 0c8032ef.md`         |    5759 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Creating a backup — 05fd2e8c.md`                                                 |   12889 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — D-pad down button not working — 1c21b4b3.md`                                     |   10313 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Dotnet package conflict resolution — 53238b6c.md`                                |   11715 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Obsidian and Claude integration — da0523ec.md`                                   |    4528 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Setting up Unturned dedicated server on Linux — fe673fee.md`                     |   33036 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Untitled — 53088c6a.md`                                                          |     588 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Untitled — 567be53c.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Untitled — 756d9763.md`                                                          |     410 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Untitled — 9860aa97.md`                                                          |     588 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-06 — Character walking without input in modded peak — e90d07be.md`                    |   12586 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-06 — Obsidian vs reminders app for task management — 5f7278f1.md`                     |    2387 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-06 — Syncing notes across devices with Claude — 813101b3.md`                          |   41153 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-07 — Adding Obsidian to panel with AppImage — e1f91f4f.md`                            |   61919 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-07 — GPG key import error for shiftkey packages — 3dd3e7c9.md`                        |   47424 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-09 — Creating a git repository for Obsidian — 22f3a0e2.md`                            |   14340 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-09 — Entropy and Gibbs free energy study guide — bab11de9.md`                         |   40613 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-10 — Catch flame damage calculation with finger seal — 31b3210d.md`                   |    6577 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-10 — Finding trading cards at Walmart Supercenter — 32b4a5c2.md`                      |    3899 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-10 — Grammar corrections for dialogue and punctuation — edd59b65.md`                  |   17023 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-10 — Pokémon pack pricing lookup — 36aaa645.md`                                       |    7029 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-11 — Complete summary overview — 295260ba.md`                                         |   27075 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-11 — Inventory not saving on TerraFirmaGreg server — e8e058ee.md`                     |   26286 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-11 — Ready to share ideas — 0cbeadc2.md`                                              |    1322 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-11 — Switching to CachyOS from current system — 30c71927.md`                          |  112916 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-11 — TikTok's Slash & Free Game explained — 0399bba8.md`                              |    2614 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-12 — Faith-only wretch build strategy — e297f219.md`                                  |   43790 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-12 — 💬 Since the grand scheme needs a… — 918ac639.md`                                |    8073 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-13 — Building a card flip game with Claude — d42c2b3e.md`                             |   18701 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-13 — Card Flip Empire 18-day launch plan — 957cadc9.md`                               |    8729 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-13 — Finding relevant notes for assignment questions — 0afdb00e.md`                   |   41500 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-13 — Microphone picking up headset audio — d03f187f.md`                               |   17515 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-13 — NVMe partition mount error — 5c152178.md`                                        |   13928 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-13 — Post-war America- Cold War to conservative shift — d88769f1.md`                  |   59564 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-13 — Switching to X11 on CachyOS — 9f304c5a.md`                                       |   10605 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-14 — AirPod fixes for CachyOS — 55472b46.md`                                          |    4837 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-14 — Installing GitHub CLI on Arch Linux — f0852a03.md`                               |   23036 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-14 — Reformatting first-day laptop notes — a14aaa26.md`                               |    2892 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-14 — Single key microphone mute with numpad — 175b4ba4.md`                            |    9106 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-14 — Social psychology vocabulary definitions — 20eff9f4.md`                          |    4371 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-14 — Trigonometric amplitude and period calculations — 2939beb7.md`                   |    4083 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-15 — Card flip output for general assistance — 45b40d4c.md`                           |    5009 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-15 — General assistance request — cf04d088.md`                                        |   34006 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-16 — Adding video screenshots to notes file — 31a997dc.md`                            |    2687 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-16 — Card flip supply order evaluation — de0d4ded.md`                                 |    4828 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-16 — Just war theory and bioethical principles — 2e11c500.md`                         |    7937 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-16 — Macbeth study guide and comprehension questions — 4aa6f4e9.md`                   |   11388 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-16 — Opening card-flip files for Claude prompt — 4c630208.md`                         |   28158 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-17 — AP Chemistry topic 9.7 and 9.8 notes and skills — 57c06352.md`                   |   13802 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-17 — Card price scanning and market analysis — 31072a6e.md`                           |    4372 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-17 — Organizing AP Chemistry notes — 98594fb2.md`                                     |    4551 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-18 — Bridger Western first hour guide — 257cbab1.md`                                  |     280 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-18 — Bridger Western first hour guide — b3f593bf.md`                                  |   12564 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-19 — Grading cards for near mint condition — 987415b0.md`                             |    5510 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-19 — Intel Arc Graphics 130V-140V vs NVIDIA comparison — 21241a43.md`                 |   11523 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-19 — J Dilla's Donuts retrospective and track breakdown — 24e762ad.md`                |   20840 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-20 — Editing assignment notes for AP exam — 72395098.md`                              |   37704 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-20 — Updating Assignment.md with answer steps — c4ea78c4.md`                          |    7574 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-21 — Trigonometric graph verification — be89bf25.md`                                  |    2649 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-23 — Bruno Bucciarati tournament combo guide — 4eb37fb9.md`                           |   19424 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-23 — Skill card flip empire evaluation — 1b963ff3.md`                                 |   84181 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-24 — AP Chemistry progress check study strategy — ca53e529.md`                        |   12996 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-24 — Macbeth acts 4 & 5 study guide — 16ab1afe.md`                                    |   26713 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-24 — Telegram bot token security strategy — 3f42100b.md`                              |   68088 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-25 — Holy Spirit race strategy for mens single sculls — ad5279a6.md`                  |    2544 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-25 — Ranking Botter Boy Nova's scheme — d9d54119.md`                                  |   14151 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-26 — AP exam study schedule for three subjects — ea09c297.md`                         |   14696 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-26 — Day trading bot efficiency and examples — 0585165c.md`                           |   43767 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-26 — Running basics and technique — edb53854.md`                                      |    1932 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-27 — AP Chemistry Unit 1 MCQ practice set — 5bd2bef1.md`                              |   20580 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-28 — AP Chemistry Unit 3 progress check review — 22308397.md`                         |    9400 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-28 — AP Chemistry progress check — 141425f3.md`                                       |   56339 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-28 — AP Chemistry progress check — 6117ab60.md`                                       |    6547 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-28 — AP Chemistry progress check — 88ff5c2f.md`                                       |   28406 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-28 — Raid emblem duration in Pokémon GO gyms — d66e1b92.md`                           |    2432 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-29 — Attribution biases and cultural perspectives — 8d2f5878.md`                      |    7365 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-29 — Summarizing APUSH Unit 9 headings — 0dc19fa3.md`                                 |    6693 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-29 — Unit 4 trigonometry study guide with worked solutions — a8b95308.md`             |    6601 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-30 — Chastity and sacred sexuality in marriage — 876e76fb.md`                         |    4297 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-30 — Frankenstein's opening letters analysis — 702ae523.md`                           |   11191 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-30 — Trigonometric functions and inverse trigonometry corrections — 0094b0a9.md`      |    2222 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-02 — Rowing foot stretcher clip positioning — b6ad441c.md`                            |   32059 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-03 — AP Chemistry notes and progress tracking — 34828e47.md`                          |    9043 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-04 — AP Chemistry exam cramming strategy — bfe1dca8.md`                               |    7065 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-04 — Vocabulary definitions reference — 5a5840bd.md`                                  |    6341 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-05 — Microphone static noise troubleshooting — e19fdb03.md`                           |   21049 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-05 — Untitled — c0d448ff.md`                                                          |     550 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-06 — Dignidad versus humillación en el trabajo — 862cc9f2.md`                         |    5493 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-06 — Moshi installation script URL issue — 9eb13b48.md`                               |   41182 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-06 — Trading card collection valuation — 7d532670.md`                                 |   13425 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-06 — Untitled — 0831c3bf.md`                                                          |     321 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-08 — Managing rowing blisters before race day — ba05eb1a.md`                          |    4355 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-08 — Overview of the 11th through 19th amendments — 9e6bcdc6.md`                      |    2591 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-11 — Learning to solve Rubik's cubes faster — 18ddac69.md`                            |    3081 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-12 — AP Psych research methods and ethics definitions — d1be6ee8.md`                  |    6058 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-12 — Religious and biological terminology definitions — c95eb5cd.md`                  |    7136 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-12 — Thoughts on B — 87cd7619.md`                                                     |   10228 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-13 — GPU usage check — 9dfe7782.md`                                                   |    6422 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-13 — Understanding test answer explanations — d016c10d.md`                            |   35662 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-14 — Atlantic County athletes- crew, swimming, and lacrosse since 1970 — 7317eb0f.md` |   10377 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-14 — Maurten bicarb system review — 29761367.md`                                      |   14194 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-15 — Fire Red team with Charmander starter — 5202efac.md`                             |   14987 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-15 — Managing inflamed acne lesion — a47a5410.md`                                     |   12125 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-15 — Stotesbury V1X race-day prep — d5df0bc1.md`                                      |    3844 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-15 — Time trial race strategy and pre-launch prep — 58ecdf17.md`                      |   46899 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-16 — Sealed product pricing analysis — c5a89470.md`                                   |    2855 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-16 — Summer training plan for competitive rowing — d8748aa1.md`                       |   11784 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-17 — Apple Music Plastic Beach day-night cycle video — 5f3c5229.md`                   |   16917 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-17 — Image resize to 1920 x 1080 — 4fbbeae9.md`                                       |    2247 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-18 — Session 17 project status and preflight setup — 4e278373.md`                     |  115917 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-20 — Linux architecture and bit version differences — b0133bf9.md`                    |    6833 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-20 — TCG reselling as a minor- platform options — 8e8369cd.md`                        |   18545 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-21 — Passive income strategies for a teenage lifeguard — 7007add2.md`                 |   67241 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-21 — Reading team names from image — c8365e84.md`                                     |   14149 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-22 — Chaos Rising day-one booster haul — bc45828a.md`                                 |    6734 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-22 — Testing connection — 465b130c.md`                                                |    1881 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-23 — Competing at nationals as a junior rower — 655ac05b.md`                          |   17692 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-25 — One Piece Treasure Cruise crew building — f676d8b0.md`                           |   29843 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-26 — Fraction simplification error — d18f6dde.md`                                     |    1623 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-26 — Memorizing and practicing short answer questions — 0b9faba8.md`                  |   12670 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-26 — Prismatic Evolutions SPC flip opportunity — c0a4876b.md`                         |    9203 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-27 — Prismatic Evolutions Sam's Club drop strategy — 43ff53b9.md`                     |   15897 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-28 — Installing NVIDIA graphics driver on Linux — a6f03df6.md`                        |   10252 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-29 — Froakie card grading and pricing assessment — b9612064.md`                       |   11970 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-29 — Ocean swimming technique for lifeguard training — b757d21f.md`                   |    8640 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-29 — TCGPlayer seller tax requirements and SSN — 0f8e8779.md`                         |    7809 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-01 — Lesson 3- 1. What is adultery — 5143d009.md`                                     |    5606 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-01 — Vocabulary terms and definitions — d1bd0c02.md`                                  |    6424 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-02 — Laptop lid scratches and scuff marks — 06a5e26e.md`                              |    8071 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-02 — OPTC team building advice — 548f01f6.md`                                         |    8299 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-02 — TCGPlayer profit calculation for card flip — bece60dc.md`                        |   12486 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-02 — Target Pokémon card drop Thursday — e65de644.md`                                 |    7203 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-03 — Historical events across four cities and decades — 0d5efcba.md`                  |    5676 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-03 — Hybrid nose bridge replacement options — f3a5ca50.md`                            |    4496 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-04 — AI use, academic integrity, and human development — 90a18ae4.md`                 |   23613 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-05 — Pokemon Go spoofing on Linux — 8ece43ea.md`                                      |   13159 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-07 — Recovering from swim panic before lifeguard tryouts — 0563baf4.md`               |    7837 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-07 — Scaling a TCG reselling business as a minor — af2cd59f.md`                       |   27154 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-09 — TC3 units and buildings information — 2e492fcb.md`                               |   83129 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-10 — Finding VHL activity quizlets — a77f099d.md`                                     |   19337 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-10 — Gun rights debate preparation — fd8020d0.md`                                     |    4100 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-12 — Best -The Odyssey- translations ranked — e3e70535.md`                            |    2809 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-12 — Maximum buy price for reselling — 10e575c6.md`                                   |    5331 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-12 — Moonbreon pull rates in Prismatic Evolutions — 322e7889.md`                      |    3259 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-13 — Increasing UI text scaling in Mcreator — 473a3ecc.md`                            |    7860 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-13 — YouTube video analysis with Claude — c66bd720.md`                                |   39967 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-14 — Fagles' Odyssey book 1 opening analysis — d75a7099.md`                           |   15117 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-14 — Impostor strategies for 6-player Among Us — a9f714ba.md`                         |    2633 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-14 — NGU Idle attack damage comparison — 9df79ee1.md`                                 |   92600 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-15 — Monetizing a 1000-player Minecraft tournament server — ce985844.md`              |  147803 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-16 — Comparing classic literary works — dc5f360e.md`                                  |    2584 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-18 — Google Forms unlocker script functionality — b5e19e92.md`                        |    7888 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-18 — Official colored One Piece version — 0edf90c9.md`                                |    7064 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-19 — Competitive Smash control bindings — 7cb6f865.md`                                |    8106 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-19 — Council skill development — a9f2e960.md`                                         |   18845 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-19 — Summer income opportunities and long-term plans — dc9b50b5.md`                   |   65875 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-20 — Crafting a compelling answer for jewelry store sales role — 74618c7d.md`         |    4068 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-20 — Untitled — f6086c5e.md`                                                          |     793 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-21 — Achieving a 9.9 mural score in classic mode — cab6578d.md`                       |    2936 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-22 — Free music player with local files support — 5070cef0.md`                        |   11342 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-22 — Untitled — f2a3f609.md`                                                          |     727 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-23 — Email to teachers about Catholic University connection — 87180174.md`            |    6832 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-23 — Gemcorn growth conditions in Terraria — 3262603e.md`                             |    8929 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-23 — TCGPlayer store name ideas — 53f14843.md`                                        |    4666 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-24 — Calamity mod ranger guide through Moon Lord — 1f4c2e62.md`                       |   48481 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-24 — Onyx blaster effectiveness evaluation — 4999e0ea.md`                             |    4671 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-25 — Chaos Rising booster bundle investment strategy — f02f634e.md`                   |   14348 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-25 — Replacing a frayed DualSense rubber cap — eec92d6a.md`                           |    6026 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-27 — Analyzing Instagram reels with Claude Code — a0c7f2d0.md`                        |   39122 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-28 — Obtaining sextant in Calamity mod — d297dd43.md`                                 |    2064 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-28 — Untitled — 7c282d68.md`                                                          |    1528 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-30 — Email to college admissions counselor — d4fd03dc.md`                             |    1826 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-02 — Transferring Claude code tasks to Opus — e28e74ba.md`                            |   35422 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-03 — Building Jarvis with Claude prompts — 5395641f.md`                               |    6722 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-04 — Omnigun viability against Golem — fbd105bd.md`                                   |   13821 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-05 — Identifying a common wart — e6609955.md`                                         |    2056 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-05 — Periodized rowing training plan for 2026-2027 season — ecfc797e.md`              |   31539 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-05 — Summer and crew season workout guide — 2355a88d.md`                              |    6807 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-09 — Magic storage and recipe browser mod combination — 45bc1f30.md`                  |    3380 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-10 — Clipping software for CachyOS — d50897fd.md`                                     |   19516 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-10 — Untitled — a81994bc.md`                                                          |   17866 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-13 — Listing TCGPlayer cards with condition disclosure — 5095176e.md`                 |   31297 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-19 — TikTok screen recording notifications — 03cb418d.md`                             |    1586 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-21 — Shipping labels for booster bundle orders — 654c10e4.md`                         |   46290 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-23 — Cartridge recognition and damage troubleshooting — de9bc5a6.md`                  |    7421 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-27 — SteelSeries competitive gaming peripherals — 7ad5876d.md`                        |   66512 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-30 — 💬 what. has the best resell pote… — 40d5590d.md`                                |    4416 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-31 — Prismatic ETB and Chaos Rising booster sales — ef6e9c78.md`                      |   16035 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-01 — Email to director about course schedule and AP Finance — f4405271.md`            |    1745 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-01 — Understanding decile class rankings — 99cccbd5.md`                               |    8162 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-02 — Ranking college essay ideas on potential — a16c0faa.md`                          |   36911 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-03 — Sentient robots and citizenship rights — ff0f20e5.md`                            |   12545 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-06 — Ethernet cable length for upstairs computer — cf4b2263.md`                       |    2789 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-07 — Curly hair cut for oval face shape — d69a5c68.md`                                |    8285 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-10 — Cryptocurrency arbitrage bot scam — 46fc551e.md`                                 |    5565 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-11 — Finding an iconic Minecraft username — d31acfc3.md`                              |  101378 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-11 — Metallurgy age ore coordinates and mining tips — a0fb123c.md`                    |   19773 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-12 — Fantasy football matchup analysis — b12f6805.md`                                 |    2915 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-14 — Golf scorecard totals verification — bf27fec2.md`                                |    6958 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-14 — Optimal climate for primitive age survival — 8783650d.md`                        |   80965 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-14 — Rarest cape — b08aaa09.md`                                                       |    3706 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-14 — Wood pairing with rhyolite bricks — 55a4c7de.md`                                 |   17750 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-16 — Polycaprolactam terrafirmagreg — 257bdc40.md`                                    |    7361 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-18 — Casual greeting exchange — 2d0e4310.md`                                          |    3472 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-18 — Running ethernet cable between floors without drilling — 6b3645a6.md`            |    9212 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-19 — Sloop base location and progression resources — 6a1a1cc3.md`                     |  101191 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-22 — TerraFirmaGreg-Modern server pack updates — 6db6cfb5.md`                         |    4082 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-23 — Competitive Melee controller recommendations — ba44906d.md`                      |   28516 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-23 — Growing grapes at home — 410c2a79.md`                                            |    3276 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-24 — Claude compatibility with CachyOS Linux — a6fcce5e.md`                           |    2528 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-25 — Melee.tv — 1187376b.md`                                                          |   53973 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-26 — Converting child account to regular account — d78832b8.md`                       |    6033 | 2026-08-25 22:31 |
-| file   | `ai-improvement/Conversations/Claude Export/Home.md`                                                                                                    |   58311 | 2026-08-25 22:31 |
-| folder | `ai-improvement/Conversations/Claude Export/Raw`                                                                                                        |    4096 | 2026-08-25 22:29 |
-| file   | `ai-improvement/Gotchas.md`                                                                                                                             |    4988 | 2026-08-27 23:30 |
-| file   | `ai-improvement/Home.md`                                                                                                                                |    1688 | 2026-08-09 00:55 |
-| file   | `ai-improvement/Key Decisions.md`                                                                                                                       |    3071 | 2026-08-27 23:39 |
-| file   | `ai-improvement/Mail and Calendar Recommendations.md`                                                                                                   |    3055 | 2026-08-09 00:55 |
-| folder | `ai-improvement/Memory-Export`                                                                                                                          |    4096 | 2026-08-25 22:33 |
-| file   | `ai-improvement/Memory-Export/Albums.md`                                                                                                                |   33092 | 2026-08-25 21:12 |
-| file   | `ai-improvement/Memory-Export/Claude Memory Candidate Review.md`                                                                                        |    3541 | 2026-08-25 22:33 |
-| file   | `ai-improvement/Memory-Export/DELTARUNE.md`                                                                                                             |   14926 | 2026-08-25 21:12 |
-| file   | `ai-improvement/Memory-Export/Home.md`                                                                                                                  |     686 | 2026-08-25 21:12 |
-| file   | `ai-improvement/Memory-Export/Obsidian.md`                                                                                                              | 1119583 | 2026-08-25 21:12 |
-| file   | `ai-improvement/Memory-Export/Prompt Archive.md`                                                                                                        |  251179 | 2026-08-25 21:12 |
-| file   | `ai-improvement/Memory-Export/card-flip.md`                                                                                                             |   65237 | 2026-08-25 21:12 |
-| file   | `ai-improvement/Memory-Export/chiron.md`                                                                                                                |   54857 | 2026-08-25 21:12 |
-| file   | `ai-improvement/Memory-Export/donovan.md`                                                                                                               |  344806 | 2026-08-25 21:12 |
-| file   | `ai-improvement/Memory-Export/jarvis.md`                                                                                                                |     856 | 2026-08-25 21:12 |
-| file   | `ai-improvement/Memory-Export/personal.md`                                                                                                              |  217190 | 2026-08-25 21:12 |
-| file   | `ai-improvement/Memory-Export/pytheas.md`                                                                                                               |  583221 | 2026-08-25 21:12 |
-| file   | `ai-improvement/North Star.md`                                                                                                                          |    4483 | 2026-08-27 23:35 |
-| file   | `ai-improvement/Pytheas Capability Map.md`                                                                                                              |    2273 | 2026-08-27 23:35 |
-| folder | `ai-improvement/Research`                                                                                                                               |    4096 | 2026-08-09 00:55 |
-| file   | `ai-improvement/Research/Research-Capability Tooling Scouting (2026-08-07).md`                                                                          |    5898 | 2026-08-09 00:55 |
-| folder | `ai-improvement/archive`                                                                                                                                |    4096 | 2026-08-09 00:55 |
-| file   | `ai-improvement/archive/continue-2026-07-06.md`                                                                                                         |    2199 | 2026-08-09 00:55 |
-| folder | `ai-improvement/capability-scouting`                                                                                                                    |    4096 | 2026-08-09 00:55 |
-| folder | `ai-improvement/capability-scouting/2026-07-06`                                                                                                         |    4096 | 2026-08-09 00:55 |
-| file   | `ai-improvement/capability-scouting/2026-07-06/2026-07-06-fable5-clone-research.md`                                                                     |    7974 | 2026-08-09 00:55 |
-| file   | `ai-improvement/capability-scouting/2026-07-06/2026-07-06-fable5-clone-test-prompt.md`                                                                  |    4738 | 2026-08-09 00:55 |
-| folder | `ai-improvement/capability-scouting/2026-07-07`                                                                                                         |    4096 | 2026-08-09 00:55 |
-| file   | `ai-improvement/capability-scouting/2026-07-07/2026-07-07-blueprint-vault-and-moneymaking.md`                                                           |    7906 | 2026-08-09 00:55 |
-| file   | `ai-improvement/capability-scouting/2026-07-07/2026-07-07-fable5-clone-content-brand-test-prompt.md`                                                    |    5853 | 2026-08-09 00:55 |
-| file   | `ai-improvement/capability-scouting/2026-07-07/2026-07-07-fable5-real-system-prompt-capabilities.md`                                                    |    4850 | 2026-08-09 00:55 |
-| file   | `ai-improvement/capability-scouting/2026-07-07/2026-07-07-sideA-fable5-content-brand-plan.md`                                                           |   10715 | 2026-08-09 00:55 |
-| file   | `ai-improvement/capability-scouting/2026-07-07/2026-07-07-sideA-fable5-hiragana-plan.md`                                                                |    6733 | 2026-08-09 00:55 |
-| folder | `ai-improvement/capability-scouting/2026-07-08`                                                                                                         |    4096 | 2026-08-09 00:55 |
-| file   | `ai-improvement/capability-scouting/2026-07-08/2026-07-08-jarvis-v4-notebooklm-deep-dive.md`                                                            |    7669 | 2026-08-09 00:55 |
-| file   | `ai-improvement/capability-scouting/Home.md`                                                                                                            |    3154 | 2026-08-09 00:55 |
-| file   | `ai-improvement/capability-scouting/Links.md`                                                                                                           |    9056 | 2026-08-09 00:55 |
-| file   | `ai-improvement/capability-scouting/fable5-clone-persona-v2.md`                                                                                         |    6235 | 2026-08-09 00:55 |
-| file   | `ai-improvement/claude-improvement-notes.md`                                                                                                            |   25815 | 2026-08-09 00:55 |
-| file   | `ai-improvement/claude-session-wrap-2026-06-28.md`                                                                                                      |    3475 | 2026-08-09 00:55 |
-| file   | `ai-improvement/compounding-loop-money-smart-healthy.md`                                                                                                |    3792 | 2026-08-09 00:55 |
-| file   | `ai-improvement/donny-operating-system.md`                                                                                                              |   13426 | 2026-08-09 00:55 |
-| file   | `ai-improvement/fable-5-launch-prep.md`                                                                                                                 |   17339 | 2026-08-09 00:55 |
-| file   | `ai-improvement/immortal-clone-operating-system.md`                                                                                                     |    5593 | 2026-08-09 00:55 |
-| file   | `ai-improvement/needs-wants-interview-kit.md`                                                                                                           |    4600 | 2026-08-09 00:55 |
+| Type | Path | Bytes | Modified |
+|---|---|---:|---|
+| folder | `.claude` | 4096 | 2026-07-05 10:41 |
+| file | `.claude/settings.local.json` | 5113 | 2026-07-05 10:49 |
+| file | `.gitignore` | 81 | 2026-05-11 16:38 |
+| folder | `.obsidian` | 4096 | 2026-07-01 10:25 |
+| folder | `.obsidian-claude-code` | 4096 | 2026-07-06 13:32 |
+| folder | `.obsidian-claude-code/history` | 4096 | 2026-07-06 13:32 |
+| file | `.obsidian/app.json` | 2 | 2026-08-31 15:35 |
+| file | `.obsidian/appearance.json` | 30 | 2026-08-31 15:35 |
+| file | `.obsidian/community-plugins.json` | 69 | 2026-08-31 15:35 |
+| file | `.obsidian/core-plugins.json` | 696 | 2026-08-31 15:35 |
+| file | `.obsidian/graph.json` | 493 | 2026-05-11 16:38 |
+| folder | `.obsidian/plugins` | 4096 | 2026-08-25 22:40 |
+| folder | `.obsidian/plugins/easy-typing-obsidian` | 4096 | 2026-05-11 16:38 |
+| file | `.obsidian/plugins/easy-typing-obsidian/builtin-rules.json` | 6287 | 2026-05-11 16:38 |
+| file | `.obsidian/plugins/easy-typing-obsidian/main.js` | 377644 | 2026-05-11 16:38 |
+| file | `.obsidian/plugins/easy-typing-obsidian/manifest.json` | 350 | 2026-05-11 16:38 |
+| file | `.obsidian/plugins/easy-typing-obsidian/styles.css` | 21054 | 2026-05-11 16:38 |
+| file | `.obsidian/plugins/easy-typing-obsidian/user-rules.json` | 2 | 2026-05-11 16:38 |
+| folder | `.obsidian/plugins/obsidian-completr` | 4096 | 2026-05-30 11:46 |
+| file | `.obsidian/plugins/obsidian-completr/callout_suggestions.json` | 3224 | 2026-05-11 16:38 |
+| file | `.obsidian/plugins/obsidian-completr/latex_commands.json` | 84986 | 2026-05-11 16:38 |
+| file | `.obsidian/plugins/obsidian-completr/main.js` | 1027362 | 2026-05-11 16:38 |
+| file | `.obsidian/plugins/obsidian-completr/manifest.json` | 334 | 2026-05-11 16:38 |
+| file | `.obsidian/plugins/obsidian-completr/scanned_words.txt` | 100230 | 2026-08-31 15:35 |
+| file | `.obsidian/plugins/obsidian-completr/styles.css` | 2155 | 2026-05-11 16:38 |
+| folder | `.obsidian/plugins/obsidian-completr/wordLists` | 4096 | 2026-05-11 16:39 |
+| folder | `.obsidian/plugins/obsidian-git` | 4096 | 2026-07-05 12:32 |
+| file | `.obsidian/plugins/obsidian-git/data.json` | 1857 | 2026-06-02 20:51 |
+| file | `.obsidian/plugins/obsidian-git/main.js` | 719808 | 2026-07-05 12:32 |
+| file | `.obsidian/plugins/obsidian-git/manifest.json` | 325 | 2026-07-05 12:32 |
+| file | `.obsidian/plugins/obsidian-git/obsidian_askpass.sh` | 402 | 2026-08-31 15:35 |
+| file | `.obsidian/plugins/obsidian-git/styles.css` | 18303 | 2026-07-05 12:32 |
+| folder | `.obsidian/plugins/obsidian-latex-suite` | 4096 | 2026-05-11 16:38 |
+| file | `.obsidian/plugins/obsidian-latex-suite/data.json` | 23044 | 2026-05-11 16:38 |
+| file | `.obsidian/plugins/obsidian-latex-suite/main.js` | 351782 | 2026-05-11 16:38 |
+| file | `.obsidian/plugins/obsidian-latex-suite/manifest.json` | 379 | 2026-05-11 16:38 |
+| file | `.obsidian/plugins/obsidian-latex-suite/styles.css` | 6624 | 2026-05-11 16:38 |
+| file | `.obsidian/workspace.json` | 7424 | 2026-08-31 15:57 |
+| folder | `Courses` | 4096 | 2026-08-27 23:44 |
+| folder | `Courses/Basketball Rules` | 4096 | 2026-07-29 11:48 |
+| file | `Courses/Basketball Rules/Official-2025-26-NBA-Playing-Rules.pdf` | 1653286 | 2026-07-29 11:48 |
+| file | `Courses/Home.md` | 477 | 2026-07-24 13:25 |
+| folder | `Courses/Pytheas Benchmark - SAT Test` | 4096 | 2026-08-07 01:10 |
+| folder | `Courses/Pytheas Benchmark - SAT Test/_artifacts` | 4096 | 2026-08-07 01:10 |
+| file | `Courses/Pytheas Benchmark - SAT Test/_artifacts/20260807-0110-quiz.md` | 3166 | 2026-08-07 01:10 |
+| file | `Courses/Pytheas Benchmark - SAT Test/sat-math-sample.md` | 1004 | 2026-08-07 01:09 |
+| folder | `Courses/SAT` | 4096 | 2026-08-20 23:30 |
+| file | `Courses/SAT/Claude Instructions.md` | 1097 | 2026-08-19 15:49 |
+| folder | `Courses/SAT/Crash Courses` | 4096 | 2026-08-27 23:43 |
+| file | `Courses/SAT/Crash Courses/Math — Advanced Math.md` | 30758 | 2026-08-27 23:43 |
+| file | `Courses/SAT/Crash Courses/Math — Algebra.md` | 24354 | 2026-08-16 14:49 |
+| file | `Courses/SAT/Crash Courses/Math — Geometry and Trigonometry.md` | 22064 | 2026-08-20 16:34 |
+| file | `Courses/SAT/Crash Courses/Math — Problem-Solving and Data Analysis.md` | 24906 | 2026-08-16 14:49 |
+| file | `Courses/SAT/Crash Courses/R&W — Craft and Structure.md` | 29427 | 2026-08-20 16:34 |
+| file | `Courses/SAT/Crash Courses/R&W — Expression of Ideas.md` | 31769 | 2026-08-16 14:48 |
+| file | `Courses/SAT/Crash Courses/R&W — Information and Ideas.md` | 33919 | 2026-08-20 16:34 |
+| file | `Courses/SAT/Crash Courses/R&W — SAT Grammar Rules Reference.md` | 40392 | 2026-08-19 14:20 |
+| file | `Courses/SAT/Crash Courses/R&W — Standard English Conventions.md` | 37755 | 2026-08-16 14:50 |
+| file | `Courses/SAT/Diagnostic Gap Lessons (2026-08-07).md` | 12317 | 2026-08-07 15:25 |
+| file | `Courses/SAT/Foundations Knowledge Check.md` | 6892 | 2026-08-20 16:34 |
+| folder | `Courses/SAT/Morning Of Review` | 4096 | 2026-08-27 23:25 |
+| file | `Courses/SAT/Morning Of Review/Morning-of Review.md` | 7752 | 2026-08-21 00:07 |
+| file | `Courses/SAT/Morning Of Review/Practice 11 — Every Miss, Steps, and Test-Day Tricks (2026-08-21).md` | 51382 | 2026-08-27 23:25 |
+| folder | `Courses/SAT/Pattern Library` | 4096 | 2026-08-20 16:45 |
+| file | `Courses/SAT/Pattern Library/001 Polynomial Tables.md` | 1076 | 2026-08-19 15:49 |
+| file | `Courses/SAT/Pattern Library/002 Word in Context.md` | 1780 | 2026-08-20 16:45 |
+| file | `Courses/SAT/Pattern Library/003 Finite Verb or Participle.md` | 1831 | 2026-08-20 16:45 |
+| file | `Courses/SAT/Pattern Library/004 Table Data Completion.md` | 1692 | 2026-08-20 16:45 |
+| file | `Courses/SAT/Pattern Library/Pattern Index.md` | 860 | 2026-08-20 16:45 |
+| folder | `Courses/SAT/Practice Tests` | 4096 | 2026-08-21 00:14 |
+| file | `Courses/SAT/Practice Tests/Bluebook Practice Test — 2026-08-20.md` | 12858 | 2026-08-21 00:14 |
+| file | `Courses/SAT/Practice Tests/Bluebook Timing and Confidence Tracker.docx` | 3767 | 2026-08-19 16:27 |
+| file | `Courses/SAT/Practice Tests/Bluebook Timing and Confidence Tracker.md` | 723 | 2026-08-19 16:23 |
+| folder | `Courses/SAT/Practice Tests/Practice 11` | 12288 | 2026-08-21 00:14 |
+| file | `Courses/SAT/Practice Tests/Practice 11 — Raw Confidence Export (2026-08-20).md` | 4116 | 2026-08-20 23:45 |
+| file | `Courses/SAT/Practice Tests/Practice 11 — Raw Desmos Log (2026-08-20).md` | 3039 | 2026-08-21 00:07 |
+| file | `Courses/SAT/Practice Tests/Practice 11/README.md` | 1405 | 2026-08-21 00:14 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162115.png` | 185162 | 2026-08-20 16:21 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162249.png` | 183431 | 2026-08-20 16:22 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162304.png` | 202156 | 2026-08-20 16:23 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162317.png` | 261038 | 2026-08-20 16:23 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162510.png` | 245128 | 2026-08-20 16:25 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162523.png` | 256889 | 2026-08-20 16:25 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162657.png` | 268634 | 2026-08-20 16:26 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162712.png` | 302477 | 2026-08-20 16:27 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162726.png` | 193447 | 2026-08-20 16:27 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162746.png` | 253818 | 2026-08-20 16:27 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162749.png` | 225690 | 2026-08-20 16:27 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162752.png` | 261625 | 2026-08-20 16:27 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162754.png` | 297101 | 2026-08-20 16:27 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162756.png` | 208105 | 2026-08-20 16:27 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162757.png` | 268948 | 2026-08-20 16:27 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162759.png` | 142003 | 2026-08-20 16:27 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162801.png` | 141566 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162803.png` | 146990 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162805.png` | 142855 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162808.png` | 183414 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162811.png` | 160570 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162813.png` | 169552 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162815.png` | 204397 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162828.png` | 174709 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162830.png` | 208819 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162831.png` | 221171 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162832.png` | 188994 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162836.png` | 181339 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162837.png` | 196803 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162838.png` | 205411 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162839.png` | 183229 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162840.png` | 319811 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162841.png` | 248077 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162842.png` | 288993 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162843.png` | 248586 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162844.png` | 256424 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162845.png` | 245989 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162846.png` | 259793 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162847.png` | 239153 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162848.png` | 272707 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162849.png` | 268633 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162850.png` | 176809 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162851.png` | 182801 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162852.png` | 132035 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162853.png` | 137046 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162854.png` | 165521 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162855.png` | 145708 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162856.png` | 166606 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162857.png` | 172458 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162858.png` | 196684 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162859.png` | 212206 | 2026-08-20 16:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162900.png` | 194431 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162901.png` | 212096 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162902.png` | 209984 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162903.png` | 99824 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162904.png` | 111005 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162905.png` | 107198 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162906.png` | 131340 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162907.png` | 139612 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162908.png` | 101734 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162909.png` | 120838 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162910.png` | 184410 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162911.png` | 104519 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162912.png` | 134234 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162913.png` | 136742 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162914.png` | 110592 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162915.png` | 156639 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162916.png` | 163406 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162917.png` | 150820 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162918.png` | 136642 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162919.png` | 203022 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162921.png` | 133450 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162922.png` | 194164 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162923.png` | 160325 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162924.png` | 152714 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162925.png` | 190888 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162926.png` | 140332 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162927.png` | 89913 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162928.png` | 142328 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162929.png` | 139360 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162930.png` | 204532 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162931.png` | 115988 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162934.png` | 150081 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162935.png` | 110971 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162936.png` | 113236 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162937.png` | 115968 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162938-1.png` | 160499 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162938.png` | 136490 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162939.png` | 204992 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162940-1.png` | 130867 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162940.png` | 142601 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162941.png` | 161570 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162942.png` | 160837 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162943-1.png` | 183190 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162943.png` | 165701 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162944.png` | 162595 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162945.png` | 172388 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/Screenshot_20260820_162947.png` | 133109 | 2026-08-20 16:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/confidence-rater.html` | 21044 | 2026-08-20 23:29 |
+| file | `Courses/SAT/Practice Tests/Practice 11/desmos-log.html` | 23484 | 2026-08-20 23:51 |
+| file | `Courses/SAT/Practice Tests/Practice 11/manifest.json` | 12096 | 2026-08-20 23:50 |
+| file | `Courses/SAT/Practice Tests/Practice 11/miss-review.html` | 18363 | 2026-08-21 00:11 |
+| file | `Courses/SAT/Practice Tests/Practice 11/misses.json` | 6993 | 2026-08-21 00:10 |
+| folder | `Courses/SAT/Practice Tests/Practice 11/question-only` | 4096 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162115.png` | 42708 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162249.png` | 31265 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162304.png` | 42617 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162317.png` | 44447 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162510.png` | 90432 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162523.png` | 77899 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162657.png` | 115615 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162712.png` | 114273 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162726.png` | 60349 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162746.png` | 80216 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162749.png` | 51387 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162752.png` | 122924 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162754.png` | 127879 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162756.png` | 56201 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162757.png` | 89823 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162759.png` | 30320 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162801.png` | 32606 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162803.png` | 41348 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162805.png` | 45395 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162808.png` | 58163 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162811.png` | 36870 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162813.png` | 38716 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162815.png` | 53444 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162828.png` | 89035 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162830.png` | 107698 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162831.png` | 116486 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162832.png` | 102130 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162836.png` | 37657 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162837.png` | 51182 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162838.png` | 45746 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162839.png` | 63025 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162840.png` | 83607 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162841.png` | 100913 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162842.png` | 113148 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162843.png` | 88920 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162844.png` | 109316 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162845.png` | 102265 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162846.png` | 111180 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162847.png` | 77559 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162848.png` | 107690 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162849.png` | 96656 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162850.png` | 54644 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162851.png` | 49248 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162852.png` | 40636 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162853.png` | 39073 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162854.png` | 44864 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162855.png` | 31252 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162856.png` | 44163 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162857.png` | 46293 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162858.png` | 44971 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162859.png` | 113135 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162900.png` | 87878 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162901.png` | 113444 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162902.png` | 102756 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162903.png` | 14520 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162904.png` | 15407 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162905.png` | 21325 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162906.png` | 30178 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162907.png` | 36678 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162908.png` | 14231 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162909.png` | 18166 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162910.png` | 41178 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162911.png` | 19673 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162912.png` | 22554 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162913.png` | 18862 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162914.png` | 18195 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162915.png` | 37570 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162916.png` | 26772 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162917.png` | 18490 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162918.png` | 34498 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162919.png` | 32774 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162921.png` | 27363 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162922.png` | 81252 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162923.png` | 29445 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162924.png` | 43102 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162925.png` | 20467 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162926.png` | 25509 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162927.png` | 14189 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162928.png` | 33063 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162929.png` | 32630 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162930.png` | 95222 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162931.png` | 14240 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162934.png` | 26468 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162935.png` | 15316 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162936.png` | 13737 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162937.png` | 20815 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162938-1.png` | 23202 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162938.png` | 26605 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162939.png` | 59353 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162940-1.png` | 13529 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162940.png` | 26517 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162941.png` | 26642 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162942.png` | 27648 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162943-1.png` | 27734 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162943.png` | 38814 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162944.png` | 33606 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162945.png` | 38708 | 2026-08-20 23:28 |
+| file | `Courses/SAT/Practice Tests/Practice 11/question-only/Screenshot_20260820_162947.png` | 21101 | 2026-08-20 23:28 |
+| folder | `Courses/SAT/Quick Reference` | 4096 | 2026-08-20 13:10 |
+| file | `Courses/SAT/Quick Reference/Quick Reference — Math Formulas and Grammar Rules.md` | 15173 | 2026-08-20 13:11 |
+| folder | `Courses/SAT/Research` | 4096 | 2026-08-20 16:34 |
+| file | `Courses/SAT/Research/Bluebook Tools and Pacing Reference (2026-08-12).md` | 3755 | 2026-08-20 16:34 |
+| file | `Courses/SAT/Research/Official SAT Structure and Content Research (2026-08-07).md` | 7274 | 2026-08-20 16:34 |
+| folder | `Courses/SAT/Review System` | 4096 | 2026-08-19 15:37 |
+| file | `Courses/SAT/Review System/Adaptive Review System.md` | 1409 | 2026-08-19 15:49 |
+| file | `Courses/SAT/Review System/English Rule Vault.md` | 2961 | 2026-08-20 16:44 |
+| file | `Courses/SAT/Review System/Formula Vault.md` | 3849 | 2026-08-20 16:44 |
+| file | `Courses/SAT/SAT Diagnostic — Score History and Domain Analysis.md` | 4859 | 2026-08-02 12:51 |
+| file | `Courses/SAT/SAT Study System — Claude Bridge.md` | 7707 | 2026-08-20 16:34 |
+| file | `Courses/SAT/Study Plan — Final Two Days (2026-08-20).md` | 6287 | 2026-08-21 00:07 |
+| folder | `Courses/SAT/Test Strategy` | 4096 | 2026-08-19 15:37 |
+| file | `Courses/SAT/Test Strategy/Test Day Execution.md` | 2399 | 2026-08-19 15:49 |
+| folder | `Entertainment` | 4096 | 2026-08-27 23:43 |
+| folder | `Entertainment/Books` | 4096 | 2026-05-11 16:38 |
+| folder | `Entertainment/Books/Science Fiction` | 4096 | 2026-05-11 16:38 |
+| folder | `Entertainment/Books/Science Fiction/Project Hail Mary` | 4096 | 2026-05-11 16:38 |
+| folder | `Entertainment/Books/Science Fiction/Project Hail Mary/02 - Notes` | 4096 | 2026-05-11 16:38 |
+| file | `Entertainment/Books/Science Fiction/Project Hail Mary/02 - Notes/Chapter 1.md` | 675 | 2026-08-27 23:48 |
+| file | `Entertainment/Books/Science Fiction/Project Hail Mary/02 - Notes/Chapter 2.md` | 185 | 2026-05-11 16:38 |
+| file | `Entertainment/Books/Science Fiction/Project Hail Mary/02 - Notes/Chapter 3.md` | 528 | 2026-05-11 16:38 |
+| file | `Entertainment/Home.md` | 494 | 2026-08-27 23:43 |
+| folder | `Entertainment/Movies` | 4096 | 2026-05-11 16:38 |
+| folder | `Entertainment/Movies/Watched in 2026` | 4096 | 2026-05-11 16:38 |
+| file | `Entertainment/Movies/Watched in 2026/Project Hail Mary.md` | 808 | 2026-05-11 16:38 |
+| folder | `Entertainment/TV Shows` | 4096 | 2026-05-11 16:38 |
+| folder | `Entertainment/TV Shows/01 - Anime` | 4096 | 2026-05-11 16:38 |
+| folder | `Entertainment/TV Shows/01 - Anime/One Piece` | 4096 | 2026-05-11 16:38 |
+| folder | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites` | 4096 | 2026-05-11 16:38 |
+| folder | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Arcs` | 4096 | 2026-05-11 16:38 |
+| file | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Arcs/Pre-Timeskip.md` | 923 | 2026-05-11 16:38 |
+| folder | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Characters` | 4096 | 2026-05-11 16:38 |
+| file | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Characters/Main Villains (Overall).md` | 0 | 2026-05-11 16:38 |
+| file | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Characters/Main Villains.md` | 573 | 2026-05-11 16:38 |
+| file | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Characters/Straw Hat Pirates.md` | 441 | 2026-05-11 16:38 |
+| folder | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Devil Fruits` | 4096 | 2026-05-11 16:38 |
+| file | `Entertainment/TV Shows/01 - Anime/One Piece/01 - Favorites/Devil Fruits/Episodes 1-100.md` | 912 | 2026-05-11 16:38 |
+| folder | `Entertainment/TV Shows/01 - Anime/One Piece/02 - Episode Reviews` | 4096 | 2026-05-11 16:38 |
+| folder | `Entertainment/TV Shows/01 - Anime/One Piece/02 - Episode Reviews/1-100` | 4096 | 2026-05-11 16:38 |
+| file | `Entertainment/TV Shows/01 - Anime/One Piece/02 - Episode Reviews/1-100/Episode 90.md` | 452 | 2026-05-11 16:38 |
+| file | `Entertainment/TV Shows/01 - Anime/One Piece/02 - Episode Reviews/1-100/Episode 91.md` | 349 | 2026-05-11 16:38 |
+| folder | `Entertainment/Video Games` | 4096 | 2026-08-28 11:36 |
+| folder | `Entertainment/Video Games/Elden Ring` | 4096 | 2026-05-11 16:38 |
+| folder | `Entertainment/Video Games/Elden Ring/Builds` | 4096 | 2026-05-11 16:38 |
+| folder | `Entertainment/Video Games/Elden Ring/Builds/Faith Only` | 4096 | 2026-05-11 16:38 |
+| file | `Entertainment/Video Games/Elden Ring/Builds/Faith Only/Complete Challenge Build Bible.md` | 48403 | 2026-05-11 16:38 |
+| file | `Entertainment/Video Games/Elden Ring/Builds/Faith Only/Shardbearer Stats.md` | 167 | 2026-05-11 16:38 |
+| file | `Entertainment/Video Games/Elden Ring/Every Flat Stat Boost in Elden Ring.md` | 9594 | 2026-05-11 16:38 |
+| folder | `Entertainment/Video Games/Super Smash Bros. Melee` | 4096 | 2026-08-28 11:39 |
+| folder | `Entertainment/Video Games/Super Smash Bros. Melee/Equipment` | 4096 | 2026-08-28 11:41 |
+| folder | `Entertainment/Video Games/Super Smash Bros. Melee/Equipment/Attachments` | 4096 | 2026-08-28 11:36 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Equipment/Attachments/DOL-003 Seller Confirmation 2026-08-28.png` | 43902 | 2026-08-28 11:36 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Equipment/Attachments/Platinum Silver DOL-003 Listing.jpg` | 34802 | 2026-08-28 11:36 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Equipment/Nintendo GameCube Controller - Platinum Silver DOL-003.md` | 1914 | 2026-08-28 11:36 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Equipment/PDP Wired Fight Pad Pro - Pikachu Yellow.md` | 2173 | 2026-08-28 11:41 |
+| folder | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews` | 4096 | 2026-08-28 23:19 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Gameplay Review Template.md` | 638 | 2026-08-28 11:39 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Home.md` | 1095 | 2026-08-28 11:39 |
+| folder | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews` | 4096 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/2026-08-28 — Falco and Jigglypuff — Friendly Battles.md` | 3271 | 2026-08-28 23:42 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/2026-08-28 — Unranked Teaching Clips.md` | 5273 | 2026-08-28 23:41 |
+| folder | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments` | 4096 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/01 - Falco - opening neutral.mp4` | 3431710 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/02 - Falco - first disadvantage and stock loss.mp4` | 3936362 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/03 - Falco - fresh-stock response.mp4` | 3796782 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/04 - Falco - opening then reversal.mp4` | 5225623 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/05 - Falco - recovery and ledge.mp4` | 3616413 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/06 - Falco - final stock decisions.mp4` | 6203032 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/07 - Jigglypuff - opening neutral.mp4` | 2763793 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/08 - Jigglypuff - first disadvantage and stock loss.mp4` | 2645567 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/09 - Jigglypuff - successful stock conversion.mp4` | 4309660 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/10 - Jigglypuff - fresh-stock interaction.mp4` | 4363327 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/11 - Jigglypuff - edgeguard positioning.mp4` | 3929050 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/12 - Jigglypuff - mid-stock neutral.mp4` | 4226906 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/13 - Jigglypuff - final extended disadvantage.mp4` | 5974214 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/14 - Pikachu - opening neutral.mp4` | 2980279 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/15 - Pikachu - first disadvantage and stock loss.mp4` | 2526389 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/16 - Pikachu - fresh-stock scramble.mp4` | 4534385 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/17 - Pikachu - high-percent stock exchange.mp4` | 4109641 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Gameplay Reviews/Reviews/Attachments/18 - Pikachu - final stock.mp4` | 3888604 | 2026-08-28 23:37 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Home.md` | 1372 | 2026-08-28 11:41 |
+| folder | `Entertainment/Video Games/Super Smash Bros. Melee/Tools and Setup` | 4096 | 2026-08-28 11:53 |
+| folder | `Entertainment/Video Games/Super Smash Bros. Melee/Tools and Setup/Attachments` | 4096 | 2026-08-28 13:06 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Tools and Setup/Attachments/MOverlay Linux Web Thread and Permissions Error 2026-08-28.png` | 30523 | 2026-08-28 13:06 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Tools and Setup/Attachments/MOverlay Linux ssl.core Error 2026-08-28.png` | 8860 | 2026-08-28 11:53 |
+| file | `Entertainment/Video Games/Super Smash Bros. Melee/Tools and Setup/Input Display.md` | 4681 | 2026-08-28 13:06 |
+| folder | `Entertainment/Video Games/TC3` | 4096 | 2026-06-13 21:19 |
+| folder | `Entertainment/Video Games/TC3/Guides` | 4096 | 2026-06-13 21:18 |
+| file | `Entertainment/Video Games/TC3/Guides/Guide - Basics Tutorial (2021).md` | 2922 | 2026-06-13 21:18 |
+| file | `Entertainment/Video Games/TC3/Guides/Guide - Beginner Tips (Mike, 2019).md` | 2753 | 2026-06-13 21:17 |
+| file | `Entertainment/Video Games/TC3/Guides/Guide - Win in 30 Minutes Rush (PI).md` | 4330 | 2026-06-13 21:17 |
+| file | `Entertainment/Video Games/TC3/Home.md` | 2696 | 2026-06-13 21:19 |
+| folder | `Entertainment/Video Games/TC3/Maps` | 4096 | 2026-06-13 21:19 |
+| file | `Entertainment/Video Games/TC3/Maps/_Map Index.md` | 1961 | 2026-06-13 21:19 |
+| folder | `Entertainment/Video Games/TC3/Matches` | 4096 | 2026-06-13 21:17 |
+| file | `Entertainment/Video Games/TC3/Matches/Match - woof1977 2v2 naval (URiNtrLAfcc).md` | 5050 | 2026-06-13 21:17 |
+| folder | `Entertainment/Video Games/TC3/Matches/_frames` | 4096 | 2026-06-13 20:21 |
+| file | `Entertainment/Video Games/TC3/Matches/_frames/URiNtrLAfcc_35s.jpg` | 203943 | 2026-06-13 20:15 |
+| folder | `Entertainment/Video Games/TC3/Strategies` | 4096 | 2026-06-13 21:18 |
+| file | `Entertainment/Video Games/TC3/Strategies/Strategy - 30-Minute Enemy-Island Rush.md` | 2362 | 2026-06-13 21:18 |
+| file | `Entertainment/Video Games/TC3/Strategies/Strategy - Economy-First Doctrine.md` | 2577 | 2026-06-13 21:18 |
+| file | `Entertainment/Video Games/TC3/TC3_Reference.md` | 29009 | 2026-06-13 20:09 |
+| file | `Entertainment/Video Games/TC3/_Video Log.md` | 2114 | 2026-06-13 21:19 |
+| file | `Entertainment/Video Games/Video Games.md` | 285 | 2026-08-28 11:36 |
+| file | `Home.md` | 1325 | 2026-08-27 23:35 |
+| folder | `Japanese` | 4096 | 2026-08-27 23:43 |
+| folder | `Japanese/Checklists` | 4096 | 2026-05-30 17:56 |
+| file | `Japanese/Checklists/Master Checklist.md` | 3231 | 2026-05-30 17:56 |
+| file | `Japanese/Home.md` | 2769 | 2026-08-27 23:43 |
+| folder | `Japanese/Log` | 4096 | 2026-05-30 17:56 |
+| file | `Japanese/Log/Home.md` | 1117 | 2026-05-30 17:56 |
+| folder | `Japanese/Progress` | 4096 | 2026-08-27 23:43 |
+| file | `Japanese/Progress/Benchmarks Tracker.md` | 4995 | 2026-08-27 23:43 |
+| folder | `Japanese/Resources` | 4096 | 2026-08-27 23:39 |
+| file | `Japanese/Resources/Free Resource Stack.md` | 4639 | 2026-05-30 17:55 |
+| file | `Japanese/Resources/Genki vs Tae Kim.md` | 4163 | 2026-08-27 23:39 |
+| file | `Japanese/Resources/Paid Options Worth It.md` | 4359 | 2026-05-30 17:56 |
+| folder | `Japanese/Roadmap` | 4096 | 2026-05-30 17:55 |
+| file | `Japanese/Roadmap/Stage 0 - Foundations (Kana + Setup).md` | 2547 | 2026-05-30 17:53 |
+| file | `Japanese/Roadmap/Stage 1 - Beginner (N5).md` | 3398 | 2026-05-30 17:53 |
+| file | `Japanese/Roadmap/Stage 2 - Upper Beginner (N4).md` | 3401 | 2026-05-30 17:54 |
+| file | `Japanese/Roadmap/Stage 3 - Intermediate (N3).md` | 3345 | 2026-05-30 17:54 |
+| file | `Japanese/Roadmap/Stage 4 - Upper Intermediate (N2).md` | 3011 | 2026-05-30 17:54 |
+| file | `Japanese/Roadmap/Stage 5 - Advanced (N1).md` | 3405 | 2026-05-30 17:55 |
+| folder | `Japanese/Schedule` | 4096 | 2026-08-27 23:43 |
+| file | `Japanese/Schedule/Hours & Timeline Reality Check.md` | 4301 | 2026-05-30 17:52 |
+| file | `Japanese/Schedule/Weekly Routine.md` | 4045 | 2026-08-27 23:43 |
+| folder | `Japanese/Study Hub` | 4096 | 2026-08-27 23:43 |
+| file | `Japanese/Study Hub/Japanese Master Roadmap.md` | 5616 | 2026-08-27 23:43 |
+| file | `Learning Plan.md` | 3433 | 2026-07-15 10:57 |
+| folder | `Prompts` | 4096 | 2026-08-31 15:57 |
+| file | `Prompts/2026-08-31 Codex Usage Reduction and Durable Context.md` | 894 | 2026-08-31 15:57 |
+| file | `Prompts/2026-08-31 Senior Year Summer Work Organization.md` | 1000 | 2026-08-31 15:19 |
+| folder | `School` | 4096 | 2026-05-11 16:38 |
+| file | `School/Home.md` | 793 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem` | 4096 | 2026-05-18 20:01 |
+| file | `School/Junior Year (2025-2026)/AP Chem/AP Chem FRQ & MCQ Reference Guide.md` | 43062 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/FRQs.md` | 195 | 2026-05-18 20:01 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Images` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 1` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 1/aufbau_orbital_filling.svg` | 6912 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 1/coulombs_law_ionic.svg` | 4780 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 1/mass_spectrum_weighted_average.svg` | 3803 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 1/periodic_trends.svg` | 6679 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 1/pes_spectrum_nitrogen.svg` | 4807 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 2` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 2/alloy_types_u2.svg` | 7659 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 2/bond_order_strength_u2.svg` | 6623 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 2/ionic_brittleness_u2.svg` | 11343 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 2/ionic_lattice_structure_u2.svg` | 8254 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 2/metallic_bonding_properties_u2.svg` | 9850 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 2/molecular_polarity_u2.svg` | 9119 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 3` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 3/beers_law_errors_u3.svg` | 4947 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 3/em_spectrum_u3.svg` | 5981 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 3/gaslaws_separation_u3.svg` | 8705 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 3/imf_ranking_u3.svg` | 7784 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 3/maxwell_boltzmann_u3.svg` | 4693 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 3/solids_types_u3.svg` | 7885 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 4` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 4/activity_series_u4.svg` | 5492 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 4/redox_overview_u4.svg` | 7049 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 4/solubility_rules_u4.svg` | 4760 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 5` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 5/arrhenius_u5.svg` | 4945 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 5/energy_profile_u5.svg` | 4935 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 5/integrated_rate_law_u5.svg` | 6178 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 5/mechanism_rules_u5.svg` | 5087 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6/bond_enthalpy_u6.svg` | 6014 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6/calorimetry_u6.svg` | 6011 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6/energy_diagrams_u6.svg` | 6970 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6/enthalpy_diagram_u6.svg` | 6492 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6/formation_enthalpy_u6.svg` | 5640 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6/heating_curve_u6.svg` | 5797 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 6/hess_law_u6.svg` | 6106 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 7` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 7/concentration_time_eq_u7.svg` | 3556 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 7/ice_table_u7.svg` | 3525 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 7/ksp_solubility_u7.svg` | 5844 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 7/le_chatelier_u7.svg` | 5070 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 8` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 8/buffer_action_u8.svg` | 4534 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 8/ph_pka_u8.svg` | 4319 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 8/titration_curve_u8.svg` | 5340 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 8/weak_acid_eq_u8.svg` | 4232 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 9` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 9/Pasted image 20260416133918.png` | 183663 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 9/Pasted image 20260416140029.png` | 341307 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 9/galvanic_cell_u9.svg` | 6525 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Images/Unit 9/thermodynamic_triangle_u9.svg` | 5490 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Obsidian Chemistry Notation Guide.md` | 4755 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Skills` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Skills/Notes from Video.md` | 17786 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Skills/Progress Check Skill.md` | 25111 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Study Hub` | 4096 | 2026-08-27 23:43 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/AP Chem Master Overview.md` | 18051 | 2026-08-27 23:43 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Memorization` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Memorization/Must Memorize.md` | 11758 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ Worked Solutions.md` | 33325 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-32-38 AP Classroom.png` | 138355 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-32-59 AP Classroom.png` | 135945 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-05 AP Classroom.png` | 136633 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-14 AP Classroom.png` | 142582 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-22 AP Classroom.png` | 121183 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-26 AP Classroom.png` | 139511 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-31 AP Classroom.png` | 140961 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-40 AP Classroom.png` | 137771 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-44 AP Classroom.png` | 109133 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-52 AP Classroom.png` | 149507 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-33-57 AP Classroom.png` | 137090 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-34-04 AP Classroom.png` | 129995 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-34-10 AP Classroom.png` | 113589 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-34-17 AP Classroom.png` | 153423 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam FRQ/Screenshot 2026-05-04 at 20-34-20 AP Classroom.png` | 135808 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ Worked Solutions.md` | 40682 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-25-46 AP Classroom.png` | 48472 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-25-51 AP Classroom.png` | 94201 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-25-55 AP Classroom.png` | 93845 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-00 AP Classroom.png` | 100861 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-04 AP Classroom.png` | 107897 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-08 AP Classroom.png` | 116049 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-12 AP Classroom.png` | 74214 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-16 AP Classroom.png` | 78000 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-27 AP Classroom.png` | 126651 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-34 AP Classroom.png` | 136009 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-38 AP Classroom.png` | 118487 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-43 AP Classroom.png` | 87466 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-46 AP Classroom.png` | 93498 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-50 AP Classroom.png` | 130942 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-53 AP Classroom.png` | 119195 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-26-57 AP Classroom.png` | 148916 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-01 AP Classroom.png` | 148141 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-05 AP Classroom.png` | 146355 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-09 AP Classroom.png` | 151273 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-13 AP Classroom.png` | 81670 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-17 AP Classroom.png` | 96087 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-23 AP Classroom.png` | 130621 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-26 AP Classroom.png` | 52639 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-30 AP Classroom.png` | 110659 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-34 AP Classroom.png` | 133412 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-37 AP Classroom.png` | 148480 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-42 AP Classroom.png` | 152281 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-45 AP Classroom.png` | 162129 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-48 AP Classroom.png` | 56056 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-54 AP Classroom.png` | 103013 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-27-58 AP Classroom.png` | 66352 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-01 AP Classroom.png` | 48735 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-05 AP Classroom.png` | 76468 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-10 AP Classroom.png` | 120169 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-13 AP Classroom.png` | 170681 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-17 AP Classroom.png` | 149629 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-21 AP Classroom.png` | 160263 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-29 AP Classroom.png` | 164825 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-34 AP Classroom.png` | 80780 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-37 AP Classroom.png` | 84736 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-41 AP Classroom.png` | 90733 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-45 AP Classroom.png` | 93123 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-49 AP Classroom.png` | 104849 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-55 AP Classroom.png` | 109553 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-28-58 AP Classroom.png` | 104609 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-29-02 AP Classroom.png` | 94448 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-29-06 AP Classroom.png` | 99148 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-29-10 AP Classroom.png` | 102935 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-29-15 AP Classroom.png` | 75296 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Study Hub/Practice Exam MCQ/Screenshot 2026-05-04 at 20-29-23 AP Classroom.png` | 89989 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/PC FRQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/PC FRQ/Screenshot 2026-05-04 at 12-13-12 AP Classroom.png` | 110629 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/PC FRQ/Screenshot 2026-05-04 at 12-13-25 AP Classroom.png` | 124027 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/PC FRQ/Screenshot 2026-05-04 at 12-13-35 AP Classroom.png` | 139696 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/PC FRQ/Screenshot 2026-05-04 at 12-13-41 AP Classroom.png` | 116115 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/Unit 1 Examples.md` | 20581 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/Unit 1 Notes.md` | 25301 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 1/Unit 1 Progress Check.md` | 28385 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/PC FRQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/PC FRQ/Screenshot 2026-05-04 at 12-15-56 AP Classroom.png` | 122041 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/PC FRQ/Screenshot 2026-05-04 at 12-16-21 AP Classroom.png` | 119524 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/PC FRQ/Screenshot 2026-05-04 at 12-16-30 AP Classroom.png` | 135176 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/PC FRQ/Screenshot 2026-05-04 at 12-16-35 AP Classroom.png` | 121038 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/Unit 2 Examples.md` | 25615 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/Unit 2 Notes.md` | 31612 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 2/Unit 2 Progress Check.md` | 14835 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/PC FRQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/PC FRQ/Screenshot 2026-05-04 at 12-17-02 AP Classroom.png` | 152518 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/PC FRQ/Screenshot 2026-05-04 at 12-17-07 AP Classroom.png` | 120098 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/PC FRQ/Screenshot 2026-05-04 at 12-17-13 AP Classroom.png` | 141871 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/PC FRQ/Screenshot 2026-05-04 at 12-17-18 AP Classroom.png` | 131111 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/Unit 3 Examples.md` | 40032 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/Unit 3 Notes.md` | 43586 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 3/Unit 3 Progress Check.md` | 32856 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/PC FRQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/PC FRQ/Screenshot 2026-05-04 at 12-17-45 AP Classroom.png` | 147004 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/PC FRQ/Screenshot 2026-05-04 at 12-17-52 AP Classroom.png` | 135602 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/PC FRQ/Screenshot 2026-05-04 at 12-18-00 AP Classroom.png` | 134157 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/PC FRQ/Screenshot 2026-05-04 at 12-18-05 AP Classroom.png` | 119302 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/Unit 4 Examples.md` | 32499 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/Unit 4 Notes.md` | 43334 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 4/Unit 4 Progress Check.md` | 28290 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/PC FRQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/PC FRQ/Screenshot 2026-05-04 at 12-18-33 AP Classroom.png` | 146494 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/PC FRQ/Screenshot 2026-05-04 at 12-18-37 AP Classroom.png` | 141286 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/PC FRQ/Screenshot 2026-05-04 at 12-18-42 AP Classroom.png` | 166273 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/PC FRQ/Screenshot 2026-05-04 at 12-18-53 AP Classroom.png` | 133683 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/PC FRQ/Screenshot 2026-05-04 at 12-19-03 AP Classroom.png` | 151410 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/PC FRQ/Screenshot 2026-05-04 at 12-19-06 AP Classroom.png` | 116624 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/Unit 5 Examples.md` | 18722 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/Unit 5 Notes.md` | 31385 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 5/Unit 5 Progress Check.md` | 37366 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/PC FRQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/PC FRQ/Screenshot 2026-05-04 at 12-19-34 AP Classroom.png` | 142903 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/PC FRQ/Screenshot 2026-05-04 at 12-19-39 AP Classroom.png` | 131762 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/PC FRQ/Screenshot 2026-05-04 at 12-19-44 AP Classroom.png` | 143871 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/PC FRQ/Screenshot 2026-05-04 at 12-19-50 AP Classroom.png` | 112239 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/Unit 6 Examples.md` | 38736 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/Unit 6 Notes.md` | 33638 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 6/Unit 6 Progress Check.md` | 29323 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/PC FRQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/PC FRQ/Screenshot 2026-05-04 at 12-20-18 AP Classroom.png` | 147823 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/PC FRQ/Screenshot 2026-05-04 at 12-20-22 AP Classroom.png` | 118309 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/PC FRQ/Screenshot 2026-05-04 at 12-20-26 AP Classroom.png` | 146970 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/PC FRQ/Screenshot 2026-05-04 at 12-20-33 AP Classroom.png` | 145217 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/PC FRQ/Screenshot 2026-05-04 at 12-20-47 AP Classroom.png` | 135336 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/Unit 7 Examples.md` | 24591 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/Unit 7 Notes.md` | 27896 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 7/Unit 7 Progress Check.md` | 31191 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/PC FRQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/PC FRQ/Screenshot 2026-05-04 at 12-21-09 AP Classroom.png` | 145496 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/PC FRQ/Screenshot 2026-05-04 at 12-21-19 AP Classroom.png` | 136051 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/PC FRQ/Screenshot 2026-05-04 at 12-21-23 AP Classroom.png` | 119029 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-04 AP Classroom.png` | 111500 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-11 AP Classroom.png` | 111566 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-16 AP Classroom.png` | 106373 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-42 AP Classroom.png` | 56002 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-46 AP Classroom.png` | 85126 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-50 AP Classroom.png` | 98307 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-54 AP Classroom.png` | 53356 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-37-58 AP Classroom.png` | 58960 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-00 AP Classroom.png` | 62041 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-12 AP Classroom.png` | 105031 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-21 AP Classroom.png` | 109389 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-24 AP Classroom.png` | 108630 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-27 AP Classroom.png` | 62545 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-30 AP Classroom.png` | 70259 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-33 AP Classroom.png` | 83019 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-36 AP Classroom.png` | 98622 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-41 AP Classroom.png` | 105102 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-44 AP Classroom.png` | 96202 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-47 AP Classroom.png` | 95597 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-38-55 AP Classroom.png` | 116146 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-00 AP Classroom.png` | 109758 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-05 AP Classroom.png` | 117057 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-09 AP Classroom.png` | 96764 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-17 AP Classroom.png` | 103720 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-22 AP Classroom.png` | 128967 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-26 AP Classroom.png` | 76453 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-29 AP Classroom.png` | 78932 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-32 AP Classroom.png` | 111705 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-35 AP Classroom.png` | 128843 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-39-44 AP Classroom.png` | 122340 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-40-00 AP Classroom.png` | 128311 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-40-03 AP Classroom.png` | 98186 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Progress Check Questions/Screenshot 2026-05-04 at 09-40-17 AP Classroom.png` | 79252 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Unit 8 Examples.md` | 27066 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Unit 8 Notes.md` | 29571 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 8/Unit 8 Progress Check.md` | 34565 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook/Class Notes` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook/Class Notes/4-14-26 "Redox Reactions".md` | 5168 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook/Class Notes/4-15-26 "Galvanic (Voltaic) and Electrolytic Cells".md` | 7664 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook/Class Notes/4-16-26 "Galvanic (Voltaic) Cells & Electrolysis".md` | 6117 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook/Homework` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook/Homework/9.1-9.6 Collegeboard Assignment.md` | 14775 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Notebook/Homework/9.7-9.8 Collegeboard Assignment..md` | 2402 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/PC FRQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/PC FRQ/Screenshot 2026-05-04 at 12-21-45 AP Classroom.png` | 141005 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/PC FRQ/Screenshot 2026-05-04 at 12-21-50 AP Classroom.png` | 126763 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/PC FRQ/Screenshot 2026-05-04 at 12-21-54 AP Classroom.png` | 145495 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/PC FRQ/Screenshot 2026-05-04 at 12-21-59 AP Classroom.png` | 138330 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/PC FRQ/Screenshot 2026-05-04 at 12-22-20 AP Classroom.png` | 145388 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/PC FRQ/Screenshot 2026-05-04 at 12-22-24 AP Classroom.png` | 114508 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-43-56 AP Classroom.png` | 157820 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-07 AP Classroom.png` | 161356 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-12 AP Classroom.png` | 182116 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-19 AP Classroom.png` | 170555 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-22 AP Classroom.png` | 210538 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-27 AP Classroom.png` | 182690 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-31 AP Classroom.png` | 92455 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-34 AP Classroom.png` | 134109 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-37 AP Classroom.png` | 113575 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-39 AP Classroom.png` | 88603 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-42 AP Classroom.png` | 82568 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-45 AP Classroom.png` | 100641 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-54 AP Classroom.png` | 112718 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-44-59 AP Classroom.png` | 137835 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-04 AP Classroom.png` | 137974 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-13 AP Classroom.png` | 110489 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-21 AP Classroom.png` | 160273 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-24 AP Classroom.png` | 114254 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-27 AP Classroom.png` | 70822 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-31 AP Classroom.png` | 123316 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-36 AP Classroom.png` | 80892 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-41 AP Classroom.png` | 147191 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-46 AP Classroom.png` | 166943 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-45-56 AP Classroom.png` | 108129 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-01 AP Classroom.png` | 111805 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-05 AP Classroom.png` | 101319 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-08 AP Classroom.png` | 87245 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-12 AP Classroom.png` | 104575 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-44 AP Classroom.png` | 150578 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-48 AP Classroom.png` | 79022 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-51 AP Classroom.png` | 95667 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-54 AP Classroom.png` | 96390 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Progress Check Questions MCQ/Screenshot 2026-05-04 at 09-46-56 AP Classroom.png` | 92351 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Unit 9 Examples.md` | 20183 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Unit 9 Notes.md` | 37952 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/AP Chem/Units/Unit 9/Unit 9 Progress Check.md` | 50660 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/APUSH Master Study Hub.md` | 6710 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/CLAUDE.md` | 830 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/NoteBook LM Prompts.md` | 5876 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Skills` | 4096 | 2026-07-05 10:43 |
+| file | `School/Junior Year (2025-2026)/APUSH/Skills/DBQ Guide.md` | 5770 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Skills/LEQ Guide.md` | 6086 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Skills/MCQ Stimulus Guide.md` | 6621 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Skills/Progress Check Guide.md` | 5309 | 2026-07-05 10:43 |
+| file | `School/Junior Year (2025-2026)/APUSH/Skills/SAQ Guide.md` | 3940 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Progress Check FRQ` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Progress Check FRQ/Part A` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Progress Check FRQ/Part A/Progress Check 1 FRQ Part A Answers.md` | 4738 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Progress Check FRQ/Part B` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Progress Check FRQ/Part B/Progress Check 1 FRQ Part B Answers.md` | 4967 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Progress Check MCQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Progress Check MCQ/Progress Check 1 MCQ Answers.md` | 31117 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Unit 1 Notes.md` | 17695 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 1/Unit 1 Progress Check.md` | 595 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Progress Check FRQ` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Progress Check FRQ/Part A` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Progress Check FRQ/Part A/Progress Check 2 FRQ Part A Answers.md` | 9340 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Progress Check FRQ/Part B` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Progress Check FRQ/Part B/Progress Check 2 FRQ Part B Answers.md` | 7537 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Progress Check MCQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Progress Check MCQ/Progress Check 2 MCQ Answers.md` | 33607 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Unit 2 Notes.md` | 23083 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 2/Unit 2 Progress Check.md` | 595 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Progress Check FRQ` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Progress Check FRQ/Part A` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Progress Check FRQ/Part A/Progress Check 3 FRQ Part A Answers.md` | 9413 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Progress Check FRQ/Part B` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Progress Check FRQ/Part B/Progress Check 3 FRQ Part B Answers.md` | 6833 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Progress Check MCQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Progress Check MCQ/Progress Check 3 MCQ Answers.md` | 66150 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Unit 3 Notes.md` | 33004 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 3/Unit 3 Progress Check.md` | 597 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check FRQ` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check FRQ/Part A` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check FRQ/Part A/Screenshot 2026-05-07 at 12-39-50 AP Classroom.png` | 267843 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check FRQ/Part A/Screenshot 2026-05-07 at 12-39-54 AP Classroom.png` | 242270 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check FRQ/Part B` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check FRQ/Part B/Screenshot 2026-05-07 at 12-40-07 AP Classroom.png` | 163332 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-00 AP Classroom.png` | 331577 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-03 AP Classroom.png` | 278422 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-06 AP Classroom.png` | 285873 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-09 AP Classroom.png` | 285434 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-12 AP Classroom.png` | 289757 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-15 AP Classroom.png` | 287512 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-22 AP Classroom.png` | 319995 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-25 AP Classroom.png` | 288963 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-30 AP Classroom.png` | 323177 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-33 AP Classroom.png` | 284498 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-36 AP Classroom.png` | 322516 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-41 AP Classroom.png` | 354295 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-46 AP Classroom.png` | 353291 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-49 AP Classroom.png` | 351963 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-51 AP Classroom.png` | 286887 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-37-57 AP Classroom.png` | 291663 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-00 AP Classroom.png` | 287341 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-02 AP Classroom.png` | 416784 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-05 AP Classroom.png` | 432257 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-08 AP Classroom.png` | 419282 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-14 AP Classroom.png` | 322197 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-18 AP Classroom.png` | 339406 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-21 AP Classroom.png` | 337065 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-24 AP Classroom.png` | 301196 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-27 AP Classroom.png` | 280306 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-36 AP Classroom.png` | 308871 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-39 AP Classroom.png` | 273535 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-42 AP Classroom.png` | 164672 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-45 AP Classroom.png` | 174576 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-47 AP Classroom.png` | 158512 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-50 AP Classroom.png` | 155492 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-53 AP Classroom.png` | 158368 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-56 AP Classroom.png` | 174288 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-38-58 AP Classroom.png` | 153075 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 12-39-01 AP Classroom.png` | 147217 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Progress Check MCQ/Screenshot 2026-05-07 at 13-13-29 My Assigned Assignments.png` | 145301 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Unit 4 Notes.md` | 13799 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 4/Unit 4 Progress Check.md` | 597 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part A` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part A/Screenshot 2026-05-07 at 12-43-02 AP Classroom.png` | 412456 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part A/Screenshot 2026-05-07 at 12-43-08 AP Classroom.png` | 161761 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part B` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part B/Screenshot 2026-05-07 at 12-43-31 AP Classroom.png` | 521457 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part B/Screenshot 2026-05-07 at 12-43-40 AP Classroom.png` | 579292 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part C` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check FRQ/Part C/Screenshot 2026-05-07 at 12-44-32 AP Classroom.png` | 178401 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-33 AP Classroom.png` | 310899 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-36 AP Classroom.png` | 307731 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-38 AP Classroom.png` | 311445 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-41 AP Classroom.png` | 343096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-43 AP Classroom.png` | 358625 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-46 AP Classroom.png` | 357335 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-51 AP Classroom.png` | 291047 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-53 AP Classroom.png` | 286141 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-56 AP Classroom.png` | 299679 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-40-59 AP Classroom.png` | 325484 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-01 AP Classroom.png` | 330008 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-04 AP Classroom.png` | 329427 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-06 AP Classroom.png` | 331447 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-09 AP Classroom.png` | 337725 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-12 AP Classroom.png` | 330034 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-16 AP Classroom.png` | 263878 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-22 AP Classroom.png` | 267744 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-25 AP Classroom.png` | 239051 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-33 AP Classroom.png` | 320582 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-35 AP Classroom.png` | 293343 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-38 AP Classroom.png` | 284597 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-41 AP Classroom.png` | 528313 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-45 AP Classroom.png` | 520897 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-51 AP Classroom.png` | 515685 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-54 AP Classroom.png` | 302286 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-41-57 AP Classroom.png` | 307609 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-42-01 AP Classroom.png` | 315629 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-42-04 AP Classroom.png` | 167990 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-42-08 AP Classroom.png` | 142638 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-42-10 AP Classroom.png` | 151847 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-42-12 AP Classroom.png` | 155162 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-42-15 AP Classroom.png` | 140770 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Progress Check MCQ/Screenshot 2026-05-07 at 12-42-18 AP Classroom.png` | 160842 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Unit 5 Notes.md` | 12958 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 5/Unit 5 Progress Check.md` | 597 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ/Part A` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ/Part A/Screenshot 2026-05-07 at 12-44-54 AP Classroom.png` | 158570 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ/Part A/Screenshot 2026-05-07 at 12-45-01 AP Classroom.png` | 294664 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ/Part B` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ/Part B/Screenshot 2026-05-07 at 12-45-33 AP Classroom.png` | 574532 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ/Part B/Screenshot 2026-05-07 at 12-45-44 AP Classroom.png` | 1063638 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check FRQ/Part B/Screenshot 2026-05-07 at 12-45-51 AP Classroom.png` | 910545 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-21 AP Classroom.png` | 279744 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-24 AP Classroom.png` | 296303 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-26 AP Classroom.png` | 299630 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-29 AP Classroom.png` | 515369 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-31 AP Classroom.png` | 476045 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-33 AP Classroom.png` | 487740 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-36 AP Classroom.png` | 300891 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-38 AP Classroom.png` | 303762 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-40 AP Classroom.png` | 305271 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-42 AP Classroom.png` | 418881 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-45 AP Classroom.png` | 430607 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-49 AP Classroom.png` | 411674 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-51 AP Classroom.png` | 429603 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-54 AP Classroom.png` | 453644 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-46-56 AP Classroom.png` | 425133 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-00 AP Classroom.png` | 268534 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-03 AP Classroom.png` | 281504 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-05 AP Classroom.png` | 291433 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-08 AP Classroom.png` | 305875 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-10 AP Classroom.png` | 306694 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-14 AP Classroom.png` | 336865 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-17 AP Classroom.png` | 326614 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-19 AP Classroom.png` | 312658 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-21 AP Classroom.png` | 324676 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-23 AP Classroom.png` | 315972 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-25 AP Classroom.png` | 284051 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-28 AP Classroom.png` | 284279 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-30 AP Classroom.png` | 283386 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-35 AP Classroom.png` | 337771 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-40 AP Classroom.png` | 300595 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-42 AP Classroom.png` | 146374 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-44 AP Classroom.png` | 174694 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-50 AP Classroom.png` | 151339 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-52 AP Classroom.png` | 168037 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-54 AP Classroom.png` | 190643 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Progress Check MCQ/Screenshot 2026-05-07 at 12-47-56 AP Classroom.png` | 172727 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Unit 6 Notes.md` | 14442 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 6/Unit 6 Progress Check.md` | 597 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 7` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 7/Unit 7 Notes.md` | 18840 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 7/Unit 7 Progress Check.md` | 597 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 8` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 8/Unit 8 Notes.md` | 17293 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 8/Unit 8 Progress Check.md` | 597 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/APUSH/Units/Unit 9` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 9/Unit 9 Notes.md` | 10007 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/APUSH/Units/Unit 9/Unit 9 Progress Check.md` | 598 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/Pre-Calc` | 4096 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/Pre-Calc/5-7-26` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/Pre-Calc/5-7-26/4.11 - Modeling with Trigonometry Homework.md` | 4514 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/Pre-Calc/5-7-26/Screenshots` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/Pre-Calc/5-7-26/Screenshots/IMG_5566.jpg` | 1784220 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/Pre-Calc/5-7-26/Screenshots/IMG_5567.jpg` | 1822891 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/Pre-Calc/5-7-26/Screenshots/IMG_5568.jpg` | 1902519 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/Pre-Calc/Chapter 4 Study Guide.md` | 6449 | 2026-05-11 16:38 |
+| folder | `School/Junior Year (2025-2026)/Pre-Calc/Images` | 4096 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/Pre-Calc/Images/graph13_sin_phase.svg` | 2524 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/Pre-Calc/Images/graph14_neg_half_cos.svg` | 2293 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/Pre-Calc/Images/graph15_sin2x_plus1.svg` | 3867 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/Pre-Calc/Images/graph16_csc.svg` | 3334 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/Pre-Calc/Images/graph17_neg2cos_phase.svg` | 2553 | 2026-05-11 16:38 |
+| file | `School/Junior Year (2025-2026)/Pre-Calc/Images/graph18_neg_sec.svg` | 2967 | 2026-05-11 16:38 |
+| folder | `School/Senior Year (2026-2027)` | 4096 | 2026-08-31 15:15 |
+| file | `School/Senior Year (2026-2027)/Home.md` | 800 | 2026-05-11 16:38 |
+| folder | `School/Senior Year (2026-2027)/Summer Work` | 4096 | 2026-08-31 15:19 |
+| folder | `School/Senior Year (2026-2027)/Summer Work/AP Calculus` | 4096 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/AP Calculus/2026 AP Calculus Summer Assignment.pdf` | 484005 | 2026-08-31 15:15 |
+| file | `School/Senior Year (2026-2027)/Summer Work/AP Calculus/Home.md` | 1290 | 2026-08-31 15:19 |
+| folder | `School/Senior Year (2026-2027)/Summer Work/AP Physics` | 4096 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/AP Physics/AP Physics Summer Work.pdf` | 566273 | 2026-08-31 15:15 |
+| file | `School/Senior Year (2026-2027)/Summer Work/AP Physics/Home.md` | 995 | 2026-08-31 15:19 |
+| folder | `School/Senior Year (2026-2027)/Summer Work/English` | 4096 | 2026-08-31 15:19 |
+| folder | `School/Senior Year (2026-2027)/Summer Work/English/A Raisin in the Sun` | 4096 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/A Raisin in the Sun/Assessment Prep.md` | 580 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/A Raisin in the Sun/Character Chart.md` | 194 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/A Raisin in the Sun/Home.md` | 393 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/A Raisin in the Sun/Plot, Themes, and Symbols.md` | 560 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/A Raisin in the Sun/Reading Log.md` | 219 | 2026-08-31 15:19 |
+| folder | `School/Senior Year (2026-2027)/Summer Work/English/Night` | 4096 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/Night/Assessment Prep.md` | 572 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/Night/Character Chart.md` | 197 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/Night/Home.md` | 344 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/Night/Plot, Themes, and Symbols.md` | 572 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/Night/Reading Log.md` | 214 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/Summer Reading Requirements.md` | 1175 | 2026-08-31 15:19 |
+| folder | `School/Senior Year (2026-2027)/Summer Work/English/The Kite Runner` | 4096 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/The Kite Runner/Assessment Prep.md` | 572 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/The Kite Runner/Character Chart.md` | 190 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/The Kite Runner/Home.md` | 378 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/The Kite Runner/Plot, Themes, and Symbols.md` | 580 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/English/The Kite Runner/Reading Log.md` | 214 | 2026-08-31 15:19 |
+| file | `School/Senior Year (2026-2027)/Summer Work/Home.md` | 1590 | 2026-08-31 15:19 |
+| folder | `_Templates` | 4096 | 2026-05-30 17:56 |
+| file | `_Templates/Crew Race Report.md` | 401 | 2026-05-11 16:38 |
+| file | `_Templates/Crew Training Entry.md` | 202 | 2026-05-11 16:38 |
+| file | `_Templates/Entertainment - Album.md` | 183 | 2026-05-11 16:38 |
+| file | `_Templates/Entertainment - Book.md` | 194 | 2026-05-11 16:38 |
+| file | `_Templates/Entertainment - Movie.md` | 173 | 2026-05-11 16:38 |
+| file | `_Templates/Entertainment - TV Show.md` | 226 | 2026-05-11 16:38 |
+| file | `_Templates/Entertainment - Video Game.md` | 214 | 2026-05-11 16:38 |
+| file | `_Templates/Japanese Study Log.md` | 179 | 2026-05-30 17:56 |
+| file | `_Templates/Journal Entry.md` | 734 | 2026-05-11 16:38 |
+| file | `_Templates/Person.md` | 171 | 2026-05-11 16:38 |
+| file | `_Templates/README.md` | 1723 | 2026-05-11 16:38 |
+| folder | `ai-improvement` | 4096 | 2026-08-31 15:57 |
+| file | `ai-improvement/.gitignore` | 202 | 2026-08-09 00:55 |
+| folder | `ai-improvement/.obsidian` | 4096 | 2026-08-09 00:55 |
+| file | `ai-improvement/.obsidian/app.json` | 2 | 2026-08-09 00:55 |
+| file | `ai-improvement/.obsidian/appearance.json` | 2 | 2026-08-09 00:55 |
+| file | `ai-improvement/.obsidian/community-plugins.json` | 20 | 2026-08-09 00:55 |
+| file | `ai-improvement/.obsidian/core-plugins.json` | 696 | 2026-08-09 00:55 |
+| folder | `ai-improvement/.obsidian/plugins` | 4096 | 2026-08-09 00:55 |
+| folder | `ai-improvement/.obsidian/plugins/obsidian-claude-code` | 4096 | 2026-08-09 00:55 |
+| file | `ai-improvement/.obsidian/plugins/obsidian-claude-code/main.js` | 968194 | 2026-08-09 00:55 |
+| file | `ai-improvement/.obsidian/plugins/obsidian-claude-code/manifest.json` | 353 | 2026-08-09 00:55 |
+| file | `ai-improvement/.obsidian/plugins/obsidian-claude-code/styles.css` | 18551 | 2026-08-09 00:55 |
+| folder | `ai-improvement/.obsidian/plugins/obsidian-git` | 4096 | 2026-08-09 00:55 |
+| file | `ai-improvement/.obsidian/plugins/obsidian-git/data.json` | 1819 | 2026-08-09 00:55 |
+| file | `ai-improvement/.obsidian/plugins/obsidian-git/main.js` | 719808 | 2026-08-09 00:55 |
+| file | `ai-improvement/.obsidian/plugins/obsidian-git/manifest.json` | 325 | 2026-08-09 00:55 |
+| file | `ai-improvement/.obsidian/plugins/obsidian-git/styles.css` | 18303 | 2026-08-09 00:55 |
+| file | `ai-improvement/.obsidian/workspace-mobile.json` | 4159 | 2026-08-09 00:55 |
+| file | `ai-improvement/.obsidian/workspace.json` | 7097 | 2026-08-09 00:55 |
+| file | `ai-improvement/2026-07-15-perfect-assistant-thought-dump.md` | 2954 | 2026-08-09 00:55 |
+| file | `ai-improvement/Briefings Roadmap.md` | 1078 | 2026-08-09 00:55 |
+| file | `ai-improvement/Codex Usage and Context Protocol.md` | 5167 | 2026-08-31 15:57 |
+| folder | `ai-improvement/Conversations` | 4096 | 2026-08-25 22:28 |
+| folder | `ai-improvement/Conversations/2026-08-09` | 4096 | 2026-08-09 01:09 |
+| file | `ai-improvement/Conversations/2026-08-09/05-08-12-fdba7ad6.md` | 431279 | 2026-08-09 01:08 |
+| file | `ai-improvement/Conversations/2026-08-09/05-08-31-fdba7ad6.md` | 431656 | 2026-08-09 01:08 |
+| file | `ai-improvement/Conversations/2026-08-09/05-09-24-fdba7ad6.md` | 432301 | 2026-08-09 01:09 |
+| folder | `ai-improvement/Conversations/2026-08-11` | 4096 | 2026-08-10 21:53 |
+| file | `ai-improvement/Conversations/2026-08-11/01-25-33-21258e0b.md` | 265 | 2026-08-10 21:25 |
+| file | `ai-improvement/Conversations/2026-08-11/01-53-16-0ab5f209.md` | 1990 | 2026-08-10 21:53 |
+| folder | `ai-improvement/Conversations/2026-08-12` | 4096 | 2026-08-12 15:09 |
+| file | `ai-improvement/Conversations/2026-08-12/06-52-58-b90f7120.md` | 1803 | 2026-08-12 02:53 |
+| file | `ai-improvement/Conversations/2026-08-12/06-54-05-b90f7120.md` | 2668 | 2026-08-12 02:54 |
+| file | `ai-improvement/Conversations/2026-08-12/06-56-00-b90f7120.md` | 3330 | 2026-08-12 02:56 |
+| file | `ai-improvement/Conversations/2026-08-12/18-50-52-c2d8f9ac.md` | 1634 | 2026-08-12 14:51 |
+| file | `ai-improvement/Conversations/2026-08-12/19-08-18-c2d8f9ac.md` | 219350 | 2026-08-12 15:08 |
+| file | `ai-improvement/Conversations/2026-08-12/19-08-38-c2d8f9ac.md` | 222041 | 2026-08-12 15:08 |
+| file | `ai-improvement/Conversations/2026-08-12/19-09-13-c2d8f9ac.md` | 224511 | 2026-08-12 15:09 |
+| file | `ai-improvement/Conversations/2026-08-12/19-09-15-c2d8f9ac.md` | 226510 | 2026-08-12 15:09 |
+| file | `ai-improvement/Conversations/2026-08-12/19-09-26-c2d8f9ac.md` | 228554 | 2026-08-12 15:09 |
+| file | `ai-improvement/Conversations/2026-08-12/19-09-29-c2d8f9ac.md` | 231177 | 2026-08-12 15:09 |
+| file | `ai-improvement/Conversations/2026-08-12/19-09-31-c2d8f9ac.md` | 233722 | 2026-08-12 15:09 |
+| folder | `ai-improvement/Conversations/2026-08-13` | 4096 | 2026-08-12 22:38 |
+| file | `ai-improvement/Conversations/2026-08-13/02-23-59-2509116e.md` | 1652 | 2026-08-12 22:24 |
+| file | `ai-improvement/Conversations/2026-08-13/02-35-48-2509116e.md` | 16861 | 2026-08-12 22:35 |
+| file | `ai-improvement/Conversations/2026-08-13/02-37-55-2509116e.md` | 19323 | 2026-08-12 22:37 |
+| file | `ai-improvement/Conversations/2026-08-13/02-38-17-2509116e.md` | 19856 | 2026-08-12 22:38 |
+| folder | `ai-improvement/Conversations/2026-08-14` | 4096 | 2026-08-14 16:29 |
+| file | `ai-improvement/Conversations/2026-08-14/04-40-55-7159bb6b.md` | 1186 | 2026-08-14 00:40 |
+| file | `ai-improvement/Conversations/2026-08-14/04-42-54-7159bb6b.md` | 3670 | 2026-08-14 00:42 |
+| file | `ai-improvement/Conversations/2026-08-14/04-43-49-7159bb6b.md` | 5473 | 2026-08-14 00:43 |
+| file | `ai-improvement/Conversations/2026-08-14/06-20-54-7159bb6b.md` | 12973 | 2026-08-14 02:20 |
+| file | `ai-improvement/Conversations/2026-08-14/20-29-17-9acfc90f.md` | 206 | 2026-08-14 16:29 |
+| file | `ai-improvement/Conversations/2026-08-14/20-29-41-9acfc90f.md` | 476 | 2026-08-14 16:29 |
+| folder | `ai-improvement/Conversations/2026-08-16` | 4096 | 2026-08-16 15:24 |
+| file | `ai-improvement/Conversations/2026-08-16/17-28-25-131016e9.md` | 412 | 2026-08-16 13:28 |
+| file | `ai-improvement/Conversations/2026-08-16/17-28-51-131016e9.md` | 760 | 2026-08-16 13:28 |
+| file | `ai-improvement/Conversations/2026-08-16/17-29-48-131016e9.md` | 1764 | 2026-08-16 13:29 |
+| file | `ai-improvement/Conversations/2026-08-16/17-30-40-131016e9.md` | 2066 | 2026-08-16 13:30 |
+| file | `ai-improvement/Conversations/2026-08-16/17-31-29-131016e9.md` | 2494 | 2026-08-16 13:31 |
+| file | `ai-improvement/Conversations/2026-08-16/18-18-02-131016e9.md` | 3581 | 2026-08-16 14:18 |
+| file | `ai-improvement/Conversations/2026-08-16/18-18-59-131016e9.md` | 4242 | 2026-08-16 14:19 |
+| file | `ai-improvement/Conversations/2026-08-16/18-30-54-131016e9.md` | 4636 | 2026-08-16 14:30 |
+| file | `ai-improvement/Conversations/2026-08-16/18-35-23-131016e9.md` | 8451 | 2026-08-16 14:35 |
+| file | `ai-improvement/Conversations/2026-08-16/18-53-39-131016e9.md` | 22973 | 2026-08-16 14:53 |
+| file | `ai-improvement/Conversations/2026-08-16/19-24-33-131016e9.md` | 47883 | 2026-08-16 15:24 |
+| folder | `ai-improvement/Conversations/2026-08-17` | 4096 | 2026-08-17 13:15 |
+| file | `ai-improvement/Conversations/2026-08-17/15-31-25-3b26517c.md` | 2015 | 2026-08-17 11:31 |
+| file | `ai-improvement/Conversations/2026-08-17/16-42-02-3b26517c.md` | 6956 | 2026-08-17 12:42 |
+| file | `ai-improvement/Conversations/2026-08-17/17-05-32-8337d3cb.md` | 24587 | 2026-08-17 13:05 |
+| file | `ai-improvement/Conversations/2026-08-17/17-11-11-8337d3cb.md` | 26970 | 2026-08-17 13:11 |
+| file | `ai-improvement/Conversations/2026-08-17/17-15-49-8337d3cb.md` | 45881 | 2026-08-17 13:15 |
+| folder | `ai-improvement/Conversations/2026-08-19` | 4096 | 2026-08-19 14:22 |
+| file | `ai-improvement/Conversations/2026-08-19/02-05-37-12ef635e.md` | 892 | 2026-08-18 22:05 |
+| file | `ai-improvement/Conversations/2026-08-19/02-07-07-12ef635e.md` | 1985 | 2026-08-18 22:07 |
+| file | `ai-improvement/Conversations/2026-08-19/02-09-44-320b765b.md` | 1855 | 2026-08-18 22:09 |
+| file | `ai-improvement/Conversations/2026-08-19/02-18-49-aa2c710a.md` | 10993 | 2026-08-18 22:18 |
+| file | `ai-improvement/Conversations/2026-08-19/02-23-45-aa2c710a.md` | 39315 | 2026-08-18 22:23 |
+| file | `ai-improvement/Conversations/2026-08-19/02-24-50-aa2c710a.md` | 51580 | 2026-08-18 22:24 |
+| file | `ai-improvement/Conversations/2026-08-19/02-27-00-320b765b.md` | 9232 | 2026-08-18 22:27 |
+| file | `ai-improvement/Conversations/2026-08-19/02-30-31-320b765b.md` | 19391 | 2026-08-18 22:30 |
+| file | `ai-improvement/Conversations/2026-08-19/18-10-08-131016e9.md` | 87703 | 2026-08-19 14:10 |
+| file | `ai-improvement/Conversations/2026-08-19/18-22-13-131016e9.md` | 91906 | 2026-08-19 14:22 |
+| folder | `ai-improvement/Conversations/2026-08-20` | 4096 | 2026-08-20 16:46 |
+| file | `ai-improvement/Conversations/2026-08-20/17-10-19-fb1400cc.md` | 697 | 2026-08-20 13:10 |
+| file | `ai-improvement/Conversations/2026-08-20/20-16-07-fb1400cc.md` | 2655 | 2026-08-20 16:16 |
+| file | `ai-improvement/Conversations/2026-08-20/20-36-36-fb1400cc.md` | 9308 | 2026-08-20 16:36 |
+| file | `ai-improvement/Conversations/2026-08-20/20-45-46-fb1400cc.md` | 14410 | 2026-08-20 16:46 |
+| folder | `ai-improvement/Conversations/2026-08-21` | 4096 | 2026-08-21 00:15 |
+| file | `ai-improvement/Conversations/2026-08-21/03-30-14-fb1400cc.md` | 23391 | 2026-08-20 23:30 |
+| file | `ai-improvement/Conversations/2026-08-21/03-46-33-fb1400cc.md` | 26908 | 2026-08-20 23:46 |
+| file | `ai-improvement/Conversations/2026-08-21/03-47-02-fb1400cc.md` | 29979 | 2026-08-20 23:47 |
+| file | `ai-improvement/Conversations/2026-08-21/03-48-19-fb1400cc.md` | 32739 | 2026-08-20 23:48 |
+| file | `ai-improvement/Conversations/2026-08-21/03-52-39-fb1400cc.md` | 35134 | 2026-08-20 23:52 |
+| file | `ai-improvement/Conversations/2026-08-21/04-07-23-fb1400cc.md` | 37473 | 2026-08-21 00:07 |
+| file | `ai-improvement/Conversations/2026-08-21/04-12-20-fb1400cc.md` | 41192 | 2026-08-21 00:12 |
+| file | `ai-improvement/Conversations/2026-08-21/04-14-53-fb1400cc.md` | 43881 | 2026-08-21 00:15 |
+| folder | `ai-improvement/Conversations/2026-08-22` | 4096 | 2026-08-22 15:28 |
+| file | `ai-improvement/Conversations/2026-08-22/01-54-30-61b65163.md` | 3083 | 2026-08-21 21:54 |
+| file | `ai-improvement/Conversations/2026-08-22/19-14-35-24cc3913.md` | 290 | 2026-08-22 15:14 |
+| file | `ai-improvement/Conversations/2026-08-22/19-15-22-24cc3913.md` | 1588 | 2026-08-22 15:15 |
+| file | `ai-improvement/Conversations/2026-08-22/19-16-51-24cc3913.md` | 3732 | 2026-08-22 15:17 |
+| file | `ai-improvement/Conversations/2026-08-22/19-18-00-24cc3913.md` | 5442 | 2026-08-22 15:18 |
+| file | `ai-improvement/Conversations/2026-08-22/19-21-19-24cc3913.md` | 8010 | 2026-08-22 15:21 |
+| file | `ai-improvement/Conversations/2026-08-22/19-22-25-24cc3913.md` | 10309 | 2026-08-22 15:22 |
+| file | `ai-improvement/Conversations/2026-08-22/19-23-02-24cc3913.md` | 11983 | 2026-08-22 15:23 |
+| file | `ai-improvement/Conversations/2026-08-22/19-23-49-24cc3913.md` | 14466 | 2026-08-22 15:23 |
+| file | `ai-improvement/Conversations/2026-08-22/19-24-51-24cc3913.md` | 15830 | 2026-08-22 15:25 |
+| file | `ai-improvement/Conversations/2026-08-22/19-26-03-24cc3913.md` | 19085 | 2026-08-22 15:26 |
+| file | `ai-improvement/Conversations/2026-08-22/19-28-28-24cc3913.md` | 20379 | 2026-08-22 15:28 |
+| folder | `ai-improvement/Conversations/2026-08-23` | 4096 | 2026-08-23 12:11 |
+| file | `ai-improvement/Conversations/2026-08-23/03-01-00-af2b6243.md` | 3199 | 2026-08-22 23:01 |
+| file | `ai-improvement/Conversations/2026-08-23/16-09-00-f73fff3c.md` | 701 | 2026-08-23 12:09 |
+| file | `ai-improvement/Conversations/2026-08-23/16-09-34-f73fff3c.md` | 1920 | 2026-08-23 12:09 |
+| file | `ai-improvement/Conversations/2026-08-23/16-10-31-f73fff3c.md` | 122315 | 2026-08-23 12:10 |
+| file | `ai-improvement/Conversations/2026-08-23/16-10-51-f73fff3c.md` | 123396 | 2026-08-23 12:11 |
+| folder | `ai-improvement/Conversations/2026-08-26` | 4096 | 2026-08-25 23:22 |
+| file | `ai-improvement/Conversations/2026-08-26/01-15-06-42438e7d.md` | 4180 | 2026-08-25 21:15 |
+| file | `ai-improvement/Conversations/2026-08-26/01-34-46-42438e7d.md` | 8488 | 2026-08-25 21:35 |
+| file | `ai-improvement/Conversations/2026-08-26/02-12-48-27959e68.md` | 888 | 2026-08-25 22:12 |
+| file | `ai-improvement/Conversations/2026-08-26/03-22-05-27959e68.md` | 1502 | 2026-08-25 23:22 |
+| folder | `ai-improvement/Conversations/Claude Export` | 4096 | 2026-08-25 22:29 |
+| folder | `ai-improvement/Conversations/Claude Export/Conversations` | 40960 | 2026-08-25 22:28 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-10-14 — Untitled — 832271a0.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-10-27 — Untitled — 406d3de6.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-03 — Untitled — 01a7e62d.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-03 — Untitled — 9611a0d4.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-18 — Untitled — 29d52757.md` | 499 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-18 — Untitled — e5097638.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-24 — Untitled — 024b5111.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-24 — Untitled — 0c60309b.md` | 944 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-24 — Untitled — 37b01deb.md` | 1033 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-11-24 — Untitled — 60f9b303.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-02 — Untitled — 1688e68d.md` | 772 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-09 — Untitled — 2bca9a61.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-10 — Untitled — 78ed429b.md` | 499 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-11 — Untitled — 92a3de89.md` | 944 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-11 — Untitled — d83af9af.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-12 — Untitled — b23cc8e6.md` | 677 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-13 — Untitled — 89870136.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-13 — Untitled — e8696d46.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-15 — Untitled — 900eeb0c.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-15 — Untitled — 99a6aae2.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-15 — Untitled — 9a8b5f71.md` | 766 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-16 — Untitled — 881a2506.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-16 — Untitled — 962009c5.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-16 — Untitled — bb76062c.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-17 — Untitled — 0120d7e1.md` | 499 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-17 — Untitled — b9579390.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-18 — Untitled — d5a97ee9.md` | 499 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-20 — Untitled — f396df11.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-21 — Untitled — 49dfa81a.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-26 — Untitled — ec285a76.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-28 — Script refactoring for entity removal — cca73cdd.md` | 2799 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-28 — Untitled — 2adaf534.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-31 — Cross-platform mouse passthrough for Godot — 0009d10e.md` | 7359 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-31 — Cross-platform mouse passthrough for Godot — 218e4fcd.md` | 8297 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2025-12-31 — Untitled — 9d8e4078.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-01 — Linux mouse side button autoclicker macro — 9bed6c2c.md` | 35947 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-02 — Fish categorization for clicking game — ca1a98ff.md` | 270255 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-02 — Untitled — 15731093.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-02 — Untitled — 265307dd.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-02 — Untitled — 71b7d88d.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-04 — Fish tier list game redesign — 3bd62097.md` | 16946 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-04 — Untitled — 1ecb051c.md` | 546 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-05 — Untitled — ae164fd8.md` | 411 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-06 — Untitled — 6bd2e3ce.md` | 366 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-06 — Untitled — 96bc557b.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-07 — Untitled — 2f43cc55.md` | 588 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-08 — Untitled — 31511202.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-08 — Untitled — 3ceb0ee2.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-08 — Untitled — cc23556c.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-10 — Untitled — ab518358.md` | 588 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-12 — Untitled — c9c1f11f.md` | 588 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-13 — Untitled — 52e21248.md` | 588 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-15 — Untitled — 0aac5d9b.md` | 677 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-15 — Untitled — 544abac8.md` | 588 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-15 — Untitled — 864db977.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-15 — Untitled — aaedc987.md` | 588 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-16 — Untitled — 3172caf3.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-16 — Untitled — a3d8875f.md` | 499 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-16 — Untitled — e139755b.md` | 499 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-17 — Untitled — 18171dfa.md` | 499 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-21 — Untitled — 14e5956c.md` | 455 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-21 — Untitled — 9b745b95.md` | 412 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-21 — Untitled — e007002b.md` | 6076 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-22 — Untitled — 5ea5d6b2.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-25 — Six islands 30-minute strategy — 6ebe20e0.md` | 4342 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-25 — Untitled — 1d8fe23e.md` | 232 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-25 — Untitled — 2f06651a.md` | 1746 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-25 — Untitled — 33b7f050.md` | 277 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-25 — Untitled — 358ef068.md` | 322 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-25 — Untitled — 75effde3.md` | 366 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-25 — Untitled — 7e3008da.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-26 — Medieval RTS game systems — 399023ba.md` | 7848 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-26 — Mini Empires RTS strategy guide and conquest plan — 06e13ae8.md` | 8119 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-26 — Six Small Islands naval rush strategy — 282f1f52.md` | 51279 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-27 — Untitled — 0f22c2d2.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-27 — Untitled — 89629353.md` | 499 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-27 — Untitled — 8cbe137d.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-27 — Untitled — dbf90772.md` | 766 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-28 — The Conquerors 3 pricing and unit reference — 0ce2ba63.md` | 118026 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-28 — Untitled — c43d31a6.md` | 232 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-01-29 — Untitled — 3a6caced.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-01 — Untitled — 6f3819c8.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-02 — Untitled — 9bd62134.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-03 — Untitled — 157cec77.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-04 — Untitled — 028d71a4.md` | 232 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-05 — Untitled — b66ab3c1.md` | 1567 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-09 — Untitled — 055f32bb.md` | 677 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-12 — Untitled — b570f347.md` | 944 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-12 — Untitled — bf7cce37.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-12 — Untitled — dba24f1f.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-13 — Untitled — 6389b2f8.md` | 499 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-15 — Untitled — fd0dccec.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-20 — Untitled — 07303905.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-20 — Untitled — 670e1eec.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-20 — Untitled — de3541b1.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-20 — Untitled — fc672954.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-21 — Untitled — 54ec2fc5.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-21 — Untitled — 5b6f242e.md` | 944 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-21 — Untitled — e2f64791.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-22 — Untitled — 65ded84e.md` | 1122 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-23 — Untitled — 470d5cbf.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-23 — Untitled — 5339d930.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-23 — Untitled — 76677349.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-23 — Untitled — a85612cd.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-23 — Untitled — b6cd7418.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-23 — Untitled — e76f5d13.md` | 588 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-23 — Untitled — fdb8a436.md` | 855 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-24 — Untitled — cef5b0da.md` | 2190 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-25 — Untitled — 01948f3c.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-25 — Untitled — 69e38fe3.md` | 277 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-25 — Untitled — 744284db.md` | 277 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-25 — Untitled — 7fa536ff.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-25 — Untitled — fc774431.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-27 — Untitled — 3d977e94.md` | 944 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-27 — Untitled — 4c82d804.md` | 766 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-27 — Untitled — 98a8da03.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-27 — Untitled — cd1664b0.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-02-28 — Untitled — fa69d4ce.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-01 — Untitled — 88fbac67.md` | 1478 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-01 — Untitled — dfae7a52.md` | 588 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-01 — Untitled — f07b2e25.md` | 588 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-02 — Untitled — 27b704a7.md` | 232 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-02 — Untitled — ab782f4b.md` | 5259 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-02 — Untitled — aeb5f535.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-02 — Untitled — c448a845.md` | 1300 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-06 — Untitled — 950ce63a.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-07 — Untitled — 57d04426.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-07 — Untitled — aaf9bfe3.md` | 1122 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-07 — Untitled — b08424df.md` | 499 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-08 — Untitled — 094091be.md` | 1033 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-08 — Untitled — 7119305c.md` | 944 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-08 — Untitled — c0d9bdee.md` | 1478 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-09 — Untitled — 02c7b763.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-09 — Untitled — 16477ca0.md` | 588 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-09 — Untitled — 2de6b4ac.md` | 499 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-09 — Untitled — 3cd60307.md` | 588 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-09 — Untitled — 83f885d0.md` | 1211 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-10 — One Piece viewing timeline calculator — 419a0ec2.md` | 29256 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-11 — Untitled — 7a8103f7.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-11 — Untitled — a7ae68b7.md` | 944 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-11 — Untitled — e72b34fb.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-12 — Untitled — 017dd5e7.md` | 1122 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-12 — Untitled — 3ea67847.md` | 4238 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-12 — Untitled — a44c5fe7.md` | 588 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-12 — Untitled — d3c59557.md` | 677 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-13 — Untitled — 5b1fda12.md` | 944 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-13 — Untitled — 99ee9578.md` | 1300 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-14 — TCG as a money making strategy — f6cea894.md` | 29325 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-14 — Untitled — 2d48063e.md` | 1389 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-15 — Finding One Piece TCG booster packs at Walmart — fa602b2d.md` | 2161 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-16 — Cost-efficient single card pack strategy — 0c48b54c.md` | 21324 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-16 — Untitled — fc6a8ec6.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-17 — One Piece TCG booster pricing and market analysis — f61fee3d.md` | 4985 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-17 — Untitled — 3ef62c45.md` | 677 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-17 — Untitled — d57adb84.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-20 — Untitled — e73ce3da.md` | 277 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-21 — ARB monitor startup and VNC connection — 8077da01.md` | 10429 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-21 — Kalshi book pricing anomaly debugging — c354c724.md` | 8941 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-23 — Arbitrage bot session report and project planning — 0c855327.md` | 44611 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-23 — Untitled — 27abbfd9.md` | 277 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-23 — Untitled — 55489a4c.md` | 1567 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-23 — Untitled — 58d8e00c.md` | 454 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-23 — Untitled — 809714d8.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-23 — Untitled — aafaf28d.md` | 1567 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-24 — Government's evolving role 1877-1936 — 28749861.md` | 11464 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-24 — Untitled — 5d83223a.md` | 1033 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-24 — Untitled — bf1ad476.md` | 2990 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-25 — Improving feet out square blades in single sculling — faab535a.md` | 10242 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-25 — Untitled — 62d537c1.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-25 — Untitled — c60b194c.md` | 899 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-26 — Building a grand-scheme folder structure with Claude — d666dfec.md` | 16760 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-26 — Git merge conflict with uncommitted changes — 51837331.md` | 10201 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-26 — Grand Scheme Income Projection — 91359e78.md` | 36218 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-26 — Kalshi arbitrage bot price feed errors — a7a959ca.md` | 4927 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-26 — Monetizing Claude Code for passive income — aef75438.md` | 54080 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-26 — Reconsidering the arbitrage bot project — c81ba896.md` | 6919 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-26 — Starting arb bot daily with Telegram polling — 805c55f4.md` | 24636 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-27 — Downloads folder icon display issue — af7192ca.md` | 5741 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-27 — Reducing Google Antigravity usage consumption — b5b1af9e.md` | 9023 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-27 — Untitled — c2af3a41.md` | 232 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-28 — GitHub repo access and update schedule — 66038c73.md` | 32880 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-28 — Reviewing recent conversation highlights — 852c07fe.md` | 15760 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-29 — Grand Scheme - Income Calculator — 8f969999.md` | 17816 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-29 — eBay developer program account rejection — 7cfbf58c.md` | 68185 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-30 — AP Chemistry FRQ solubility equilibrium walkthrough — a5fbf86f.md` | 5170 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-30 — Grand Scheme v2 eBay comps scraping refactor — 7ca15a65.md` | 35675 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-30 — Next steps for grand scheme and arb bot — f84608c1.md` | 8255 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-30 — Optimizing arb bot for increased daily windows — 63d4dbcd.md` | 13129 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-30 — Setting up GitHub for arb folder — 840991c0.md` | 4274 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-30 — 💬 One Piece Watch Tracker — pick… — e6c7b7fd.md` | 11551 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-31 — Analyzing fictional characters through psychological concepts — abe0f5c5.md` | 24315 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-31 — Interactive income stream calculators for Grand Scheme — 6e31b9ae.md` | 33789 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-31 — Phase 4 development and live trading test — 913cf37f.md` | 19720 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-03-31 — Setting up eBay sniper bot for trading — 40a6062e.md` | 52535 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-02 — Dotnet SDK installation file conflict — 11120e24.md` | 3672 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-02 — Optimizing a $200 income-generation prompt — 738f8997.md` | 32665 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-02 — Twitter link shared — f65b37a2.md` | 6999 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-02 — Untitled — 6d284857.md` | 371 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-03 — Adventures on Kami's island pack pull — 9a1f2b2d.md` | 6259 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-03 — Building a one-man arbitrage empire with Claude — 579018bd.md` | 8063 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-03 — Casual check-in — 5476c764.md` | 535 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-03 — Fetching content from X (Twitter) URLs — 1a9f86bf.md` | 11182 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-03 — Untitled — b625fa1b.md` | 812 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-03 — Upgrading Node.js to version 20 — b3baeb03.md` | 3496 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-04 — Finding accurate prices for graded and ungraded cards — 5b499b03.md` | 6548 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Checking Target and Walmart trading card inventory online — 0c8032ef.md` | 5759 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Creating a backup — 05fd2e8c.md` | 12889 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — D-pad down button not working — 1c21b4b3.md` | 10313 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Dotnet package conflict resolution — 53238b6c.md` | 11715 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Obsidian and Claude integration — da0523ec.md` | 4528 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Setting up Unturned dedicated server on Linux — fe673fee.md` | 33036 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Untitled — 53088c6a.md` | 588 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Untitled — 567be53c.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Untitled — 756d9763.md` | 410 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-05 — Untitled — 9860aa97.md` | 588 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-06 — Character walking without input in modded peak — e90d07be.md` | 12586 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-06 — Obsidian vs reminders app for task management — 5f7278f1.md` | 2387 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-06 — Syncing notes across devices with Claude — 813101b3.md` | 41153 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-07 — Adding Obsidian to panel with AppImage — e1f91f4f.md` | 61919 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-07 — GPG key import error for shiftkey packages — 3dd3e7c9.md` | 47424 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-09 — Creating a git repository for Obsidian — 22f3a0e2.md` | 14340 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-09 — Entropy and Gibbs free energy study guide — bab11de9.md` | 40613 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-10 — Catch flame damage calculation with finger seal — 31b3210d.md` | 6577 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-10 — Finding trading cards at Walmart Supercenter — 32b4a5c2.md` | 3899 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-10 — Grammar corrections for dialogue and punctuation — edd59b65.md` | 17023 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-10 — Pokémon pack pricing lookup — 36aaa645.md` | 7029 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-11 — Complete summary overview — 295260ba.md` | 27075 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-11 — Inventory not saving on TerraFirmaGreg server — e8e058ee.md` | 26286 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-11 — Ready to share ideas — 0cbeadc2.md` | 1322 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-11 — Switching to CachyOS from current system — 30c71927.md` | 112916 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-11 — TikTok's Slash & Free Game explained — 0399bba8.md` | 2614 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-12 — Faith-only wretch build strategy — e297f219.md` | 43790 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-12 — 💬 Since the grand scheme needs a… — 918ac639.md` | 8073 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-13 — Building a card flip game with Claude — d42c2b3e.md` | 18701 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-13 — Card Flip Empire 18-day launch plan — 957cadc9.md` | 8729 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-13 — Finding relevant notes for assignment questions — 0afdb00e.md` | 41500 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-13 — Microphone picking up headset audio — d03f187f.md` | 17515 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-13 — NVMe partition mount error — 5c152178.md` | 13928 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-13 — Post-war America- Cold War to conservative shift — d88769f1.md` | 59564 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-13 — Switching to X11 on CachyOS — 9f304c5a.md` | 10605 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-14 — AirPod fixes for CachyOS — 55472b46.md` | 4837 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-14 — Installing GitHub CLI on Arch Linux — f0852a03.md` | 23036 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-14 — Reformatting first-day laptop notes — a14aaa26.md` | 2892 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-14 — Single key microphone mute with numpad — 175b4ba4.md` | 9106 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-14 — Social psychology vocabulary definitions — 20eff9f4.md` | 4371 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-14 — Trigonometric amplitude and period calculations — 2939beb7.md` | 4083 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-15 — Card flip output for general assistance — 45b40d4c.md` | 5009 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-15 — General assistance request — cf04d088.md` | 34006 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-16 — Adding video screenshots to notes file — 31a997dc.md` | 2687 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-16 — Card flip supply order evaluation — de0d4ded.md` | 4828 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-16 — Just war theory and bioethical principles — 2e11c500.md` | 7937 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-16 — Macbeth study guide and comprehension questions — 4aa6f4e9.md` | 11388 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-16 — Opening card-flip files for Claude prompt — 4c630208.md` | 28158 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-17 — AP Chemistry topic 9.7 and 9.8 notes and skills — 57c06352.md` | 13802 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-17 — Card price scanning and market analysis — 31072a6e.md` | 4372 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-17 — Organizing AP Chemistry notes — 98594fb2.md` | 4551 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-18 — Bridger Western first hour guide — 257cbab1.md` | 280 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-18 — Bridger Western first hour guide — b3f593bf.md` | 12564 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-19 — Grading cards for near mint condition — 987415b0.md` | 5510 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-19 — Intel Arc Graphics 130V-140V vs NVIDIA comparison — 21241a43.md` | 11523 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-19 — J Dilla's Donuts retrospective and track breakdown — 24e762ad.md` | 20840 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-20 — Editing assignment notes for AP exam — 72395098.md` | 37704 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-20 — Updating Assignment.md with answer steps — c4ea78c4.md` | 7574 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-21 — Trigonometric graph verification — be89bf25.md` | 2649 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-23 — Bruno Bucciarati tournament combo guide — 4eb37fb9.md` | 19424 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-23 — Skill card flip empire evaluation — 1b963ff3.md` | 84181 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-24 — AP Chemistry progress check study strategy — ca53e529.md` | 12996 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-24 — Macbeth acts 4 & 5 study guide — 16ab1afe.md` | 26713 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-24 — Telegram bot token security strategy — 3f42100b.md` | 68088 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-25 — Holy Spirit race strategy for mens single sculls — ad5279a6.md` | 2544 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-25 — Ranking Botter Boy Nova's scheme — d9d54119.md` | 14151 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-26 — AP exam study schedule for three subjects — ea09c297.md` | 14696 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-26 — Day trading bot efficiency and examples — 0585165c.md` | 43767 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-26 — Running basics and technique — edb53854.md` | 1932 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-27 — AP Chemistry Unit 1 MCQ practice set — 5bd2bef1.md` | 20580 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-28 — AP Chemistry Unit 3 progress check review — 22308397.md` | 9400 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-28 — AP Chemistry progress check — 141425f3.md` | 56339 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-28 — AP Chemistry progress check — 6117ab60.md` | 6547 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-28 — AP Chemistry progress check — 88ff5c2f.md` | 28406 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-28 — Raid emblem duration in Pokémon GO gyms — d66e1b92.md` | 2432 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-29 — Attribution biases and cultural perspectives — 8d2f5878.md` | 7365 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-29 — Summarizing APUSH Unit 9 headings — 0dc19fa3.md` | 6693 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-29 — Unit 4 trigonometry study guide with worked solutions — a8b95308.md` | 6601 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-30 — Chastity and sacred sexuality in marriage — 876e76fb.md` | 4297 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-30 — Frankenstein's opening letters analysis — 702ae523.md` | 11191 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-04-30 — Trigonometric functions and inverse trigonometry corrections — 0094b0a9.md` | 2222 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-02 — Rowing foot stretcher clip positioning — b6ad441c.md` | 32059 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-03 — AP Chemistry notes and progress tracking — 34828e47.md` | 9043 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-04 — AP Chemistry exam cramming strategy — bfe1dca8.md` | 7065 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-04 — Vocabulary definitions reference — 5a5840bd.md` | 6341 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-05 — Microphone static noise troubleshooting — e19fdb03.md` | 21049 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-05 — Untitled — c0d448ff.md` | 550 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-06 — Dignidad versus humillación en el trabajo — 862cc9f2.md` | 5493 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-06 — Moshi installation script URL issue — 9eb13b48.md` | 41182 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-06 — Trading card collection valuation — 7d532670.md` | 13425 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-06 — Untitled — 0831c3bf.md` | 321 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-08 — Managing rowing blisters before race day — ba05eb1a.md` | 4355 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-08 — Overview of the 11th through 19th amendments — 9e6bcdc6.md` | 2591 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-11 — Learning to solve Rubik's cubes faster — 18ddac69.md` | 3081 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-12 — AP Psych research methods and ethics definitions — d1be6ee8.md` | 6058 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-12 — Religious and biological terminology definitions — c95eb5cd.md` | 7136 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-12 — Thoughts on B — 87cd7619.md` | 10228 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-13 — GPU usage check — 9dfe7782.md` | 6422 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-13 — Understanding test answer explanations — d016c10d.md` | 35662 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-14 — Atlantic County athletes- crew, swimming, and lacrosse since 1970 — 7317eb0f.md` | 10377 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-14 — Maurten bicarb system review — 29761367.md` | 14194 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-15 — Fire Red team with Charmander starter — 5202efac.md` | 14987 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-15 — Managing inflamed acne lesion — a47a5410.md` | 12125 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-15 — Stotesbury V1X race-day prep — d5df0bc1.md` | 3844 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-15 — Time trial race strategy and pre-launch prep — 58ecdf17.md` | 46899 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-16 — Sealed product pricing analysis — c5a89470.md` | 2855 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-16 — Summer training plan for competitive rowing — d8748aa1.md` | 11784 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-17 — Apple Music Plastic Beach day-night cycle video — 5f3c5229.md` | 16917 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-17 — Image resize to 1920 x 1080 — 4fbbeae9.md` | 2247 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-18 — Session 17 project status and preflight setup — 4e278373.md` | 115917 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-20 — Linux architecture and bit version differences — b0133bf9.md` | 6833 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-20 — TCG reselling as a minor- platform options — 8e8369cd.md` | 18545 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-21 — Passive income strategies for a teenage lifeguard — 7007add2.md` | 67241 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-21 — Reading team names from image — c8365e84.md` | 14149 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-22 — Chaos Rising day-one booster haul — bc45828a.md` | 6734 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-22 — Testing connection — 465b130c.md` | 1881 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-23 — Competing at nationals as a junior rower — 655ac05b.md` | 17692 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-25 — One Piece Treasure Cruise crew building — f676d8b0.md` | 29843 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-26 — Fraction simplification error — d18f6dde.md` | 1623 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-26 — Memorizing and practicing short answer questions — 0b9faba8.md` | 12670 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-26 — Prismatic Evolutions SPC flip opportunity — c0a4876b.md` | 9203 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-27 — Prismatic Evolutions Sam's Club drop strategy — 43ff53b9.md` | 15897 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-28 — Installing NVIDIA graphics driver on Linux — a6f03df6.md` | 10252 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-29 — Froakie card grading and pricing assessment — b9612064.md` | 11970 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-29 — Ocean swimming technique for lifeguard training — b757d21f.md` | 8640 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-05-29 — TCGPlayer seller tax requirements and SSN — 0f8e8779.md` | 7809 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-01 — Lesson 3- 1. What is adultery — 5143d009.md` | 5606 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-01 — Vocabulary terms and definitions — d1bd0c02.md` | 6424 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-02 — Laptop lid scratches and scuff marks — 06a5e26e.md` | 8071 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-02 — OPTC team building advice — 548f01f6.md` | 8299 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-02 — TCGPlayer profit calculation for card flip — bece60dc.md` | 12486 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-02 — Target Pokémon card drop Thursday — e65de644.md` | 7203 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-03 — Historical events across four cities and decades — 0d5efcba.md` | 5676 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-03 — Hybrid nose bridge replacement options — f3a5ca50.md` | 4496 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-04 — AI use, academic integrity, and human development — 90a18ae4.md` | 23613 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-05 — Pokemon Go spoofing on Linux — 8ece43ea.md` | 13159 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-07 — Recovering from swim panic before lifeguard tryouts — 0563baf4.md` | 7837 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-07 — Scaling a TCG reselling business as a minor — af2cd59f.md` | 27154 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-09 — TC3 units and buildings information — 2e492fcb.md` | 83129 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-10 — Finding VHL activity quizlets — a77f099d.md` | 19337 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-10 — Gun rights debate preparation — fd8020d0.md` | 4100 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-12 — Best -The Odyssey- translations ranked — e3e70535.md` | 2809 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-12 — Maximum buy price for reselling — 10e575c6.md` | 5331 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-12 — Moonbreon pull rates in Prismatic Evolutions — 322e7889.md` | 3259 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-13 — Increasing UI text scaling in Mcreator — 473a3ecc.md` | 7860 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-13 — YouTube video analysis with Claude — c66bd720.md` | 39967 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-14 — Fagles' Odyssey book 1 opening analysis — d75a7099.md` | 15117 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-14 — Impostor strategies for 6-player Among Us — a9f714ba.md` | 2633 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-14 — NGU Idle attack damage comparison — 9df79ee1.md` | 92600 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-15 — Monetizing a 1000-player Minecraft tournament server — ce985844.md` | 147803 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-16 — Comparing classic literary works — dc5f360e.md` | 2584 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-18 — Google Forms unlocker script functionality — b5e19e92.md` | 7888 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-18 — Official colored One Piece version — 0edf90c9.md` | 7064 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-19 — Competitive Smash control bindings — 7cb6f865.md` | 8106 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-19 — Council skill development — a9f2e960.md` | 18845 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-19 — Summer income opportunities and long-term plans — dc9b50b5.md` | 65875 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-20 — Crafting a compelling answer for jewelry store sales role — 74618c7d.md` | 4068 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-20 — Untitled — f6086c5e.md` | 793 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-21 — Achieving a 9.9 mural score in classic mode — cab6578d.md` | 2936 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-22 — Free music player with local files support — 5070cef0.md` | 11342 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-22 — Untitled — f2a3f609.md` | 727 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-23 — Email to teachers about Catholic University connection — 87180174.md` | 6832 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-23 — Gemcorn growth conditions in Terraria — 3262603e.md` | 8929 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-23 — TCGPlayer store name ideas — 53f14843.md` | 4666 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-24 — Calamity mod ranger guide through Moon Lord — 1f4c2e62.md` | 48481 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-24 — Onyx blaster effectiveness evaluation — 4999e0ea.md` | 4671 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-25 — Chaos Rising booster bundle investment strategy — f02f634e.md` | 14348 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-25 — Replacing a frayed DualSense rubber cap — eec92d6a.md` | 6026 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-27 — Analyzing Instagram reels with Claude Code — a0c7f2d0.md` | 39122 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-28 — Obtaining sextant in Calamity mod — d297dd43.md` | 2064 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-28 — Untitled — 7c282d68.md` | 1528 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-06-30 — Email to college admissions counselor — d4fd03dc.md` | 1826 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-02 — Transferring Claude code tasks to Opus — e28e74ba.md` | 35422 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-03 — Building Jarvis with Claude prompts — 5395641f.md` | 6722 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-04 — Omnigun viability against Golem — fbd105bd.md` | 13821 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-05 — Identifying a common wart — e6609955.md` | 2056 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-05 — Periodized rowing training plan for 2026-2027 season — ecfc797e.md` | 31539 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-05 — Summer and crew season workout guide — 2355a88d.md` | 6807 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-09 — Magic storage and recipe browser mod combination — 45bc1f30.md` | 3380 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-10 — Clipping software for CachyOS — d50897fd.md` | 19516 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-10 — Untitled — a81994bc.md` | 17866 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-13 — Listing TCGPlayer cards with condition disclosure — 5095176e.md` | 31297 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-19 — TikTok screen recording notifications — 03cb418d.md` | 1586 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-21 — Shipping labels for booster bundle orders — 654c10e4.md` | 46290 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-23 — Cartridge recognition and damage troubleshooting — de9bc5a6.md` | 7421 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-27 — SteelSeries competitive gaming peripherals — 7ad5876d.md` | 66512 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-30 — 💬 what. has the best resell pote… — 40d5590d.md` | 4416 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-07-31 — Prismatic ETB and Chaos Rising booster sales — ef6e9c78.md` | 16035 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-01 — Email to director about course schedule and AP Finance — f4405271.md` | 1745 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-01 — Understanding decile class rankings — 99cccbd5.md` | 8162 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-02 — Ranking college essay ideas on potential — a16c0faa.md` | 36911 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-03 — Sentient robots and citizenship rights — ff0f20e5.md` | 12545 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-06 — Ethernet cable length for upstairs computer — cf4b2263.md` | 2789 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-07 — Curly hair cut for oval face shape — d69a5c68.md` | 8285 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-10 — Cryptocurrency arbitrage bot scam — 46fc551e.md` | 5565 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-11 — Finding an iconic Minecraft username — d31acfc3.md` | 101378 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-11 — Metallurgy age ore coordinates and mining tips — a0fb123c.md` | 19773 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-12 — Fantasy football matchup analysis — b12f6805.md` | 2915 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-14 — Golf scorecard totals verification — bf27fec2.md` | 6958 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-14 — Optimal climate for primitive age survival — 8783650d.md` | 80965 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-14 — Rarest cape — b08aaa09.md` | 3706 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-14 — Wood pairing with rhyolite bricks — 55a4c7de.md` | 17750 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-16 — Polycaprolactam terrafirmagreg — 257bdc40.md` | 7361 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-18 — Casual greeting exchange — 2d0e4310.md` | 3472 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-18 — Running ethernet cable between floors without drilling — 6b3645a6.md` | 9212 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-19 — Sloop base location and progression resources — 6a1a1cc3.md` | 101191 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-22 — TerraFirmaGreg-Modern server pack updates — 6db6cfb5.md` | 4082 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-23 — Competitive Melee controller recommendations — ba44906d.md` | 28516 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-23 — Growing grapes at home — 410c2a79.md` | 3276 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-24 — Claude compatibility with CachyOS Linux — a6fcce5e.md` | 2528 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-25 — Melee.tv — 1187376b.md` | 53973 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Conversations/2026-08-26 — Converting child account to regular account — d78832b8.md` | 6033 | 2026-08-25 22:31 |
+| file | `ai-improvement/Conversations/Claude Export/Home.md` | 58311 | 2026-08-25 22:31 |
+| folder | `ai-improvement/Conversations/Claude Export/Raw` | 4096 | 2026-08-25 22:29 |
+| file | `ai-improvement/Gotchas.md` | 5355 | 2026-08-31 15:57 |
+| file | `ai-improvement/Home.md` | 1994 | 2026-08-31 15:57 |
+| file | `ai-improvement/Key Decisions.md` | 3520 | 2026-08-31 15:57 |
+| file | `ai-improvement/Low-Usage Video Review Workflow.md` | 4125 | 2026-08-28 23:56 |
+| file | `ai-improvement/Mail and Calendar Recommendations.md` | 3055 | 2026-08-09 00:55 |
+| folder | `ai-improvement/Memory-Export` | 4096 | 2026-08-25 22:33 |
+| file | `ai-improvement/Memory-Export/Albums.md` | 33092 | 2026-08-25 21:12 |
+| file | `ai-improvement/Memory-Export/Claude Memory Candidate Review.md` | 3541 | 2026-08-25 22:33 |
+| file | `ai-improvement/Memory-Export/DELTARUNE.md` | 14926 | 2026-08-25 21:12 |
+| file | `ai-improvement/Memory-Export/Home.md` | 686 | 2026-08-25 21:12 |
+| file | `ai-improvement/Memory-Export/Obsidian.md` | 1119583 | 2026-08-25 21:12 |
+| file | `ai-improvement/Memory-Export/Prompt Archive.md` | 251179 | 2026-08-25 21:12 |
+| file | `ai-improvement/Memory-Export/card-flip.md` | 65237 | 2026-08-25 21:12 |
+| file | `ai-improvement/Memory-Export/chiron.md` | 54857 | 2026-08-25 21:12 |
+| file | `ai-improvement/Memory-Export/donovan.md` | 344806 | 2026-08-25 21:12 |
+| file | `ai-improvement/Memory-Export/jarvis.md` | 856 | 2026-08-25 21:12 |
+| file | `ai-improvement/Memory-Export/personal.md` | 217190 | 2026-08-25 21:12 |
+| file | `ai-improvement/Memory-Export/pytheas.md` | 583221 | 2026-08-25 21:12 |
+| file | `ai-improvement/North Star.md` | 4483 | 2026-08-27 23:35 |
+| file | `ai-improvement/Pytheas Capability Map.md` | 2273 | 2026-08-27 23:35 |
+| folder | `ai-improvement/Research` | 4096 | 2026-08-09 00:55 |
+| file | `ai-improvement/Research/Research-Capability Tooling Scouting (2026-08-07).md` | 5898 | 2026-08-09 00:55 |
+| folder | `ai-improvement/archive` | 4096 | 2026-08-09 00:55 |
+| file | `ai-improvement/archive/continue-2026-07-06.md` | 2199 | 2026-08-09 00:55 |
+| folder | `ai-improvement/capability-scouting` | 4096 | 2026-08-09 00:55 |
+| folder | `ai-improvement/capability-scouting/2026-07-06` | 4096 | 2026-08-09 00:55 |
+| file | `ai-improvement/capability-scouting/2026-07-06/2026-07-06-fable5-clone-research.md` | 7974 | 2026-08-09 00:55 |
+| file | `ai-improvement/capability-scouting/2026-07-06/2026-07-06-fable5-clone-test-prompt.md` | 4738 | 2026-08-09 00:55 |
+| folder | `ai-improvement/capability-scouting/2026-07-07` | 4096 | 2026-08-09 00:55 |
+| file | `ai-improvement/capability-scouting/2026-07-07/2026-07-07-blueprint-vault-and-moneymaking.md` | 7906 | 2026-08-09 00:55 |
+| file | `ai-improvement/capability-scouting/2026-07-07/2026-07-07-fable5-clone-content-brand-test-prompt.md` | 5853 | 2026-08-09 00:55 |
+| file | `ai-improvement/capability-scouting/2026-07-07/2026-07-07-fable5-real-system-prompt-capabilities.md` | 4850 | 2026-08-09 00:55 |
+| file | `ai-improvement/capability-scouting/2026-07-07/2026-07-07-sideA-fable5-content-brand-plan.md` | 10715 | 2026-08-09 00:55 |
+| file | `ai-improvement/capability-scouting/2026-07-07/2026-07-07-sideA-fable5-hiragana-plan.md` | 6733 | 2026-08-09 00:55 |
+| folder | `ai-improvement/capability-scouting/2026-07-08` | 4096 | 2026-08-09 00:55 |
+| file | `ai-improvement/capability-scouting/2026-07-08/2026-07-08-jarvis-v4-notebooklm-deep-dive.md` | 7669 | 2026-08-09 00:55 |
+| file | `ai-improvement/capability-scouting/Home.md` | 3154 | 2026-08-09 00:55 |
+| file | `ai-improvement/capability-scouting/Links.md` | 9056 | 2026-08-09 00:55 |
+| file | `ai-improvement/capability-scouting/fable5-clone-persona-v2.md` | 6235 | 2026-08-09 00:55 |
+| file | `ai-improvement/claude-improvement-notes.md` | 25815 | 2026-08-09 00:55 |
+| file | `ai-improvement/claude-session-wrap-2026-06-28.md` | 3475 | 2026-08-09 00:55 |
+| file | `ai-improvement/compounding-loop-money-smart-healthy.md` | 3792 | 2026-08-09 00:55 |
+| file | `ai-improvement/donny-operating-system.md` | 13426 | 2026-08-09 00:55 |
+| file | `ai-improvement/fable-5-launch-prep.md` | 17339 | 2026-08-09 00:55 |
+| file | `ai-improvement/immortal-clone-operating-system.md` | 5593 | 2026-08-09 00:55 |
+| file | `ai-improvement/needs-wants-interview-kit.md` | 4600 | 2026-08-09 00:55 |

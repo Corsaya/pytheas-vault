@@ -4,6 +4,7 @@ set -euo pipefail
 obsidian_root="/home/donovan/Documents/Obsidian"
 atlas_root="/home/donovan/Documents/Obsidian/pytheas/Operations/Vault Atlas"
 vaults=(agonizing-sentience finance learning life pytheas)
+atlas_date="$(date +%F)"
 
 mkdir -p "$atlas_root"
 
@@ -13,7 +14,7 @@ for vault in "${vaults[@]}"; do
   {
     echo '---'
     echo "title: Vault Atlas — $vault"
-    echo 'date: 2026-08-27'
+    echo "date: $atlas_date"
     echo 'type: generated-vault-atlas'
     echo "vault: $vault"
     echo '---'
@@ -63,14 +64,14 @@ overview="$atlas_root/Home.md"
 {
   echo '---'
   echo 'title: Complete Obsidian Vault Atlas'
-  echo 'date: 2026-08-27'
+  echo "date: $atlas_date"
   echo 'type: vault-atlas-index'
   echo 'status: current organized state'
   echo '---'
   echo
   echo '# Complete Obsidian Vault Atlas'
   echo
-  echo 'Current inventory after the 2026-08-27 cross-vault organization. The per-vault notes enumerate every vault-owned folder, file, hidden configuration path, attachment, and symlink. Git object databases are intentionally excluded.'
+  echo "Current inventory generated on $atlas_date after the cross-vault organization. The per-vault notes enumerate every vault-owned folder, file, hidden configuration path, attachment, and symlink. Git object databases are intentionally excluded."
   echo
   echo '| Vault | Folders | Files | Symlinks | Atlas |'
   echo '|---|---:|---:|---:|---|'

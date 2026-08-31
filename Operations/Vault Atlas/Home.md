@@ -1,21 +1,21 @@
 ---
 title: Complete Obsidian Vault Atlas
-date: 2026-08-27
+date: 2026-08-31
 type: vault-atlas-index
 status: current organized state
 ---
 
 # Complete Obsidian Vault Atlas
 
-Current inventory after the 2026-08-27 cross-vault organization. The per-vault notes enumerate every vault-owned folder, file, hidden configuration path, attachment, and symlink. Git object databases are intentionally excluded.
+Current inventory generated on 2026-08-31 after the cross-vault organization. The per-vault notes enumerate every vault-owned folder, file, hidden configuration path, attachment, and symlink. Git object databases are intentionally excluded.
 
 | Vault | Folders | Files | Symlinks | Atlas |
 |---|---:|---:|---:|---|
 | agonizing-sentience | 8 | 17 | 0 | [[agonizing-sentience]] |
 | finance | 25 | 106 | 0 | [[finance]] |
-| learning | 174 | 1301 | 0 | [[learning]] |
+| learning | 190 | 1357 | 0 | [[learning]] |
 | life | 61 | 272 | 0 | [[life]] |
-| pytheas | 25 | 112 | 2 | [[pytheas]] |
+| pytheas | 23 | 118 | 1 | [[pytheas]] |
 
 ## Scope rules
 
