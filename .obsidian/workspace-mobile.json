@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-08-26.md",
+                "file": "Architecture/Pytheas Voices and Briefing Sources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-26"
+              "title": "Pytheas Voices and Briefing Sources"
             }
           }
         ]
@@ -159,6 +159,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,6 +171,11 @@
   },
   "active": "c113c42201b91591",
   "lastOpenFiles": [
+    "Architecture/Pytheas and Chiron Project Map.md",
+    "Operations/Vault Atlas/pytheas.md",
+    "Operations/Vault Atlas/learning.md",
+    "Operations/session-wraps/jarvis-session-wrap-2026-07-01.md",
+    "2026-08-30.md",
     "Ultimate Workspace Roadmap.md",
     "2026-08-26.md",
     "Courses/SAT/Morning Of Review/Morning-of Review.md",
