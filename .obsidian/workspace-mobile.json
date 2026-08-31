@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Pytheas Voices and Briefing Sources.md",
+                "file": "Incubator/2026-08-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pytheas Voices and Briefing Sources"
+              "title": "2026-08-26"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "c113c42201b91591",
   "lastOpenFiles": [
+    "Architecture/Pytheas Voices and Briefing Sources.md",
     "Architecture/Pytheas and Chiron Project Map.md",
     "Operations/Vault Atlas/pytheas.md",
     "Operations/Vault Atlas/learning.md",
